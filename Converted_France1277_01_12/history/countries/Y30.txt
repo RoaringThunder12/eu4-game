@@ -1,0 +1,38 @@
+# Lajinli
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 304
+1433.7.29 = {
+	monarch = {
+		name = "Bayezid"
+		birth_date = 1431.3.26
+		dynasty = "Lajinli"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = embezzler_personality
+	heir = {
+		name = "Aydogdu"
+		monarch_name = "Aydogdu"
+		dynasty = "Lajinli"
+		birth_date = 1431.9.25
+		death_date = 1511.9.25
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 304
+	add_treasury = 20
+	add_prestige = 62
+}

@@ -1,0 +1,37 @@
+# Barsbekid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khazar
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2197
+1438.5.18 = {
+	monarch = {
+		name = "Khatir"
+		birth_date = 1409.2.10
+		dynasty = "Barsbekid"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = kind_hearted_personality
+	heir = {
+		name = "Ötemis"
+		monarch_name = "Ötemis"
+		dynasty = "Barsbekid"
+		birth_date = 1425.8.10
+		death_date = 1505.8.10
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2197
+	add_treasury = 5
+	add_prestige = 176
+}

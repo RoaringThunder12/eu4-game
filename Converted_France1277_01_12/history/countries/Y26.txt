@@ -1,0 +1,26 @@
+# Bektashi Order
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4116
+1442.3.19 = {
+	monarch = {
+		name = "Karadakh"
+		birth_date = 1404.4.25
+		dynasty = "Ilikid"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 4116
+	add_treasury = 1117
+	add_prestige = 341
+}

@@ -1,0 +1,27 @@
+# Slavonia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 131
+1439.6.28 = {
+	monarch = {
+		name = "Sirma"
+		birth_date = 1421.12.24
+		dynasty = "Trencsén"
+		female = yes
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 131
+	add_treasury = 146
+	add_prestige = 44
+}

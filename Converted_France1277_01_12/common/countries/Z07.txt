@@ -1,0 +1,257 @@
+# Sviþjod
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 20 20 145 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	trade_ideas
+	aristocracy_ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Leofric" "Bourguigne" "Esclarmonde" "Arnault" "Hodierne" "Raimbaut" "Guillaumette" "Béatrice" "Eadmær" "Ealhflæd" 
+	"François" "Gisèle" "Inwær" "Leofgifu" "Leofwaru" "Æthelflæd" "Heahberht" "Cwenburg" "Wulfrun" "Amaury" 
+	"Ecgwyn" "Eardwulf" "Ide" "Roger" "Cytelbearn" "Eadflæd" "Ælfmær" "Æthelræda" "Æthelswith" "Orson" 
+	"Euphrosine" "Sigismond" "Blæja" "Adalmode" "Beorhtgifu" "Denise" "Bernard" "Payen" "Æthelmær" "Sybille" 
+	"Maurice" "Æbba" "Eadburg" "Cearl" "Almodis" "Hextilda" "Marthe" "Angelbert" "Perinne" "Adrien" 
+	"Mélusine" "Eve" "Aimery" "Iliana" "Étiennette" "Héloise" "Julienne" "Gerberge" "Cenræd" "Aléarde" 
+	"Ida" "Arncytel" "Everard" "Cristina" "Alix" "Æthelwine" "Eudes" "Isabelle" "Bérengère" "Beorhtgyth" 
+	"Emma" "Cynethryth" "Æthelfrith" "Raymonde" "Élodie" "Wulfhelm" "Aude" "Anne" "Swæfræd" "Adelinde" 
+	"Valeran" "Enguerrand" "Rorgues" "Bonne" "Barthélémi" "Elisabeth" "Anundr" "Ingjald" "Olafr" "Valdar" 
+	"Randver" "Sigurdr" "Ragnarr" "Öysteinn" "Hjalmar" "Édouard" "Érrard" "Étienne" "Adalbert" "Adémar" 
+	"Alain" "Aldebert" "Aldéric" "Alphonse" "Amédée" "Ancel" "André" "Antoine" "Archambaud" "Arnaud" 
+	"Arnoul" "Aubry" "Aymar" "Baudouin" "Benoît" "Bérenger" "Bertrand" "Bohemond" "Boson" "Bouchard" 
+	"Centule" "Charles" "Clotaire" "Ebbon" "Eustache" "Evrard" "Foulques" "Frédéric" "Géraud" "Gargamel" 
+	"Gaucher" "Gaucelin" "Gauthier" "Geoffroy" "Gelduin" "Gilbert" "Gilles" "Godefroy" "Guichard" "Guiges" 
+	"Guilhem" "Guillaume" "Guy" "Hélie" "Hamelin" "Henri" "Herbert" "Hildebert" "Hugues" "Humbert" 
+	"Jacques" "Jaufré" "Jaspert" "Jean" "Josselin" "Jourdain" "Julien" "Léon" "Léonard" "Lothaire" 
+	"Louis" "Loup" "Manassès" "Mathieu" "Nicolas" "Ogier" "Onfroy" "Othon" "Philippe" "Pierre" 
+	"Raoul" "Raymond" "Raynaud" "Renaud" "Richard" "Robert" "Robin" "Rorgon" "Roubaud" "Savary" 
+	"Simon" "Thibault" "Thiébaut" "Thierry" "Thomas" "Yves" }
+monarch_names = {
+	"Leofric #0" = 1
+	"Bourguigne #1" = -19
+	"Esclarmonde #0" = -1
+	"Arnault #3" = 24
+	"Hodierne #0" = -1
+	"Raimbaut #0" = 1
+	"Guillaumette #0" = -1
+	"Béatrice #0" = -1
+	"Eadmær #0" = 1
+	"Ealhflæd #0" = -1
+	"François #0" = 1
+	"Gisèle #0" = -1
+	"Inwær #0" = 1
+	"Leofgifu #0" = -1
+	"Leofwaru #0" = -1
+	"Æthelflæd #0" = -1
+	"Heahberht #0" = 1
+	"Cwenburg #0" = -1
+	"Wulfrun #0" = -1
+	"Amaury #1" = 30
+	"Ecgwyn #0" = -1
+	"Eardwulf #0" = 1
+	"Ide #0" = -1
+	"Roger #0" = 1
+	"Cytelbearn #0" = 1
+	"Eadflæd #0" = -1
+	"Ælfmær #0" = 1
+	"Æthelræda #0" = -1
+	"Æthelswith #0" = -1
+	"Orson #0" = 1
+	"Euphrosine #0" = -1
+	"Sigismond #0" = 1
+	"Blæja #0" = -1
+	"Adalmode #0" = -1
+	"Beorhtgifu #0" = -1
+	"Denise #0" = -1
+	"Bernard #0" = 1
+	"Payen #0" = 1
+	"Æthelmær #0" = 1
+	"Sybille #0" = -1
+	"Maurice #0" = 1
+	"Æbba #0" = -1
+	"Eadburg #0" = -1
+	"Cearl #0" = 1
+	"Almodis #1" = -22
+	"Hextilda #0" = -1
+	"Marthe #0" = -1
+	"Angelbert #0" = 1
+	"Perinne #0" = -1
+	"Adrien #0" = 1
+	"Mélusine #0" = -1
+	"Eve #0" = -1
+	"Aimery #0" = 1
+	"Iliana #0" = -1
+	"Étiennette #1" = -19
+	"Héloise #0" = -1
+	"Julienne #0" = -1
+	"Gerberge #0" = -1
+	"Cenræd #0" = 1
+	"Aléarde #1" = -19
+	"Ida #0" = -1
+	"Arncytel #1" = 21
+	"Everard #0" = 1
+	"Cristina #0" = -1
+	"Alix #0" = -1
+	"Æthelwine #0" = 1
+	"Eudes #1" = 18
+	"Isabelle #0" = -1
+	"Bérengère #0" = -1
+	"Beorhtgyth #0" = -1
+	"Emma #0" = -1
+	"Cynethryth #0" = -1
+	"Æthelfrith #0" = 1
+	"Raymonde #0" = -1
+	"Élodie #0" = -1
+	"Wulfhelm #0" = 1
+	"Aude #0" = -1
+	"Anne #0" = -1
+	"Swæfræd #0" = 1
+	"Adelinde #0" = -1
+	"Valeran #0" = 1
+	"Enguerrand #0" = 1
+	"Rorgues #0" = 1
+	"Bonne #0" = -1
+	"Barthélémi #0" = 1
+	"Elisabeth #0" = -1
+	"Anundr #1" = 0
+	"Ingjald #1" = 0
+	"Olafr #1" = 0
+	"Valdar #1" = 0
+	"Randver #2" = 0
+	"Sigurdr #2" = 0
+	"Ragnarr #2" = 0
+	"Öysteinn #2" = 0
+	"Hjalmar #1" = 0
+	"Édouard #0" = 0
+	"Érrard #0" = 0
+	"Étienne #0" = 0
+	"Adalbert #0" = 0
+	"Adémar #0" = 0
+	"Alain #0" = 0
+	"Aldebert #0" = 0
+	"Aldéric #0" = 0
+	"Alphonse #0" = 0
+	"Amédée #0" = 0
+	"Ancel #0" = 0
+	"André #0" = 0
+	"Antoine #0" = 0
+	"Archambaud #0" = 0
+	"Arnaud #0" = 0
+	"Arnoul #0" = 0
+	"Aubry #0" = 0
+	"Aymar #0" = 0
+	"Baudouin #0" = 0
+	"Benoît #0" = 0
+	"Bérenger #0" = 0
+	"Bertrand #0" = 0
+	"Bohemond #0" = 0
+	"Boson #0" = 0
+	"Bouchard #0" = 0
+	"Centule #0" = 0
+	"Charles #0" = 0
+	"Clotaire #0" = 0
+	"Ebbon #0" = 0
+	"Eustache #0" = 0
+	"Evrard #0" = 0
+	"Foulques #0" = 0
+	"Frédéric #0" = 0
+	"Géraud #0" = 0
+	"Gargamel #0" = 0
+	"Gaucher #0" = 0
+	"Gaucelin #0" = 0
+	"Gauthier #0" = 0
+	"Geoffroy #0" = 0
+	"Gelduin #0" = 0
+	"Gilbert #0" = 0
+	"Gilles #0" = 0
+	"Godefroy #0" = 0
+	"Guichard #0" = 0
+	"Guiges #0" = 0
+	"Guilhem #0" = 0
+	"Guillaume #0" = 0
+	"Guy #0" = 0
+	"Hélie #0" = 0
+	"Hamelin #0" = 0
+	"Henri #0" = 0
+	"Herbert #0" = 0
+	"Hildebert #0" = 0
+	"Hugues #0" = 0
+	"Humbert #0" = 0
+	"Jacques #0" = 0
+	"Jaufré #0" = 0
+	"Jaspert #0" = 0
+	"Jean #0" = 0
+	"Josselin #0" = 0
+	"Jourdain #0" = 0
+	"Julien #0" = 0
+	"Léon #0" = 0
+	"Léonard #0" = 0
+	"Lothaire #0" = 0
+	"Louis #0" = 0
+	"Loup #0" = 0
+	"Manassès #0" = 0
+	"Mathieu #0" = 0
+	"Nicolas #0" = 0
+	"Ogier #0" = 0
+	"Onfroy #0" = 0
+	"Othon #0" = 0
+	"Philippe #0" = 0
+	"Pierre #0" = 0
+	"Raoul #0" = 0
+	"Raymond #0" = 0
+	"Raynaud #0" = 0
+	"Renaud #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Robin #0" = 0
+	"Rorgon #0" = 0
+	"Roubaud #0" = 0
+	"Savary #0" = 0
+	"Simon #0" = 0
+	"Thibault #0" = 0
+	"Thiébaut #0" = 0
+	"Thierry #0" = 0
+	"Thomas #0" = 0
+	"Yves #0" = 0
+}
+ship_names = {
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+}
+

@@ -1,0 +1,27 @@
+# Yeçtirekid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khazar
+religion = sunni
+clear_scripted_personalities = yes
+capital = 299
+1432.2.17 = {
+	monarch = {
+		name = "Barsbek II"
+		birth_date = 1418.1.7
+		dynasty = "Yeçtirekid"
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 299
+	add_treasury = 79
+	add_prestige = 144
+}

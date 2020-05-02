@@ -1,0 +1,26 @@
+# Tegin
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = uyghur
+religion = zoroastrian
+clear_scripted_personalities = yes
+capital = 2360
+1442.3.23 = {
+	monarch = {
+		name = "Yaghïçi"
+		birth_date = 1379.1.17
+		dynasty = "Tegin"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2360
+	add_treasury = 14
+	add_prestige = 56
+}

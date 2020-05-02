@@ -1,0 +1,40 @@
+# Ruthenia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4247
+1428.3.25 = {
+	monarch = {
+		name = "Davyd"
+		birth_date = 1406.2.19
+		dynasty = "of Dubrowna"
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = inspiring_leader_personality
+}
+1436.9.25 = {
+	heir = {
+		name = "Gleb"
+		monarch_name = "Gleb"
+		dynasty = "of Dubrowna"
+		birth_date = 1436.9.25
+		death_date = 1516.9.25
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4247
+	add_treasury = 16
+	add_prestige = 171
+}

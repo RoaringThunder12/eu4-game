@@ -1,0 +1,298 @@
+# Estonia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 150 75 75 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Odo" "Cissa" "Theodwin" "Étienne" "Elbira" "Aldontza" "Emili" "Antsa" "Gartzia" "Kamala" 
+	"Auli" "Oneka" "Rodrigo" "Estefania" "Alfontso" "Egidio" "Étiennette" "Ekbert" "Geilana" "Magnus" 
+	"Theodrada" "Helene" "Herberd" "Anna" "Beatrix" "Bertha" "Marthe" "Thankmar" "Alof" "Bertrada" 
+	"Frédéric" "Péronelle" "Pieter" "Otwin" "Austregisel" "Aurengarde" "Helvis" "Steven" "Konstantzia" "Baudouin" 
+	"Fortun" "Obeko" "Herlinda" "Jeanne" "Savary" "Blanka" "Parand" "Ximena" "Urraka" "Teresa" 
+	"Belasko" "Antso" "Toda" "Ladron" "Munia" "Andregoto" "Kaupo" "Illimar" "Vilimeel" "Venno" 
+	"Atko" "Koit" "Vilitõiv" "Kaur" "Murunza" "Velmayka" "Pivtsay" "Kezhapa" "Viryay" "Chichayka" 
+	"Parush" "Yeremey" "Upurga" "Syudbya" "Noumea" "Tyushten" "Charlemagne" "Aare" "Agul" "Ahas" 
+	"Aho" "Ahti" "Ahvo" "Alar" "Alo" "Alur" "Aopelg" "Aotõiv" "Arp" "Arvet" 
+	"Arvo" "Aul" "Aulemb" "Eeri" "Elmar" "Hain" "Haljas" "Heameel" "Heatõiv" "Hoovatõiv" 
+	"Hurmas" "Hurmetõiv" "Hõimulemb" "Hüvalemb" "Hüvameel" "Hüvatõiv" "Igalemb" "Igapäiv" "Ihalemb" "Ihameel" 
+	"Ihar" "Ihatõiv" "Ihavald" "Ilmalemb" "Ilmar" "Ilvelemb" "Jaolemb" "Kaalep" "Kaarel" "Kaaren" 
+	"Kahar" "Kahru" "Kahrulemb" "Kahus" "Kaido" "Kalev" "Kalju" "Kaljuvald" "Kalle" "Kaomeel" 
+	"Karuvald" "Kaugemeel" "Kiur" "Kiurupelg" "Kosk" "Kudres" "Küllelemb" "Leetõiv" "Lembit" "Leppetõiv" 
+	"Lible" "Lättelemb" "Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" "Mehis" "Meigo" 
+	"Neeme" "Niglas" "Ohetõiv" "Ohevald" "Olev" "Onni" "Otelemb" "Ott" "Pihl" "Piho" 
+	"Pikne" "Päevalemb" "Pärt" "Raak" "Raho" "Rahuleid" "Sulev" "Susi" "Sutemeel" "Sutepelg" 
+	"Tambet" "Tarva" "Tarvet" "Tasulemb" "Toivo" "Toom" "Tunne" "Tutkas" "Tuul" "Tõeleid" 
+	"Tõiv" "Tõivulemb" "Tõll" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" "Vambola" "Vandemeel" 
+	"Varjelemb" "Veli" "Vello" "Vesse" "Vihavald" "Vililemb" "Vilivald" "Vootele" "Väino" "Värvo" 
+	"Õigemeel" "Ülo" }
+monarch_names = {
+	"Odo #0" = 1
+	"Cissa #0" = 1
+	"Theodwin #0" = 1
+	"Étienne #0" = 1
+	"Elbira #0" = -1
+	"Aldontza #0" = -1
+	"Emili #0" = -1
+	"Antsa #0" = -1
+	"Gartzia #2" = 24
+	"Kamala #0" = -1
+	"Auli #0" = -1
+	"Oneka #0" = -1
+	"Rodrigo #2" = 21
+	"Estefania #0" = -1
+	"Alfontso #0" = 1
+	"Egidio #0" = 1
+	"Étiennette #0" = -1
+	"Ekbert #0" = 1
+	"Geilana #0" = -1
+	"Magnus #0" = 1
+	"Theodrada #0" = -1
+	"Helene #0" = -1
+	"Herberd #0" = 1
+	"Anna #0" = -1
+	"Beatrix #0" = -1
+	"Bertha #0" = -1
+	"Marthe #0" = -1
+	"Thankmar #0" = 1
+	"Alof #0" = -1
+	"Bertrada #0" = -1
+	"Frédéric #0" = 1
+	"Péronelle #0" = -1
+	"Pieter #0" = 1
+	"Otwin #0" = 1
+	"Austregisel #0" = 1
+	"Aurengarde #0" = -1
+	"Helvis #0" = -1
+	"Steven #0" = 1
+	"Konstantzia #0" = -1
+	"Baudouin #0" = 1
+	"Fortun #0" = 1
+	"Obeko #0" = 1
+	"Herlinda #0" = -1
+	"Jeanne #0" = -1
+	"Savary #0" = 1
+	"Blanka #0" = -1
+	"Parand #0" = -1
+	"Ximena #0" = -1
+	"Urraka #0" = -1
+	"Teresa #0" = -1
+	"Belasko #0" = 1
+	"Antso #0" = 1
+	"Toda #0" = -1
+	"Ladron #0" = 1
+	"Munia #0" = -1
+	"Andregoto #0" = -1
+	"Kaupo #1" = 0
+	"Illimar #1" = 0
+	"Vilimeel #1" = 0
+	"Venno #1" = 0
+	"Atko #1" = 0
+	"Koit #1" = 0
+	"Vilitõiv #2" = 0
+	"Kaur #1" = 0
+	"Murunza #1" = 0
+	"Velmayka #1" = 0
+	"Pivtsay #1" = 0
+	"Kezhapa #1" = 0
+	"Viryay #2" = 0
+	"Chichayka #1" = -1
+	"Parush #1" = 0
+	"Yeremey #1" = 0
+	"Upurga #1" = -1
+	"Syudbya #1" = 0
+	"Noumea #1" = 0
+	"Tyushten #1" = 0
+	"Charlemagne #1" = 0
+	"Aare #0" = 0
+	"Agul #0" = 0
+	"Ahas #0" = 0
+	"Aho #0" = 0
+	"Ahti #0" = 0
+	"Ahvo #0" = 0
+	"Alar #0" = 0
+	"Alo #0" = 0
+	"Alur #0" = 0
+	"Aopelg #0" = 0
+	"Aotõiv #0" = 0
+	"Arp #0" = 0
+	"Arvet #0" = 0
+	"Arvo #0" = 0
+	"Aul #0" = 0
+	"Aulemb #0" = 0
+	"Eeri #0" = 0
+	"Elmar #0" = 0
+	"Hain #0" = 0
+	"Haljas #0" = 0
+	"Heameel #0" = 0
+	"Heatõiv #0" = 0
+	"Hoovatõiv #0" = 0
+	"Hurmas #0" = 0
+	"Hurmetõiv #0" = 0
+	"Hõimulemb #0" = 0
+	"Hüvalemb #0" = 0
+	"Hüvameel #0" = 0
+	"Hüvatõiv #0" = 0
+	"Igalemb #0" = 0
+	"Igapäiv #0" = 0
+	"Ihalemb #0" = 0
+	"Ihameel #0" = 0
+	"Ihar #0" = 0
+	"Ihatõiv #0" = 0
+	"Ihavald #0" = 0
+	"Ilmalemb #0" = 0
+	"Ilmar #0" = 0
+	"Ilvelemb #0" = 0
+	"Jaolemb #0" = 0
+	"Kaalep #0" = 0
+	"Kaarel #0" = 0
+	"Kaaren #0" = 0
+	"Kahar #0" = 0
+	"Kahru #0" = 0
+	"Kahrulemb #0" = 0
+	"Kahus #0" = 0
+	"Kaido #0" = 0
+	"Kalev #0" = 0
+	"Kalju #0" = 0
+	"Kaljuvald #0" = 0
+	"Kalle #0" = 0
+	"Kaomeel #0" = 0
+	"Karuvald #0" = 0
+	"Kaugemeel #0" = 0
+	"Kiur #0" = 0
+	"Kiurupelg #0" = 0
+	"Kosk #0" = 0
+	"Kudres #0" = 0
+	"Küllelemb #0" = 0
+	"Leetõiv #0" = 0
+	"Lembit #0" = 0
+	"Leppetõiv #0" = 0
+	"Lible #0" = 0
+	"Lättelemb #0" = 0
+	"Manivald #0" = 0
+	"Mart #0" = 0
+	"Maru #0" = 0
+	"Mati #0" = 0
+	"Mats #0" = 0
+	"Meelis #0" = 0
+	"Mehis #0" = 0
+	"Meigo #0" = 0
+	"Neeme #0" = 0
+	"Niglas #0" = 0
+	"Ohetõiv #0" = 0
+	"Ohevald #0" = 0
+	"Olev #0" = 0
+	"Onni #0" = 0
+	"Otelemb #0" = 0
+	"Ott #0" = 0
+	"Pihl #0" = 0
+	"Piho #0" = 0
+	"Pikne #0" = 0
+	"Päevalemb #0" = 0
+	"Pärt #0" = 0
+	"Raak #0" = 0
+	"Raho #0" = 0
+	"Rahuleid #0" = 0
+	"Sulev #0" = 0
+	"Susi #0" = 0
+	"Sutemeel #0" = 0
+	"Sutepelg #0" = 0
+	"Tambet #0" = 0
+	"Tarva #0" = 0
+	"Tarvet #0" = 0
+	"Tasulemb #0" = 0
+	"Toivo #0" = 0
+	"Toom #0" = 0
+	"Tunne #0" = 0
+	"Tutkas #0" = 0
+	"Tuul #0" = 0
+	"Tõeleid #0" = 0
+	"Tõiv #0" = 0
+	"Tõivulemb #0" = 0
+	"Tõll #0" = 0
+	"Tõnn #0" = 0
+	"Uku #0" = 0
+	"Urmas #0" = 0
+	"Uru #0" = 0
+	"Valdur #0" = 0
+	"Vambola #0" = 0
+	"Vandemeel #0" = 0
+	"Varjelemb #0" = 0
+	"Veli #0" = 0
+	"Vello #0" = 0
+	"Vesse #0" = 0
+	"Vihavald #0" = 0
+	"Vililemb #0" = 0
+	"Vilivald #0" = 0
+	"Vootele #0" = 0
+	"Väino #0" = 0
+	"Värvo #0" = 0
+	"Õigemeel #0" = 0
+	"Ülo #0" = 0
+}
+ship_names = {
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

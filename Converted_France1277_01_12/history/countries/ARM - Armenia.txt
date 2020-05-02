@@ -1,0 +1,26 @@
+# Armenia
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = georgian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 419
+1436.5.1 = {
+	monarch = {
+		name = "Dristar"
+		birth_date = 1424.3.23
+		dynasty = "de Ostfriesland"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 419
+	add_treasury = 151
+	add_prestige = 290
+}

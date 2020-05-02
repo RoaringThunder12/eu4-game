@@ -1,0 +1,27 @@
+# Island
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = catholic
+clear_scripted_personalities = yes
+capital = 370
+1413.7.8 = {
+	monarch = {
+		name = "Borkvard"
+		birth_date = 1401.7.12
+		dynasty = "Nerking"
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 370
+	add_treasury = 489
+	add_prestige = 622
+}

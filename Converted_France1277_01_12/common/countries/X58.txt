@@ -1,0 +1,322 @@
+# Armenia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 172 82 55 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	naval_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Asim" "Rabi'a" "Lousin" "Malkhas" "Srpouhi" "Zabel" "Latavri" "Keghanoush" "Mansur" "Tornik" 
+	"Arevig" "Gurgen" "Vahan" "Bagour" "Meghranoush" "Abirad" "Avag" "Leyli" "Khorishah" "Houri" 
+	"Margarita" "Vahag" "Sarkis" "Thoros" "Tigran" "Yahya" "Arin" "Athom" "Varazdat" "Margarid" 
+	"Dalita" "Mushegh" "Vesd" "Aboughamr" "Aghavni" "Razmouhi" "Mukhtar" "Vahram" "Rita" "Mara" 
+	"Gagik" "Zarmihr" "Sirvart" "Almasd" "Vosgi" "Zakare" "Zacharias" "Reshawna" "Sevag" "Siran" 
+	"Vartan" "Baydzar" "Nane" "Vakhtank" "Muslim" "Ishaq" "Bakkar" "Aram" "Isa" "Amir" 
+	"Abd al-Malik" "Sheeftah" "Qawurd" "Jabir" "Ali" "Jahaira" "Shahrbano" "Nafisa" "Mahmud" "Nazani" 
+	"Setara" "Shameem" "Yagana" "Vartanoush" "Hasmig" "Kapriel" "Nyawela" "Husam" "Bahir" "Shujah" 
+	"Shokouh" "Shogofa" "Mirza" "Shola" "Simin" "Abdul-Qadir" "Anahid" "Ashot" "Rasa" "Hagop" 
+	"Levon" "Khaireddin" "Jibril" "Berjanoush" "Hanifa" "Muhammad" "Paywand" "Avedis" "Bagrat" "Vassak" 
+	"Faghira" "Mamigon" "Mzhezh" "Sholah" "Shoushanig" "Atrnerseh" "Adila" "Muzaffaraddin" "Kohar" "Hafiz" 
+	"Gorandoukht" "Ramadan" "Maryam" "Tanaz" "Jalil" "Yeva" "Vagharshak" "Qamara" "Asiya" "Akin" 
+	"Samir" "Fadil" "Rafiqa" "Taliba" "Alim" "Vache" "Sajida" "Samira" "Khosrov" "Shaiban" 
+	"Azam" "Idris" "Arda" "Takouhi" "Kamala" "Hripsimeh" "Hranoush" "Aboulgharib" "Abdul-Wahab" "Shararah" 
+	"Eliz" "Zeyd" "Zaynab" "Fadl" "Anoush" "Vachagan" "Abas" "Datevig" "Rashida" "Taneen" 
+	"Uways" "Abdul" "Khalil" "Arsen" "Sami" "Smbat" "Täbär" "Halil" "Pounig" "Nerseh" 
+	"Sadiq" "Yakta" "Aarif" "Mariyam" "Artavazd" "Hussayn" "Hamazasp" "Berjouhi" "Ghalib" "Himerios" 
+	"Mushel" "Agathe" "Tatoul" "Theodora" "Parween" "Dorotheos" "Zmroukhd" "Abdullah" "Niki" "Valeria" 
+	"Vartouhi" "Vrtanes" "Helene" "Yasmin" "Burhanaddin" "Parand" "Abdul-Jaleel" "Hethum" "Ovsanna" "Maurikios" 
+	"Mihrdat" "Abu-Bakr" "Pelagios" "Seta" "Trdat" "Ishkhan" "Gadar" "Keran" "Sahba" "Eshkhan" 
+	"Melek" "Roupen" "Alitz" "Tiridates" "Axidares" "Parthamasiris" "Balaxš" "Xusrew" "Tiran" "Arshak" 
+	"Pap" "Vramshapuh" "Artashir" "Marwan" "Sa'id" "Al-Mansur" "Sulayman" "Salih" "Aleksandr" "Artashes" 
+	"Bedros" "Boghos" "Davit" "Gevorg" "Gosdantin" "Grigor" "Hovhannes" "Hovsep" "Ivane" "Khachik" 
+	"Manuel" "Margos" "Mikayel" "Mleh" "Oshin" "Sahag" "Shahanshah" "Stepanos" "Tachat" "Taniel" 
+	"Tovmas" }
+monarch_names = {
+	"Asim #0" = 1
+	"Rabi'a #0" = 1
+	"Lousin #0" = -1
+	"Malkhas #2" = 27
+	"Srpouhi #0" = -1
+	"Zabel #0" = -1
+	"Latavri #0" = -1
+	"Keghanoush #0" = -1
+	"Mansur #0" = 1
+	"Tornik #2" = 33
+	"Arevig #0" = -1
+	"Gurgen #1" = 30
+	"Vahan #0" = 1
+	"Bagour #0" = 1
+	"Meghranoush #0" = -1
+	"Abirad #0" = 1
+	"Avag #0" = 1
+	"Leyli #0" = -1
+	"Khorishah #0" = -1
+	"Houri #0" = -1
+	"Margarita #0" = -1
+	"Vahag #0" = 1
+	"Sarkis #0" = 1
+	"Thoros #3" = 33
+	"Tigran #0" = 1
+	"Yahya #0" = 1
+	"Arin #0" = -1
+	"Athom #1" = 18
+	"Varazdat #1" = 24
+	"Margarid #0" = -1
+	"Dalita #0" = -1
+	"Mushegh #0" = 1
+	"Vesd #0" = 1
+	"Aboughamr #1" = 21
+	"Aghavni #0" = -1
+	"Razmouhi #0" = -1
+	"Mukhtar #0" = 1
+	"Vahram #0" = 1
+	"Rita #0" = -1
+	"Mara #0" = -1
+	"Gagik #0" = 1
+	"Zarmihr #1" = 24
+	"Sirvart #0" = -1
+	"Almasd #0" = -1
+	"Vosgi #0" = -1
+	"Zakare #0" = 1
+	"Zacharias #0" = 1
+	"Reshawna #0" = -1
+	"Sevag #0" = 1
+	"Siran #0" = -1
+	"Vartan #0" = 1
+	"Baydzar #0" = -1
+	"Nane #0" = -1
+	"Vakhtank #1" = 24
+	"Muslim #0" = 1
+	"Ishaq #1" = 18
+	"Bakkar #1" = 18
+	"Aram #0" = 1
+	"Isa #0" = 1
+	"Amir #1" = 18
+	"Abd al-Malik #0" = 1
+	"Sheeftah #0" = -1
+	"Qawurd #0" = 1
+	"Jabir #1" = 27
+	"Ali #0" = 1
+	"Jahaira #0" = -1
+	"Shahrbano #0" = -1
+	"Nafisa #0" = -1
+	"Mahmud #0" = 1
+	"Nazani #0" = -1
+	"Setara #0" = -1
+	"Shameem #0" = -1
+	"Yagana #0" = -1
+	"Vartanoush #0" = -1
+	"Hasmig #0" = -1
+	"Kapriel #1" = 24
+	"Nyawela #0" = -1
+	"Husam #0" = 1
+	"Bahir #0" = 1
+	"Shujah #0" = 1
+	"Shokouh #0" = -1
+	"Shogofa #0" = -1
+	"Mirza #0" = 1
+	"Shola #0" = -1
+	"Simin #0" = -1
+	"Abdul-Qadir #0" = 1
+	"Anahid #0" = -1
+	"Ashot #0" = 1
+	"Rasa #0" = -1
+	"Hagop #2" = 30
+	"Levon #0" = 1
+	"Khaireddin #0" = 1
+	"Jibril #0" = 1
+	"Berjanoush #0" = -1
+	"Hanifa #0" = -1
+	"Muhammad #0" = 1
+	"Paywand #0" = -1
+	"Avedis #1" = 30
+	"Bagrat #0" = 1
+	"Vassak #0" = 1
+	"Faghira #0" = -1
+	"Mamigon #0" = 1
+	"Mzhezh #0" = 1
+	"Sholah #0" = -1
+	"Shoushanig #0" = -1
+	"Atrnerseh #1" = 21
+	"Adila #0" = -1
+	"Muzaffaraddin #0" = 1
+	"Kohar #0" = -1
+	"Hafiz #0" = 1
+	"Gorandoukht #0" = -1
+	"Ramadan #0" = 1
+	"Maryam #0" = -1
+	"Tanaz #0" = -1
+	"Jalil #0" = 1
+	"Yeva #0" = -1
+	"Vagharshak #1" = 30
+	"Qamara #0" = -1
+	"Asiya #0" = -1
+	"Akin #0" = 1
+	"Samir #0" = 1
+	"Fadil #0" = 1
+	"Rafiqa #0" = -1
+	"Taliba #0" = -1
+	"Alim #0" = 1
+	"Vache #2" = 27
+	"Sajida #0" = -1
+	"Samira #0" = -1
+	"Khosrov #3" = 21
+	"Shaiban #0" = 1
+	"Azam #0" = 1
+	"Idris #0" = 1
+	"Arda #0" = -1
+	"Takouhi #0" = -1
+	"Kamala #0" = -1
+	"Hripsimeh #0" = -1
+	"Hranoush #0" = -1
+	"Aboulgharib #0" = 1
+	"Abdul-Wahab #0" = 1
+	"Shararah #0" = -1
+	"Eliz #0" = -1
+	"Zeyd #0" = 1
+	"Zaynab #0" = -1
+	"Fadl #0" = 1
+	"Anoush #0" = -1
+	"Vachagan #0" = 1
+	"Abas #0" = 1
+	"Datevig #0" = -1
+	"Rashida #0" = -1
+	"Taneen #0" = -1
+	"Uways #0" = 1
+	"Abdul #0" = 1
+	"Khalil #0" = 1
+	"Arsen #0" = 1
+	"Sami #0" = 1
+	"Smbat #0" = 1
+	"Täbär #0" = 1
+	"Halil #0" = 1
+	"Pounig #0" = -1
+	"Nerseh #0" = 1
+	"Sadiq #0" = 1
+	"Yakta #0" = -1
+	"Aarif #0" = 1
+	"Mariyam #0" = -1
+	"Artavazd #0" = 1
+	"Hussayn #0" = 1
+	"Hamazasp #0" = 1
+	"Berjouhi #0" = -1
+	"Ghalib #0" = 1
+	"Himerios #0" = 1
+	"Mushel #0" = 1
+	"Agathe #0" = -1
+	"Tatoul #1" = 18
+	"Theodora #0" = -1
+	"Parween #0" = -1
+	"Dorotheos #0" = 1
+	"Zmroukhd #0" = -1
+	"Abdullah #0" = 1
+	"Niki #0" = -1
+	"Valeria #0" = -1
+	"Vartouhi #0" = -1
+	"Vrtanes #0" = 1
+	"Helene #0" = -1
+	"Yasmin #0" = -1
+	"Burhanaddin #0" = 1
+	"Parand #0" = -1
+	"Abdul-Jaleel #0" = 1
+	"Hethum #0" = 1
+	"Ovsanna #0" = -1
+	"Maurikios #0" = 1
+	"Mihrdat #0" = 1
+	"Abu-Bakr #0" = 1
+	"Pelagios #0" = 1
+	"Seta #0" = -1
+	"Trdat #0" = 1
+	"Ishkhan #0" = 1
+	"Gadar #0" = -1
+	"Keran #0" = -1
+	"Sahba #0" = -1
+	"Eshkhan #0" = 1
+	"Melek #0" = 1
+	"Roupen #0" = 1
+	"Alitz #0" = -1
+	"Tiridates #3" = 0
+	"Axidares #1" = 0
+	"Parthamasiris #1" = 0
+	"Balaxš #2" = 0
+	"Xusrew #1" = 0
+	"Tiran #1" = 0
+	"Arshak #2" = 0
+	"Pap #1" = 0
+	"Vramshapuh #1" = 0
+	"Artashir #1" = 0
+	"Marwan #1" = 0
+	"Sa'id #1" = 0
+	"Al-Mansur #1" = 0
+	"Sulayman #1" = 0
+	"Salih #1" = 0
+	"Aleksandr #0" = 0
+	"Artashes #0" = 0
+	"Bedros #0" = 0
+	"Boghos #0" = 0
+	"Davit #0" = 0
+	"Gevorg #0" = 0
+	"Gosdantin #0" = 0
+	"Grigor #0" = 0
+	"Hovhannes #0" = 0
+	"Hovsep #0" = 0
+	"Ivane #0" = 0
+	"Khachik #0" = 0
+	"Manuel #0" = 0
+	"Margos #0" = 0
+	"Mikayel #0" = 0
+	"Mleh #0" = 0
+	"Oshin #0" = 0
+	"Sahag #0" = 0
+	"Shahanshah #0" = 0
+	"Stepanos #0" = 0
+	"Tachat #0" = 0
+	"Taniel #0" = 0
+	"Tovmas #0" = 0
+}
+ship_names = {
+	Aramu Argishtis Ararat Ani Artsakh
+	Dvin
+	Erimena
+	Haik Haldi
+	Ishpuinis
+	Kars
+	Lutipri
+	Musasir Menuas Manzikert
+	Parisos
+	"Rusas II"
+	Siwini Selardi "Sarduri I" "Sarduris II"
+	Vaspurakan
+	Yerevan
+}
+

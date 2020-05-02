@@ -1,0 +1,38 @@
+# Yemen
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4280
+1423.8.20 = {
+	monarch = {
+		name = "Ramadan"
+		birth_date = 1393.1.19
+		dynasty = "Solomonid"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Sami"
+		monarch_name = "Sami"
+		dynasty = "Solomonid"
+		birth_date = 1415.4.6
+		death_date = 1495.4.6
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+	add_heir_personality = lawgiver_personality
+}
+1444.11.11 = {
+	capital = 4280
+	add_treasury = 618
+	add_prestige = 331
+}

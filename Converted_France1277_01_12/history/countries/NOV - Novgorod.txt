@@ -1,0 +1,39 @@
+# Novgorod
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = finnish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 311
+1423.6.26 = {
+	monarch = {
+		name = "Tapani II"
+		birth_date = 1411.9.1
+		dynasty = "Karpela"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = malevolent_personality
+}
+1438.1.27 = {
+	heir = {
+		name = "Arvo"
+		monarch_name = "Arvo III"
+		dynasty = "Karpela"
+		birth_date = 1438.1.27
+		death_date = 1518.1.27
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 311
+	add_treasury = 13
+	add_prestige = 211
+}

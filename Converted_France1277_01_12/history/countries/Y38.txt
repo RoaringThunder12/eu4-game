@@ -1,0 +1,27 @@
+# Külid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = uyghur
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 480
+1419.9.4 = {
+	monarch = {
+		name = "Kül"
+		birth_date = 1384.2.9
+		dynasty = "Külid"
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 480
+	add_treasury = -5
+	add_prestige = 199
+}

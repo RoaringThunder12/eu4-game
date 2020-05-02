@@ -1,0 +1,147 @@
+# Gascogne
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 81 30 243 }
+
+
+
+
+leader_names = {
+
+	"Gijsbrecht" "Sicco" "Hendrik" "Gerard" "Steven" "Clementia" "Bertold" "Lutbert" "Adela" "Emmo" 
+	"Margareta" "Agaete" "Beatrijs" "Douwe" "Onna" "Adriaen" "Hilligonda" "Gerolt" "Theodolf" "Isabelle" 
+	"IJsbrand" "Jan" "Katrien" "Jaccobijn" "Pieter" "Roelof" "Blanca" "Ada" "Emma" "Waltrud" 
+	"Walter" "Annelies" "Ermingarde" "Jacco" "Thetburga" "Machtelt" "Yonefij" "Boudewijn" "Swanhildis" "Otto" 
+	"Mathilde" "Hugo" "Sanne" "Gozewijn" "Willemine" "Helena" "Eduard" "Robrecht" "Odelt" "Bartolomeus" 
+	"Rutger" "Alijse" "Badeloge" "Jasminne" "Steyn" "Barend" "Wendelmoet" "Lisebet" "Johanna" "Diederick" 
+	"Lop" "Lope" "Hisham" "Loup" "Matfre" "Agiulf" "Hiltrude" "Childéric" "Fuirechtach" "Henri" 
+	"Arnaud" "Philippe" "Arnoul" "Geoffroy" "Sultiern" "Custent" "Guntram" "Payen" "Gambara" "Arnold" 
+	"Elbira" "Stéphanie" "IJsbrecht" "Landina" "Maior" "Goiswinth" "Alfontso" "Alvar" "Antso" "Aznar" 
+	"Belasko" "Bermudo" "Bernart" "Diego" "Donato" "Egidio" "Eneko" "Erramun" "Fernando" "Fortun" 
+	"Galindo" "Gartzia" "Gilen" "Gontzal" "Herramel" "Joanes" "Ladron" "Luis" "Manrike" "Martín" 
+	"Munio" "Nuño" "Obeko" "Ordoño" "Pelaio" "Piarres" "Ramiro" "Rodrigo" "Vela" "Ximeno" 
+	"Zentulo" }
+monarch_names = {
+	"Gijsbrecht #0" = 1
+	"Sicco #3" = 33
+	"Hendrik #2" = 21
+	"Gerard #0" = 1
+	"Steven #0" = 1
+	"Clementia #0" = -1
+	"Bertold #0" = 1
+	"Lutbert #0" = 1
+	"Adela #0" = -1
+	"Emmo #0" = 1
+	"Margareta #0" = -1
+	"Agaete #0" = -1
+	"Beatrijs #0" = -1
+	"Douwe #0" = 1
+	"Onna #0" = -1
+	"Adriaen #0" = 1
+	"Hilligonda #0" = -1
+	"Gerolt #0" = 1
+	"Theodolf #1" = 21
+	"Isabelle #0" = -1
+	"IJsbrand #0" = 1
+	"Jan #0" = 1
+	"Katrien #0" = -1
+	"Jaccobijn #0" = -1
+	"Pieter #0" = 1
+	"Roelof #0" = 1
+	"Blanca #0" = -1
+	"Ada #0" = -1
+	"Emma #0" = -1
+	"Waltrud #0" = -1
+	"Walter #2" = 21
+	"Annelies #0" = -1
+	"Ermingarde #0" = -1
+	"Jacco #0" = 1
+	"Thetburga #0" = -1
+	"Machtelt #0" = -1
+	"Yonefij #0" = -1
+	"Boudewijn #0" = 1
+	"Swanhildis #0" = -1
+	"Otto #0" = 1
+	"Mathilde #0" = -1
+	"Hugo #0" = 1
+	"Sanne #0" = -1
+	"Gozewijn #0" = 1
+	"Willemine #0" = -1
+	"Helena #0" = -1
+	"Eduard #0" = 1
+	"Robrecht #0" = 1
+	"Odelt #0" = -1
+	"Bartolomeus #0" = 1
+	"Rutger #0" = 1
+	"Alijse #0" = -1
+	"Badeloge #0" = -1
+	"Jasminne #0" = -1
+	"Steyn #0" = 1
+	"Barend #0" = 1
+	"Wendelmoet #0" = -1
+	"Lisebet #0" = -1
+	"Johanna #0" = -1
+	"Diederick #0" = 1
+	"Lop #1" = 0
+	"Lope #1" = 0
+	"Hisham #1" = 0
+	"Loup #1" = 0
+	"Matfre #1" = 0
+	"Agiulf #1" = 0
+	"Hiltrude #1" = -1
+	"Childéric #1" = 0
+	"Fuirechtach #1" = 0
+	"Henri #1" = 0
+	"Arnaud #1" = 0
+	"Philippe #1" = 0
+	"Arnoul #1" = 0
+	"Geoffroy #1" = 0
+	"Sultiern #1" = 0
+	"Custent #1" = 0
+	"Guntram #1" = 0
+	"Payen #1" = 0
+	"Gambara #1" = -1
+	"Arnold #2" = 0
+	"Elbira #1" = -1
+	"Stéphanie #1" = -1
+	"IJsbrecht #1" = 0
+	"Landina #1" = -1
+	"Maior #1" = -1
+	"Goiswinth #1" = -1
+	"Alfontso #0" = 0
+	"Alvar #0" = 0
+	"Antso #0" = 0
+	"Aznar #0" = 0
+	"Belasko #0" = 0
+	"Bermudo #0" = 0
+	"Bernart #0" = 0
+	"Diego #0" = 0
+	"Donato #0" = 0
+	"Egidio #0" = 0
+	"Eneko #0" = 0
+	"Erramun #0" = 0
+	"Fernando #0" = 0
+	"Fortun #0" = 0
+	"Galindo #0" = 0
+	"Gartzia #0" = 0
+	"Gilen #0" = 0
+	"Gontzal #0" = 0
+	"Herramel #0" = 0
+	"Joanes #0" = 0
+	"Ladron #0" = 0
+	"Luis #0" = 0
+	"Manrike #0" = 0
+	"Martín #0" = 0
+	"Munio #0" = 0
+	"Nuño #0" = 0
+	"Obeko #0" = 0
+	"Ordoño #0" = 0
+	"Pelaio #0" = 0
+	"Piarres #0" = 0
+	"Ramiro #0" = 0
+	"Rodrigo #0" = 0
+	"Vela #0" = 0
+	"Ximeno #0" = 0
+	"Zentulo #0" = 0
+}
+

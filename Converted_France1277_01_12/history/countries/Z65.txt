@@ -1,0 +1,26 @@
+# Khuttal
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bolghar
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1968
+1440.7.17 = {
+	monarch = {
+		name = "Saltuk"
+		birth_date = 1420.10.26
+		dynasty = "Abbasid"
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1968
+	add_treasury = 217
+	add_prestige = 620
+}

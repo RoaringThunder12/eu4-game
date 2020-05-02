@@ -1,0 +1,27 @@
+# Vanga
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 564
+1429.3.8 = {
+	monarch = {
+		name = "Chilarai II"
+		birth_date = 1403.5.14
+		dynasty = "Pala"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = sinner_personality
+}
+1444.11.11 = {
+	capital = 564
+	add_treasury = 91
+	add_prestige = 729
+}

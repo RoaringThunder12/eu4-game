@@ -1,0 +1,37 @@
+# Yegorlyk
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = pecheneg
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2417
+1438.7.24 = {
+	monarch = {
+		name = "Kure"
+		birth_date = 1408.6.27
+		dynasty = "Temirid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+	heir = {
+		name = "Konel"
+		monarch_name = "Konel"
+		dynasty = "Temirid"
+		birth_date = 1416.1.27
+		death_date = 1496.1.27
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_heir_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 2417
+	add_treasury = 20
+	add_prestige = 144
+}

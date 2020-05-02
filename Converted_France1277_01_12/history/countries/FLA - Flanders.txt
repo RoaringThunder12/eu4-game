@@ -1,0 +1,27 @@
+# Flanders
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = dutch
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1744
+1428.5.11 = {
+	monarch = {
+		name = "Géraud"
+		birth_date = 1406.2.7
+		dynasty = "de Bachaumont"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 1744
+	add_treasury = 262
+	add_prestige = 204
+}

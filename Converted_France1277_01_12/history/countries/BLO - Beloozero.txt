@@ -1,0 +1,27 @@
+# Veps
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = finnish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1959
+1436.9.11 = {
+	monarch = {
+		name = "Tyyni"
+		birth_date = 1432.2.8
+		dynasty = "of Gauchy"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 1959
+	add_treasury = 32
+	add_prestige = 211
+}

@@ -1,0 +1,27 @@
+# Granada
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 219
+1397.2.28 = {
+	monarch = {
+		name = "Lubb"
+		birth_date = 1384.12.16
+		dynasty = "Vuodi"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 219
+	add_treasury = 70
+	add_prestige = 1058
+}

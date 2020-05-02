@@ -1,0 +1,27 @@
+# Jamtaland
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = catholic
+clear_scripted_personalities = yes
+capital = 10
+1397.1.7 = {
+	monarch = {
+		name = "Fredrik"
+		birth_date = 1387.9.7
+		dynasty = "Nerking"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 10
+	add_treasury = 140
+	add_prestige = 537
+}

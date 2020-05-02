@@ -1,0 +1,26 @@
+# Tao
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = georgian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4303
+1437.10.28 = {
+	monarch = {
+		name = "Pelagios"
+		birth_date = 1398.6.24
+		dynasty = "Kalothetos"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 4303
+	add_treasury = 78
+	add_prestige = 19
+}

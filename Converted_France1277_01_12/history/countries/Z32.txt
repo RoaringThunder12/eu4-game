@@ -1,0 +1,26 @@
+# Franche Comté
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = frankish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 193
+1435.9.20 = {
+	monarch = {
+		name = "Adalbert"
+		birth_date = 1426.10.25
+		dynasty = "de Chaumontois"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = righteous_personality
+}
+1444.11.11 = {
+	capital = 193
+	add_treasury = 100
+	add_prestige = 195
+}

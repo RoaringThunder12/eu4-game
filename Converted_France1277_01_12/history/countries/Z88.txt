@@ -1,0 +1,26 @@
+# Sakala
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1834
+1434.4.9 = {
+	monarch = {
+		name = "Venno"
+		birth_date = 1399.5.3
+		dynasty = "of Fellin"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 1834
+	add_treasury = 3
+	add_prestige = -7
+}

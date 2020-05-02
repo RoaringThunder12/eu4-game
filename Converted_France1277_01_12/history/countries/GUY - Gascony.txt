@@ -1,0 +1,27 @@
+# Gascogne
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = basque
+religion = catholic
+clear_scripted_personalities = yes
+capital = 173
+1426.11.23 = {
+	monarch = {
+		name = "Sicco III"
+		birth_date = 1404.2.19
+		dynasty = "van de Veluwe"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 173
+	add_treasury = 45
+	add_prestige = 146
+}

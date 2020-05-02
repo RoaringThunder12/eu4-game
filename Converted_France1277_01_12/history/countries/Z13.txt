@@ -1,0 +1,28 @@
+# Austerbotn
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4152
+1408.1.16 = {
+	monarch = {
+		name = "Alfrið"
+		birth_date = 1399.3.1
+		dynasty = "af Raumariki"
+		female = yes
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 4152
+	add_treasury = 23
+	add_prestige = 64
+}

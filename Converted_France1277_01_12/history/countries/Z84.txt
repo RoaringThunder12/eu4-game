@@ -1,0 +1,39 @@
+# Pomeralia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = khazar
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2997
+1434.11.4 = {
+	monarch = {
+		name = "Jaroslav"
+		birth_date = 1414.2.25
+		dynasty = "of Shahriar"
+		adm = 6
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = secretive_personality
+}
+1436.1.10 = {
+	heir = {
+		name = "Çat"
+		monarch_name = "Çat"
+		dynasty = "of Shahriar"
+		birth_date = 1436.1.10
+		death_date = 1516.1.10
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2997
+	add_treasury = 70
+	add_prestige = 86
+}

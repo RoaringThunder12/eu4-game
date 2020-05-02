@@ -1,0 +1,26 @@
+# Ghana
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = andalucian
+religion = ibadi
+clear_scripted_personalities = yes
+capital = 2260
+1443.8.18 = {
+	monarch = {
+		name = "Igoumou"
+		birth_date = 1439.12.19
+		dynasty = "Kasseïid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2260
+	add_treasury = 14
+	add_prestige = 15
+}

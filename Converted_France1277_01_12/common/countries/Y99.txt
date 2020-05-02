@@ -1,0 +1,140 @@
+# Para-Lauhitya
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 15 220 80 }
+
+
+
+
+leader_names = {
+
+	"Bhagadatta" "Shurapala" "Devavati" "Ngawang" "Himadrija" "Bhimsingha" "Tongtsen" "Bhavashankari" "Maharshi" "Dattadevi" 
+	"Kelzang" "Konchog" "Pal" "Dronmalön" "Dranga" "Pema" "Lhamgonza" "Koboza" "Yajnavati" "Gangkarwa" 
+	"Laxminath Singh Dev" "Donyö" "Rinchen" "Asima" "Vina" "Nayanadevi" "Yülsung" "Rajadinaj" "Naranarayan" "Amritakala" 
+	"Shivendranarayan" "Sainyabita" "Mahendrani" "Syamadevi" "Kunga" "Pulindaka" "Bibibai" "Vakulamahadevi" "Harasimhadeva" "Devakhadga" 
+	"Raghudev" "Nyendrak" "Zanam" "Tökarma" "Devapala" "Raksita" "Jira" "Thridang" "Choden" "Nyitri" 
+	"Kyidé" "Chatri" "Tsogyal" "Sambhota" "Dagmo" "Driza" "Devitara" "Gopala" "Chukpo" "Lodrö" 
+	"Tsunmotog" "Dechen" "Tridu" "Pushyavarman" "Samudravarman" "Balavarman" "Kalyanavarman" "Ganapativarman" "Mahendravarman" "Narayanavarman" 
+	"Bhutivarman" "Chandramukhavarman" "Sthitavarman" "Susthitavarman" "Supratisthitavarman" "Bhaskaravarman" "Salasthamba" "Vijayasthamba" "Palakastambha" "Kumarastambha" 
+	"Vajradeva" "Harshadeva" "Indrapala" "Pratapnarayan" "Hari Singh" "Roopnarayan" "Dasharathadeva" "Rani" "Maurayadhwaj" "Mahindranarayan" 
+	"Vigrahastambha" "Dharmapala" "Harshapala" "Ratnadhwajpala" "Bhogavati" "Gandharavati" "Vasumati" "Birapala" "Harshavarman" "Bhaskarvarman" 
+	"Bhattamahabahu" "Brahmapala" "Harjjaravarman" "Jayamala" "Jayapala" "Kumarapala" "Pralambha" "Purandelapala" "Ratnapala" "Timgyadeva" 
+	"Tyagasimha" "Ummoka" "Vanamalavarmadeva" "Vijaya" "Virabahu" }
+monarch_names = {
+	"Bhagadatta #0" = 1
+	"Shurapala #1" = 21
+	"Devavati #0" = -1
+	"Ngawang #0" = -1
+	"Himadrija #0" = -1
+	"Bhimsingha #1" = 27
+	"Tongtsen #0" = 1
+	"Bhavashankari #0" = -1
+	"Maharshi #0" = 1
+	"Dattadevi #0" = -1
+	"Kelzang #1" = -19
+	"Konchog #0" = -1
+	"Pal #0" = 1
+	"Dronmalön #0" = -1
+	"Dranga #0" = 1
+	"Pema #0" = -1
+	"Lhamgonza #0" = -1
+	"Koboza #0" = -1
+	"Yajnavati #1" = -19
+	"Gangkarwa #0" = 1
+	"Laxminath Singh Dev #0" = 1
+	"Donyö #0" = 1
+	"Rinchen #0" = 1
+	"Asima #0" = -1
+	"Vina #0" = -1
+	"Nayanadevi #0" = -1
+	"Yülsung #0" = 1
+	"Rajadinaj #0" = 1
+	"Naranarayan #0" = 1
+	"Amritakala #0" = -1
+	"Shivendranarayan #0" = 1
+	"Sainyabita #0" = 1
+	"Mahendrani #1" = -19
+	"Syamadevi #1" = -22
+	"Kunga #0" = -1
+	"Pulindaka #0" = 1
+	"Bibibai #0" = -1
+	"Vakulamahadevi #0" = -1
+	"Harasimhadeva #0" = 1
+	"Devakhadga #0" = 1
+	"Raghudev #0" = 1
+	"Nyendrak #0" = -1
+	"Zanam #0" = 1
+	"Tökarma #0" = -1
+	"Devapala #0" = 1
+	"Raksita #0" = 1
+	"Jira #0" = -1
+	"Thridang #1" = -19
+	"Choden #0" = -1
+	"Nyitri #0" = -1
+	"Kyidé #0" = 1
+	"Chatri #0" = 1
+	"Tsogyal #0" = -1
+	"Sambhota #0" = 1
+	"Dagmo #0" = -1
+	"Driza #0" = -1
+	"Devitara #0" = -1
+	"Gopala #0" = 1
+	"Chukpo #0" = 1
+	"Lodrö #0" = 1
+	"Tsunmotog #0" = -1
+	"Dechen #0" = -1
+	"Tridu #0" = 1
+	"Pushyavarman #2" = 0
+	"Samudravarman #1" = 0
+	"Balavarman #2" = 0
+	"Kalyanavarman #1" = 0
+	"Ganapativarman #1" = 0
+	"Mahendravarman #1" = 0
+	"Narayanavarman #1" = 0
+	"Bhutivarman #1" = 0
+	"Chandramukhavarman #1" = 0
+	"Sthitavarman #1" = 0
+	"Susthitavarman #1" = 0
+	"Supratisthitavarman #1" = 0
+	"Bhaskaravarman #1" = 0
+	"Salasthamba #1" = 0
+	"Vijayasthamba #1" = 0
+	"Palakastambha #1" = 0
+	"Kumarastambha #1" = 0
+	"Vajradeva #1" = 0
+	"Harshadeva #2" = 0
+	"Indrapala #2" = 0
+	"Pratapnarayan #1" = 0
+	"Hari Singh #1" = 0
+	"Roopnarayan #1" = 0
+	"Dasharathadeva #1" = 0
+	"Rani #1" = -1
+	"Maurayadhwaj #1" = 0
+	"Mahindranarayan #1" = 0
+	"Vigrahastambha #1" = 0
+	"Dharmapala #1" = 0
+	"Harshapala #1" = 0
+	"Ratnadhwajpala #1" = 0
+	"Bhogavati #1" = -1
+	"Gandharavati #1" = -1
+	"Vasumati #1" = -1
+	"Birapala #1" = 0
+	"Harshavarman #1" = 0
+	"Bhaskarvarman #0" = 0
+	"Bhattamahabahu #0" = 0
+	"Brahmapala #0" = 0
+	"Harjjaravarman #0" = 0
+	"Jayamala #0" = 0
+	"Jayapala #0" = 0
+	"Kumarapala #0" = 0
+	"Pralambha #0" = 0
+	"Purandelapala #0" = 0
+	"Ratnapala #0" = 0
+	"Timgyadeva #0" = 0
+	"Tyagasimha #0" = 0
+	"Ummoka #0" = 0
+	"Vanamalavarmadeva #0" = 0
+	"Vijaya #0" = 0
+	"Virabahu #0" = 0
+}
+

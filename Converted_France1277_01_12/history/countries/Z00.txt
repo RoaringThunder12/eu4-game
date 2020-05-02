@@ -1,0 +1,40 @@
+# Noregr
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = catholic
+clear_scripted_personalities = yes
+capital = 23
+1406.2.17 = {
+	monarch = {
+		name = "Sverker"
+		birth_date = 1394.6.21
+		dynasty = "Nerking"
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = drunkard_personality
+}
+1418.8.22 = {
+	heir = {
+		name = "Grimr"
+		monarch_name = "Grimr"
+		dynasty = "Nerking"
+		birth_date = 1418.8.22
+		death_date = 1498.8.22
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 23
+	add_treasury = 80
+	add_prestige = 1167
+}

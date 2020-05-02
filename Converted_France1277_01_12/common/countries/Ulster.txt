@@ -1,0 +1,258 @@
+# Ulster
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 5 222 31 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Aniel" "Anlaufr" "Sholto" "Wulfhild" "Garalt" "Haldora" "Jorunn" "Cecilia" "Octreda" "Ælfrida" 
+	"Una" "Wulfthryth" "Kentigerna" "Torstein" "Æthelsige" "Castantin" "Durilia" "Cristin" "Tarla" "Bronuen" 
+	"Madru" "Neulina" "Galam" "Gest" "Uunis" "Murtolic" "Crup" "Maud" "Ciniod" "Uuen" 
+	"Elaine" "Ganant" "Pidarnoin" "Caltram" "Allisander" "Addiena" "Mairi" "Aróc" "Girom" "Uen" 
+	"Allust" "Bran" "Éogan" "Telurgan" "Urguist" "Holmfrid" "Caitrion" "Dabíd" "Uuena" "Uluen" 
+	"Bride" "Rubert" "Enuidaig" "Rudri" "Eddarrnonn" "Maelmurie" "Muriel" "Siunod" "Klas" "Morleo" 
+	"Gloð" "Astrid" "Uuredach" "Morag" "Aleta" "Paul" "Sara" "Philip" "Arthur" "Æthelburh" 
+	"Raoul" "Stephan" "Tore" "Ingjerd" "Brian" "Trond" "Cobflaith" "Cathnio" "Conmál" "Beorhthelm" 
+	"Adam" "Alpin" "Alan" "Alastair" "Alexander" "Andrew" "Angus" "Archibald" "Arran" "Aulay" 
+	"Beathan" "Brice" "Cailean" "Calum" "Carbrey" "Colban" "Colin" "Conall" "Conan" "Constantine" 
+	"David" "Dermid" "Donald" "Douglas" "Duff" "Dugald" "Duncan" "Edgar" "Edward" "Edwin" 
+	"Eric" "Evander" "Ewan" "Farquhar" "Fergus" "Fingal" "Findlay" "Frang" "Gavin" "Gilbert" 
+	"Gilbride" "Gilchrist" "Gillespie" "Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Hamish" 
+	"Hector" "Henry" "Hugh" "Iain" "Indulf" "James" "John" "Kenneth" "Kentigern" "Lachlan" 
+	"Laurence" "Lennon" "Lulach" "Macbeth" "Magnus" "Malcolm" "Maldoven" "Maldred" "Malise" "Malmure" 
+	"Maoilios" "Marcas" "Matad" "Matthew" "Michael" "Morgan" "Muir" "Mungo" "Murdoch" "Murray" 
+	"Neil" "Ninian" "Oscar" "Patrick" "Peter" "Radulf" "Ranald" "Richard" "Robert" "Roderick" 
+	"Ronald" "Rory" "Ross" "Roy" "Shaw" "Simon" "Somerled" "Sweeny" "Tadhg" "Talore" 
+	"Thomas" "Torquil" "Uhtred" "Uisdean" "Walan" "Waldeve" "Walter" "William" }
+monarch_names = {
+	"Aniel #0" = 1
+	"Anlaufr #1" = 21
+	"Sholto #0" = -1
+	"Wulfhild #0" = -1
+	"Garalt #1" = 21
+	"Haldora #0" = -1
+	"Jorunn #0" = -1
+	"Cecilia #0" = -1
+	"Octreda #0" = -1
+	"Ælfrida #0" = -1
+	"Una #0" = -1
+	"Wulfthryth #0" = -1
+	"Kentigerna #0" = -1
+	"Torstein #0" = 1
+	"Æthelsige #1" = 21
+	"Castantin #0" = 1
+	"Durilia #0" = -1
+	"Cristin #0" = -1
+	"Tarla #0" = 1
+	"Bronuen #0" = -1
+	"Madru #0" = -1
+	"Neulina #0" = -1
+	"Galam #0" = 1
+	"Gest #0" = 1
+	"Uunis #0" = -1
+	"Murtolic #0" = 1
+	"Crup #1" = 30
+	"Maud #0" = -1
+	"Ciniod #0" = 1
+	"Uuen #0" = 1
+	"Elaine #0" = -1
+	"Ganant #0" = 1
+	"Pidarnoin #0" = 1
+	"Caltram #0" = 1
+	"Allisander #0" = 1
+	"Addiena #0" = -1
+	"Mairi #0" = -1
+	"Aróc #0" = -1
+	"Girom #0" = 1
+	"Uen #0" = -1
+	"Allust #0" = -1
+	"Bran #1" = 21
+	"Éogan #1" = 18
+	"Telurgan #0" = 1
+	"Urguist #1" = 21
+	"Holmfrid #0" = -1
+	"Caitrion #0" = -1
+	"Dabíd #0" = 1
+	"Uuena #0" = -1
+	"Uluen #0" = -1
+	"Bride #0" = -1
+	"Rubert #1" = 21
+	"Enuidaig #0" = 1
+	"Rudri #0" = 1
+	"Eddarrnonn #1" = 18
+	"Maelmurie #0" = -1
+	"Muriel #0" = -1
+	"Siunod #0" = -1
+	"Klas #0" = 1
+	"Morleo #0" = 1
+	"Gloð #0" = -1
+	"Astrid #1" = -22
+	"Uuredach #0" = 1
+	"Morag #0" = -1
+	"Aleta #0" = -1
+	"Paul #0" = 1
+	"Sara #0" = -1
+	"Philip #0" = 1
+	"Arthur #0" = 1
+	"Æthelburh #0" = -1
+	"Raoul #0" = 1
+	"Stephan #1" = 18
+	"Tore #0" = 1
+	"Ingjerd #0" = -1
+	"Brian #0" = 1
+	"Trond #0" = 1
+	"Cobflaith #1" = -1
+	"Cathnio #1" = 0
+	"Conmál #1" = 0
+	"Beorhthelm #1" = 0
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alan #0" = 0
+	"Alastair #0" = 0
+	"Alexander #0" = 0
+	"Andrew #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Arran #0" = 0
+	"Aulay #0" = 0
+	"Beathan #0" = 0
+	"Brice #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Colin #0" = 0
+	"Conall #0" = 0
+	"Conan #0" = 0
+	"Constantine #0" = 0
+	"David #0" = 0
+	"Dermid #0" = 0
+	"Donald #0" = 0
+	"Douglas #0" = 0
+	"Duff #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edgar #0" = 0
+	"Edward #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Evander #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fergus #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Frang #0" = 0
+	"Gavin #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"Iain #0" = 0
+	"Indulf #0" = 0
+	"James #0" = 0
+	"John #0" = 0
+	"Kenneth #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Laurence #0" = 0
+	"Lennon #0" = 0
+	"Lulach #0" = 0
+	"Macbeth #0" = 0
+	"Magnus #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Malmure #0" = 0
+	"Maoilios #0" = 0
+	"Marcas #0" = 0
+	"Matad #0" = 0
+	"Matthew #0" = 0
+	"Michael #0" = 0
+	"Morgan #0" = 0
+	"Muir #0" = 0
+	"Mungo #0" = 0
+	"Murdoch #0" = 0
+	"Murray #0" = 0
+	"Neil #0" = 0
+	"Ninian #0" = 0
+	"Oscar #0" = 0
+	"Patrick #0" = 0
+	"Peter #0" = 0
+	"Radulf #0" = 0
+	"Ranald #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Roderick #0" = 0
+	"Ronald #0" = 0
+	"Rory #0" = 0
+	"Ross #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Simon #0" = 0
+	"Somerled #0" = 0
+	"Sweeny #0" = 0
+	"Tadhg #0" = 0
+	"Talore #0" = 0
+	"Thomas #0" = 0
+	"Torquil #0" = 0
+	"Uhtred #0" = 0
+	"Uisdean #0" = 0
+	"Walan #0" = 0
+	"Waldeve #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

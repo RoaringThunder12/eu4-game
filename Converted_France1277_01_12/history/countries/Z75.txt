@@ -1,0 +1,26 @@
+# Karesili
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 412
+1441.4.5 = {
+	monarch = {
+		name = "Dogan"
+		birth_date = 1412.1.26
+		dynasty = "Karesili"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 412
+	add_treasury = 86
+	add_prestige = 20
+}

@@ -1,0 +1,202 @@
+# Tao
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 231 80 130 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Himerios" "Anastasios" "Valeria" "Gabrielia" "Isidoros" "Artemios" "Staurakios" "Anthousa" "Euphemios" "Pelagios" 
+	"Nikarete" "Aigidia" "Phokas" "Pyrros" "Akab" "Leon" "Kyriakos" "Tiberios" "Xene" "Markia" 
+	"Eunike" "Ioulia" "Narses" "Antipatra" "Konstantine" "Hypatia" "Chrysogonos" "Kyriake" "Dorotheos" "Apollonia" 
+	"Zoe" "Aikaterine" "Sergia" "Simonis" "Alexios" "Lazaros" "Nikoletta" "Sabas" "Ioustina" "Bardas" 
+	"Ignatios" "Athanasia" "Nonna" "Konstantia" "Ioustinianos" "Leontia" "Basillike" "Isaias" "Nikephoros" "Antonia" 
+	"Kyrillos" "Euphrasia" "Pelagia" "Demetra" "Chrysanthos" "Agathe" "Ashot" "Vrtanes" "Kapriel" "Theoktistos" 
+	"Konstantinos" "Stephanos" "Petros" "Theophanes" "Pamphilios" "Damianos" "Theodoros" "Traianos" "Herberd" "Leontios" 
+	"Athanasios" "Evangelos" "Zenobios" "Theophylaktos" "Azam" "Fadl" "Theodosios" "Zacharias" "Adarnase" "Aghsartan" 
+	"Aleksandre" "Andronik" "Anzori" "Archili" "Bagrat" "Bakur" "Davit" "Demetre" "Demna" "Djavakhi" 
+	"Erekle" "Gabrieli" "Gagiki" "Giorgi" "Grigoli" "Guaram" "Gubaz" "Gurgen" "Iese" "Ioane" 
+	"Ishkhanik" "Iveri" "Jarji" "Kaikhosro" "Kakhi" "Koba" "Kvarkvare" "Kvirike" "Levan" "Luarsab" 
+	"Malkhazi" "Mamia" "Merab" "Mikheil" "Mukhran" "Nerse" "Nikoloz" "Okhropir" "Orbeli" "Padla" 
+	"Samoeli" "Shanshe" "Shota" "Stepanoz" "Sumbat" "Teimuraz" "Tornike" "Ushisha" "Vache" "Vakhtang" 
+	"Zurab" "Zviad" }
+monarch_names = {
+	"Himerios #0" = 1
+	"Anastasios #0" = 1
+	"Valeria #0" = -1
+	"Gabrielia #0" = -1
+	"Isidoros #2" = 18
+	"Artemios #0" = 1
+	"Staurakios #3" = 21
+	"Anthousa #0" = -1
+	"Euphemios #0" = 1
+	"Pelagios #1" = 18
+	"Nikarete #0" = -1
+	"Aigidia #0" = -1
+	"Phokas #0" = 1
+	"Pyrros #0" = 1
+	"Akab #0" = 1
+	"Leon #0" = 1
+	"Kyriakos #0" = 1
+	"Tiberios #0" = 1
+	"Xene #0" = -1
+	"Markia #0" = -1
+	"Eunike #0" = -1
+	"Ioulia #0" = -1
+	"Narses #0" = 1
+	"Antipatra #0" = -1
+	"Konstantine #0" = -1
+	"Hypatia #0" = -1
+	"Chrysogonos #0" = 1
+	"Kyriake #0" = -1
+	"Dorotheos #0" = 1
+	"Apollonia #0" = -1
+	"Zoe #0" = -1
+	"Aikaterine #0" = -1
+	"Sergia #0" = -1
+	"Simonis #0" = -1
+	"Alexios #0" = 1
+	"Lazaros #0" = 1
+	"Nikoletta #0" = -1
+	"Sabas #0" = 1
+	"Ioustina #0" = -1
+	"Bardas #0" = 1
+	"Ignatios #0" = 1
+	"Athanasia #0" = -1
+	"Nonna #0" = -1
+	"Konstantia #0" = -1
+	"Ioustinianos #0" = 1
+	"Leontia #0" = -1
+	"Basillike #0" = -1
+	"Isaias #0" = 1
+	"Nikephoros #0" = 1
+	"Antonia #0" = -1
+	"Kyrillos #0" = 1
+	"Euphrasia #0" = -1
+	"Pelagia #0" = -1
+	"Demetra #0" = -1
+	"Chrysanthos #1" = 18
+	"Agathe #0" = -1
+	"Ashot #1" = 0
+	"Vrtanes #1" = 0
+	"Kapriel #1" = 0
+	"Theoktistos #1" = 0
+	"Konstantinos #1" = 0
+	"Stephanos #1" = 0
+	"Petros #1" = 0
+	"Theophanes #2" = 0
+	"Pamphilios #1" = 0
+	"Damianos #1" = 0
+	"Theodoros #1" = 0
+	"Traianos #1" = 0
+	"Herberd #1" = 0
+	"Leontios #2" = 0
+	"Athanasios #1" = 0
+	"Evangelos #1" = 0
+	"Zenobios #1" = 0
+	"Theophylaktos #1" = 0
+	"Azam #2" = 0
+	"Fadl #1" = 0
+	"Theodosios #1" = 0
+	"Zacharias #1" = 0
+	"Adarnase #0" = 0
+	"Aghsartan #0" = 0
+	"Aleksandre #0" = 0
+	"Andronik #0" = 0
+	"Anzori #0" = 0
+	"Archili #0" = 0
+	"Bagrat #0" = 0
+	"Bakur #0" = 0
+	"Davit #0" = 0
+	"Demetre #0" = 0
+	"Demna #0" = 0
+	"Djavakhi #0" = 0
+	"Erekle #0" = 0
+	"Gabrieli #0" = 0
+	"Gagiki #0" = 0
+	"Giorgi #0" = 0
+	"Grigoli #0" = 0
+	"Guaram #0" = 0
+	"Gubaz #0" = 0
+	"Gurgen #0" = 0
+	"Iese #0" = 0
+	"Ioane #0" = 0
+	"Ishkhanik #0" = 0
+	"Iveri #0" = 0
+	"Jarji #0" = 0
+	"Kaikhosro #0" = 0
+	"Kakhi #0" = 0
+	"Koba #0" = 0
+	"Kvarkvare #0" = 0
+	"Kvirike #0" = 0
+	"Levan #0" = 0
+	"Luarsab #0" = 0
+	"Malkhazi #0" = 0
+	"Mamia #0" = 0
+	"Merab #0" = 0
+	"Mikheil #0" = 0
+	"Mukhran #0" = 0
+	"Nerse #0" = 0
+	"Nikoloz #0" = 0
+	"Okhropir #0" = 0
+	"Orbeli #0" = 0
+	"Padla #0" = 0
+	"Samoeli #0" = 0
+	"Shanshe #0" = 0
+	"Shota #0" = 0
+	"Stepanoz #0" = 0
+	"Sumbat #0" = 0
+	"Teimuraz #0" = 0
+	"Tornike #0" = 0
+	"Ushisha #0" = 0
+	"Vache #0" = 0
+	"Vakhtang #0" = 0
+	"Zurab #0" = 0
+	"Zviad #0" = 0
+}
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tbilisi Tashiri
+	Urbnisi
+}
+

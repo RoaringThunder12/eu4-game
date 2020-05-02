@@ -1,0 +1,26 @@
+# Krishn
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = baluchi
+religion = sunni
+clear_scripted_personalities = yes
+capital = 575
+1434.8.27 = {
+	monarch = {
+		name = "Sonpal II"
+		birth_date = 1414.9.10
+		dynasty = "Krishn"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 575
+	add_treasury = 156
+	add_prestige = 149
+}

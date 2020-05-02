@@ -1,0 +1,153 @@
+# Perm
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 204 188 127 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Deryab" "Azra-Va" "Mazava" "Yirkap" "Rateg" "Oshmar" "Liyava" "Potekay" "Mosheg" "Shypicha" 
+	"Pakstyan" "Malyaka" "Paksyay" "Dobrinya" "Dergun" "Sarin" "Nylog" "Virdyan" "Aymort" "Andyamo" 
+	"Arnaz" "Arti" "Artis" "Arvo" "Azeg" "Biur" "Biyar" "Burmort" "Chichayka" "Chuga" 
+	"Dokya" "Dondy" "Gazheg" "Hulyen" "Inzhay" "Irter" "Lyneg" "Lysko" "Kezhapa" "Kezhay" 
+	"Kezhedey" "Kezhevat" "Kichay" "Koksha" "Kuaz" "Kudym-Osh" "Kya" "Kyldysin" "Malyy" "Meltsayka" 
+	"Nalka" "Nuyaksha" "Nuyanza" "Nuyat" "Nydog" "Odeg" "Onika" "Osh" "Oshypel" "Ovtay" 
+	"Ozheg" "Ozhmeg" "Paksyut" "Parush" "Pivtsay" "Pokshayka" "Putyayka" "Pyera" "Rayda" "Sektev" 
+	"Setyamka" "Shindyay" "Shyrpuzh" "Spira" "Syrka" "Tikshayka" "Tuhan" "Tyueykezhut" "Tyutyuk" "Tugan" 
+	"Turush" "Uchva" "Varaka" "Vechkas" "Velmayka" "Viryas" "Viryay" "Vokan" "Ylvan" "Zarny" 
+	"Zhebeg" "Zhuneg" "Zyryan" }
+monarch_names = {
+	"Deryab #1" = 21
+	"Azra-Va #0" = -1
+	"Mazava #0" = -1
+	"Yirkap #0" = 1
+	"Rateg #0" = 1
+	"Oshmar #1" = 18
+	"Liyava #0" = -1
+	"Potekay #0" = -1
+	"Mosheg #0" = 1
+	"Shypicha #1" = 18
+	"Pakstyan #2" = 0
+	"Malyaka #1" = 0
+	"Paksyay #1" = 0
+	"Dobrinya #1" = 0
+	"Dergun #2" = 0
+	"Sarin #1" = 0
+	"Nylog #1" = 0
+	"Virdyan #1" = 0
+	"Aymort #1" = 0
+	"Andyamo #0" = 0
+	"Arnaz #0" = 0
+	"Arti #0" = 0
+	"Artis #0" = 0
+	"Arvo #0" = 0
+	"Azeg #0" = 0
+	"Biur #0" = 0
+	"Biyar #0" = 0
+	"Burmort #0" = 0
+	"Chichayka #0" = 0
+	"Chuga #0" = 0
+	"Dokya #0" = 0
+	"Dondy #0" = 0
+	"Gazheg #0" = 0
+	"Hulyen #0" = 0
+	"Inzhay #0" = 0
+	"Irter #0" = 0
+	"Lyneg #0" = 0
+	"Lysko #0" = 0
+	"Kezhapa #0" = 0
+	"Kezhay #0" = 0
+	"Kezhedey #0" = 0
+	"Kezhevat #0" = 0
+	"Kichay #0" = 0
+	"Koksha #0" = 0
+	"Kuaz #0" = 0
+	"Kudym-Osh #0" = 0
+	"Kya #0" = 0
+	"Kyldysin #0" = 0
+	"Malyy #0" = 0
+	"Meltsayka #0" = 0
+	"Nalka #0" = 0
+	"Nuyaksha #0" = 0
+	"Nuyanza #0" = 0
+	"Nuyat #0" = 0
+	"Nydog #0" = 0
+	"Odeg #0" = 0
+	"Onika #0" = 0
+	"Osh #0" = 0
+	"Oshypel #0" = 0
+	"Ovtay #0" = 0
+	"Ozheg #0" = 0
+	"Ozhmeg #0" = 0
+	"Paksyut #0" = 0
+	"Parush #0" = 0
+	"Pivtsay #0" = 0
+	"Pokshayka #0" = 0
+	"Putyayka #0" = 0
+	"Pyera #0" = 0
+	"Rayda #0" = 0
+	"Sektev #0" = 0
+	"Setyamka #0" = 0
+	"Shindyay #0" = 0
+	"Shyrpuzh #0" = 0
+	"Spira #0" = 0
+	"Syrka #0" = 0
+	"Tikshayka #0" = 0
+	"Tuhan #0" = 0
+	"Tyueykezhut #0" = 0
+	"Tyutyuk #0" = 0
+	"Tugan #0" = 0
+	"Turush #0" = 0
+	"Uchva #0" = 0
+	"Varaka #0" = 0
+	"Vechkas #0" = 0
+	"Velmayka #0" = 0
+	"Viryas #0" = 0
+	"Viryay #0" = 0
+	"Vokan #0" = 0
+	"Ylvan #0" = 0
+	"Zarny #0" = 0
+	"Zhebeg #0" = 0
+	"Zhuneg #0" = 0
+	"Zyryan #0" = 0
+
+
+	"Virtyava #0" = -1
+}
+ship_names = {
+	Cherdyn Pelym Kudym-Osha Shudeg
+	Voleg Rateg Koleg Uzheg
+	Baseg Yus Pokcha Vychegda Sysola
+	Iskor Kama Vishera Kolva Yazva Uros Vilgort
+}
+

@@ -1,0 +1,100 @@
+# Mari
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 150 132 110 }
+
+
+
+
+leader_names = {
+
+	"Ipa" "Tekçe" "Bizel" "Özgul" "Sol" "Sirin" "Kortan" "Bula" "Kugel" "Yeldem" 
+	"Tyrach" "Sirma" "Teber" "Esin" "Ilkay" "Batas" "Usunbike" "Peksen" "Gunduz" "Gulçiçek" 
+	"Kegen" "Ayasun" "Batan" "Asli" "Tatus" "Suru" "Akgul" "Sati" "Kabuksin" "Bator" 
+	"Karacik" "Songul" "Balgor" "Paksyut" "Murunza" "Pokshava" "Andyamo" "Naruchad" "Yurak" "Nenyts" 
+	"Senda" "Nabtiko" "Nyalku" "Kolik" "Syrka" "Alik" "Mordvinko" "Panay" "Yapti" "Urho" 
+	"Nga" "Narvait" "Tylmache" "Pivtsay" "Surt" "Eçshün" "Toñrategin" "Kürebir" "Malyaka" "Çelgil" 
+	"Aba" "Baitzas" "Bayça" "Biçkili" "Boru" "Giazis" "Ildey" "Ipaos" "Karaca" "Kaydum" 
+	"Konel" "Korkutan" "Kostas" "Kourkoutai" "Kuerçi" "Kure" "Temir" "Yazi" "Yeke" }
+monarch_names = {
+	"Ipa #0" = 1
+	"Tekçe #0" = -1
+	"Bizel #0" = 1
+	"Özgul #0" = -1
+	"Sol #0" = 1
+	"Sirin #0" = -1
+	"Kortan #1" = 24
+	"Bula #0" = 1
+	"Kugel #0" = 1
+	"Yeldem #0" = -1
+	"Tyrach #0" = 1
+	"Sirma #0" = -1
+	"Teber #0" = 1
+	"Esin #0" = -1
+	"Ilkay #0" = -1
+	"Batas #0" = 1
+	"Usunbike #0" = -1
+	"Peksen #0" = -1
+	"Gunduz #0" = -1
+	"Gulçiçek #0" = -1
+	"Kegen #0" = 1
+	"Ayasun #0" = -1
+	"Batan #0" = 1
+	"Asli #0" = -1
+	"Tatus #0" = 1
+	"Suru #0" = 1
+	"Akgul #0" = -1
+	"Sati #0" = -1
+	"Kabuksin #0" = 1
+	"Bator #0" = 1
+	"Karacik #0" = -1
+	"Songul #0" = -1
+	"Balgor #0" = 1
+	"Paksyut #2" = 0
+	"Murunza #1" = 0
+	"Pokshava #1" = -1
+	"Andyamo #1" = 0
+	"Naruchad #1" = 0
+	"Yurak #1" = 0
+	"Nenyts #2" = 0
+	"Senda #1" = -1
+	"Nabtiko #1" = 0
+	"Nyalku #1" = 0
+	"Kolik #1" = 0
+	"Syrka #1" = 0
+	"Alik #2" = 0
+	"Mordvinko #1" = 0
+	"Panay #1" = 0
+	"Yapti #1" = 0
+	"Urho #1" = 0
+	"Nga #1" = 0
+	"Narvait #1" = 0
+	"Tylmache #1" = 0
+	"Pivtsay #2" = 0
+	"Surt #1" = 0
+	"Eçshün #1" = 0
+	"Toñrategin #2" = 0
+	"Kürebir #1" = 0
+	"Malyaka #1" = 0
+	"Çelgil #0" = 0
+	"Aba #0" = 0
+	"Baitzas #0" = 0
+	"Bayça #0" = 0
+	"Biçkili #0" = 0
+	"Boru #0" = 0
+	"Giazis #0" = 0
+	"Ildey #0" = 0
+	"Ipaos #0" = 0
+	"Karaca #0" = 0
+	"Kaydum #0" = 0
+	"Konel #0" = 0
+	"Korkutan #0" = 0
+	"Kostas #0" = 0
+	"Kourkoutai #0" = 0
+	"Kuerçi #0" = 0
+	"Kure #0" = 0
+	"Temir #0" = 0
+	"Yazi #0" = 0
+	"Yeke #0" = 0
+}
+

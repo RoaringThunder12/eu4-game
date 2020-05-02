@@ -1,0 +1,27 @@
+# Kalyani
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 1948
+1413.8.28 = {
+	monarch = {
+		name = "Naravarman"
+		birth_date = 1409.4.20
+		dynasty = "Rashtrakuta"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 1948
+	add_treasury = 372
+	add_prestige = 1011
+}

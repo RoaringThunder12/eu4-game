@@ -1,0 +1,37 @@
+# Udaysan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 522
+1443.6.26 = {
+	monarch = {
+		name = "Udaysangh II"
+		birth_date = 1409.4.3
+		dynasty = "Udaysan"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = just_personality
+	heir = {
+		name = "Sisupala"
+		monarch_name = "Sisupala II"
+		dynasty = "Udaysan"
+		birth_date = 1432.8.1
+		death_date = 1512.8.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 522
+	add_treasury = 38
+	add_prestige = 85
+}

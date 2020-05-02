@@ -1,0 +1,235 @@
+# Om
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 240 240 150 }
+
+
+
+
+leader_names = {
+
+	"Baghïr" "Börä" "Salïndï" "Nayiñtay" "Ershen" "Arnaz" "Eshinke" "Qarabarïs" "Yïgash" "Ötüken" 
+	"Jojalla" "Öshkamöshka" "Pakstyan" "Poshayka" "Upurga" "Yïlqï" "Syryava" "Slyugan'ka" "Kadïñ" "Shukshtoroyka" 
+	"Tegin" "Kezhevat" "Spira" "Kezhapa" "Yïlgun" "Otqan" "Marjan" "Bayan" "Tekay" "Artuç" 
+	"Ükükün" "Pokshayka" "Paksyut" "Bilge" "Yolluq" "Kichay" "Tadqïsh" "Terek" "Sutqiz" "Jükün" 
+	"Örge" "Jegen" "Ilterish" "Bughra" "Tömür" "Atutuq" "Yaruqtegin" "Adigh" "Ilbilgä" "Teken" 
+	"Tarqan" "Örüñ" "Bulït" "Eltugun" "Tämirbuqa" "Küçlüg" "Tapa" "Çiñtimür" "Kügir" "Yiltïs" 
+	"Kara" "Aqunçï" "Jürküñ" "Töles" "Uruñ" "Teçush" "Tardush" "Beslik" "Jegin" "Könçög" 
+	"Azgan" "Señgi" "Külçur" "Mänglik" "Ilbeslik" "Kiräsiz" "Qaraqaz" "Alïpshul" "Inançu" "Yigençur" 
+	"Ülük" "Teñriken" "Buqaçuq" "Öztoghdï" "Burtam" "Süçüg" "Tardu" "Sarïgha" "Yamtar" "Ormuz" 
+	"Çigshi" "Yaraq" "Umay" "Tutun" "Ülüg" "Apategin" "Boyla" "Yalgava" "Katun" "Ïshbara" 
+	"Üge" "Chichayka" "Kültudun" "Tograk" "Bayançur" "Seyamka" "Ebiztir" "Varaka" "Chechama" "Moyançur" 
+	"Biur" "Teñirikän" "Arvo" "Shümül" "Nydog" "Çigsü" "Artis" "Bülün" "Zhebeg" "Valdava" 
+	"Potekay" "Kutan" "Asrava" "Jämï" "Aymort" "Nyv" "Arti" "Koksha" "Ozheg" "Viryas" 
+	"Tuhan" "Zyryan" "Virdyan" "Unzhutka" "Nalka" "Lyneg" "Deryab" "Irter" "Mazava" "Hulyen" 
+	"Andyamo" "Azeg" "Biyar" "Burmort" "Chuga" "Dergun" "Dobrinya" "Dokya" "Dondy" "Gazheg" 
+	"Inzhay" "Lysko" "Kezhay" "Kezhedey" "Kuaz" "Kudym-Osh" "Kya" "Kyldysin" "Malyaka" "Malyy" 
+	"Meltsayka" "Mosheg" "Nuyaksha" "Nuyanza" "Nuyat" "Nylog" "Odeg" "Onika" "Osh" "Oshmar" 
+	"Oshypel" "Ovtay" "Ozhmeg" "Paksyay" "Parush" "Pivtsay" "Putyayka" "Pyera" "Rateg" "Rayda" 
+	"Sarin" "Sektev" "Setyamka" "Shindyay" "Shypicha" "Shyrpuzh" "Syrka" "Tikshayka" "Tyueykezhut" "Tyutyuk" 
+	"Tugan" "Turush" "Uchva" "Vechkas" "Velmayka" "Viryay" "Vokan" "Yirkap" "Ylvan" "Zarny" 
+	"Zhuneg" }
+monarch_names = {
+	"Baghïr #0" = 1
+	"Börä #0" = 1
+	"Salïndï #0" = 1
+	"Nayiñtay #0" = -1
+	"Ershen #0" = -1
+	"Arnaz #0" = 1
+	"Eshinke #0" = 1
+	"Qarabarïs #0" = 1
+	"Yïgash #0" = -1
+	"Ötüken #0" = -1
+	"Jojalla #0" = 1
+	"Öshkamöshka #0" = -1
+	"Pakstyan #0" = 1
+	"Poshayka #0" = -1
+	"Upurga #0" = -1
+	"Yïlqï #1" = 24
+	"Syryava #0" = -1
+	"Slyugan'ka #0" = -1
+	"Kadïñ #0" = -1
+	"Shukshtoroyka #0" = -1
+	"Tegin #0" = 1
+	"Kezhevat #0" = 1
+	"Spira #0" = 1
+	"Kezhapa #0" = 1
+	"Yïlgun #0" = -1
+	"Otqan #0" = -1
+	"Marjan #0" = -1
+	"Bayan #0" = 1
+	"Tekay #0" = -1
+	"Artuç #0" = -1
+	"Ükükün #0" = -1
+	"Pokshayka #1" = 18
+	"Paksyut #0" = 1
+	"Bilge #0" = 1
+	"Yolluq #0" = 1
+	"Kichay #2" = 18
+	"Tadqïsh #0" = 1
+	"Terek #0" = -1
+	"Sutqiz #0" = -1
+	"Jükün #0" = 1
+	"Örge #0" = 1
+	"Jegen #0" = 1
+	"Ilterish #0" = 1
+	"Bughra #0" = 1
+	"Tömür #0" = 1
+	"Atutuq #0" = 1
+	"Yaruqtegin #0" = 1
+	"Adigh #0" = 1
+	"Ilbilgä #0" = -1
+	"Teken #0" = -1
+	"Tarqan #0" = 1
+	"Örüñ #0" = -1
+	"Bulït #0" = -1
+	"Eltugun #0" = 1
+	"Tämirbuqa #0" = 1
+	"Küçlüg #0" = 1
+	"Tapa #0" = 1
+	"Çiñtimür #0" = 1
+	"Kügir #0" = 1
+	"Yiltïs #0" = -1
+	"Kara #0" = 1
+	"Aqunçï #0" = 1
+	"Jürküñ #0" = 1
+	"Töles #0" = 1
+	"Uruñ #0" = 1
+	"Teçush #0" = -1
+	"Tardush #0" = 1
+	"Beslik #0" = -1
+	"Jegin #0" = 1
+	"Könçög #0" = 1
+	"Azgan #0" = -1
+	"Señgi #0" = 1
+	"Külçur #0" = 1
+	"Mänglik #0" = 1
+	"Ilbeslik #0" = -1
+	"Kiräsiz #0" = 1
+	"Qaraqaz #0" = -1
+	"Alïpshul #0" = 1
+	"Inançu #0" = 1
+	"Yigençur #0" = 1
+	"Ülük #0" = 1
+	"Teñriken #0" = -1
+	"Buqaçuq #0" = 1
+	"Öztoghdï #0" = 1
+	"Burtam #0" = -1
+	"Süçüg #0" = 1
+	"Tardu #0" = 1
+	"Sarïgha #0" = -1
+	"Yamtar #0" = 1
+	"Ormuz #0" = 1
+	"Çigshi #0" = 1
+	"Yaraq #0" = 1
+	"Umay #0" = -1
+	"Tutun #0" = 1
+	"Ülüg #0" = 1
+	"Apategin #0" = 1
+	"Boyla #0" = 1
+	"Yalgava #0" = -1
+	"Katun #0" = -1
+	"Ïshbara #0" = 1
+	"Üge #0" = 1
+	"Chichayka #0" = 1
+	"Kültudun #0" = 1
+	"Tograk #0" = -1
+	"Bayançur #0" = 1
+	"Seyamka #0" = -1
+	"Ebiztir #0" = 1
+	"Varaka #0" = 1
+	"Chechama #0" = -1
+	"Moyançur #0" = 1
+	"Biur #0" = 1
+	"Teñirikän #0" = 1
+	"Arvo #0" = 1
+	"Shümül #0" = 1
+	"Nydog #0" = 1
+	"Çigsü #0" = 1
+	"Artis #1" = 18
+	"Bülün #0" = 1
+	"Zhebeg #0" = 1
+	"Valdava #0" = -1
+	"Potekay #0" = -1
+	"Kutan #0" = 1
+	"Asrava #0" = -1
+	"Jämï #0" = 1
+	"Aymort #1" = 0
+	"Nyv #1" = -1
+	"Arti #1" = 0
+	"Koksha #1" = 0
+	"Ozheg #1" = 0
+	"Viryas #1" = 0
+	"Tuhan #1" = 0
+	"Zyryan #2" = 0
+	"Virdyan #2" = 0
+	"Unzhutka #1" = -1
+	"Nalka #1" = 0
+	"Lyneg #1" = 0
+	"Deryab #1" = 0
+	"Irter #1" = 0
+	"Mazava #1" = -1
+	"Hulyen #1" = 0
+	"Andyamo #0" = 0
+	"Azeg #0" = 0
+	"Biyar #0" = 0
+	"Burmort #0" = 0
+	"Chuga #0" = 0
+	"Dergun #0" = 0
+	"Dobrinya #0" = 0
+	"Dokya #0" = 0
+	"Dondy #0" = 0
+	"Gazheg #0" = 0
+	"Inzhay #0" = 0
+	"Lysko #0" = 0
+	"Kezhay #0" = 0
+	"Kezhedey #0" = 0
+	"Kuaz #0" = 0
+	"Kudym-Osh #0" = 0
+	"Kya #0" = 0
+	"Kyldysin #0" = 0
+	"Malyaka #0" = 0
+	"Malyy #0" = 0
+	"Meltsayka #0" = 0
+	"Mosheg #0" = 0
+	"Nuyaksha #0" = 0
+	"Nuyanza #0" = 0
+	"Nuyat #0" = 0
+	"Nylog #0" = 0
+	"Odeg #0" = 0
+	"Onika #0" = 0
+	"Osh #0" = 0
+	"Oshmar #0" = 0
+	"Oshypel #0" = 0
+	"Ovtay #0" = 0
+	"Ozhmeg #0" = 0
+	"Paksyay #0" = 0
+	"Parush #0" = 0
+	"Pivtsay #0" = 0
+	"Putyayka #0" = 0
+	"Pyera #0" = 0
+	"Rateg #0" = 0
+	"Rayda #0" = 0
+	"Sarin #0" = 0
+	"Sektev #0" = 0
+	"Setyamka #0" = 0
+	"Shindyay #0" = 0
+	"Shypicha #0" = 0
+	"Shyrpuzh #0" = 0
+	"Syrka #0" = 0
+	"Tikshayka #0" = 0
+	"Tyueykezhut #0" = 0
+	"Tyutyuk #0" = 0
+	"Tugan #0" = 0
+	"Turush #0" = 0
+	"Uchva #0" = 0
+	"Vechkas #0" = 0
+	"Velmayka #0" = 0
+	"Viryay #0" = 0
+	"Vokan #0" = 0
+	"Yirkap #0" = 0
+	"Ylvan #0" = 0
+	"Zarny #0" = 0
+	"Zhuneg #0" = 0
+}
+

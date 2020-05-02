@@ -1,0 +1,26 @@
+# Ismailid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = sunni
+clear_scripted_personalities = yes
+capital = 514
+1440.2.24 = {
+	monarch = {
+		name = "Sami"
+		birth_date = 1434.4.26
+		dynasty = "Ismailid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 514
+	add_treasury = 733
+	add_prestige = 45
+}

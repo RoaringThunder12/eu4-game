@@ -1,0 +1,167 @@
+# León
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 253 158 51 }
+
+
+
+
+leader_names = {
+
+	"Richard" "Adelinde" "Péronelle" "Goffredo" "Mafalda" "Bourgogne" "Aubry" "Hamelin" "Aimery" "Jeanne" 
+	"Charlotte" "Raimbaut" "Ermengardis" "Urraca" "Sisenanda" "Bérengère" "Ermengarde" "Géraud" "Marthe" "Ava" 
+	"Eustachie" "Béatrix" "Ogier" "Eve" "Jyad" "Thomas" "Fronilde" "Arnault" "Suleyman" "Éléonore" 
+	"Alain" "Gisèle" "Margot" "Léon" "Antoinette" "Ida" "Foulques" "Onfroy" "Philippe" "Julien" 
+	"Mélisende" "Adelaide" "Mélisande" "Blanche" "Douce" "Jean" "Gilbert" "Charles" "Yolande" "Thiébaut" 
+	"Emma" "Mathilde" "François" "Denise" "Louis" "Payen" "Ide" "André" "Eustache" "Amaury" 
+	"Antoine" "Esclarmonde" "Giacomo" "Cathèrine" "Guillaumette" "Étienne" "Robert" "Airmanagildo" "Arnoul" "Mayor" 
+	"Milia" "Sarrazine" "Godefroy" "Tommaso" "Guillermo" "Solène" "Centule" "Hakam" "Berthefried" "Lodovico" 
+	"Simon" "Clara" "Ghada" "Salvador" "Tifilwit" "Gontroda" "Jalil" "Pelaio" "Antso" "Rodrigo" 
+	"Shamir" "Aghlab" "Aarif" "Burgheard" "Sæweald" "Feremund" "Gislari" "Godomar" "Wannaqo" "Raimbold" 
+	"Valeran" "Fulcari" "Barthélémi" "Mubashir" "Guillaume" "Nicolas" "Enguerrand" "Alfonso" "Alonso" "Álvar" 
+	"Álvaro" "Bermudo" "Diego" "Enrique" "Fadrique" "Felipe" "Fernando" "Fruela" "García" "Gil" 
+	"Gómez" "Gonzalo" "Guillén" "Gutierre" "Juan" "Lope" "Luis" "Manrique" "Martín" "Munio" 
+	"Nuño" "Ordoño" "Oveco" "Pedro" "Pelayo" "Ramiro" "Sancho" "Suero" "Tello" "Vela" }
+monarch_names = {
+	"Richard #0" = 1
+	"Adelinde #0" = -1
+	"Péronelle #0" = -1
+	"Goffredo #0" = 1
+	"Mafalda #0" = -1
+	"Bourgogne #0" = -1
+	"Aubry #0" = 1
+	"Hamelin #1" = 27
+	"Aimery #1" = 21
+	"Jeanne #0" = -1
+	"Charlotte #0" = -1
+	"Raimbaut #0" = 1
+	"Ermengardis #0" = -1
+	"Urraca #1" = -19
+	"Sisenanda #0" = -1
+	"Bérengère #1" = -19
+	"Ermengarde #0" = -1
+	"Géraud #0" = 1
+	"Marthe #0" = -1
+	"Ava #0" = -1
+	"Eustachie #0" = -1
+	"Béatrix #0" = -1
+	"Ogier #1" = 18
+	"Eve #0" = -1
+	"Jyad #0" = 1
+	"Thomas #0" = 1
+	"Fronilde #0" = -1
+	"Arnault #0" = 1
+	"Suleyman #0" = 1
+	"Éléonore #0" = -1
+	"Alain #2" = 33
+	"Gisèle #0" = -1
+	"Margot #0" = -1
+	"Léon #0" = 1
+	"Antoinette #0" = -1
+	"Ida #0" = -1
+	"Foulques #0" = 1
+	"Onfroy #0" = 1
+	"Philippe #0" = 1
+	"Julien #0" = 1
+	"Mélisende #0" = -1
+	"Adelaide #0" = -1
+	"Mélisande #0" = -1
+	"Blanche #0" = -1
+	"Douce #0" = -1
+	"Jean #0" = 1
+	"Gilbert #0" = 1
+	"Charles #0" = 1
+	"Yolande #0" = -1
+	"Thiébaut #0" = 1
+	"Emma #0" = -1
+	"Mathilde #0" = -1
+	"François #0" = 1
+	"Denise #0" = -1
+	"Louis #0" = 1
+	"Payen #0" = 1
+	"Ide #1" = -19
+	"André #0" = 1
+	"Eustache #0" = 1
+	"Amaury #0" = 1
+	"Antoine #0" = 1
+	"Esclarmonde #0" = -1
+	"Giacomo #0" = 1
+	"Cathèrine #0" = -1
+	"Guillaumette #0" = -1
+	"Étienne #0" = 1
+	"Robert #0" = 1
+	"Airmanagildo #1" = 18
+	"Arnoul #0" = 1
+	"Mayor #0" = -1
+	"Milia #0" = -1
+	"Sarrazine #0" = -1
+	"Godefroy #0" = 1
+	"Tommaso #0" = 1
+	"Guillermo #0" = 1
+	"Solène #0" = -1
+	"Centule #0" = 1
+	"Hakam #0" = 1
+	"Berthefried #0" = -1
+	"Lodovico #0" = 1
+	"Simon #0" = 1
+	"Clara #0" = -1
+	"Ghada #0" = -1
+	"Salvador #0" = 1
+	"Tifilwit #1" = 18
+	"Gontroda #0" = -1
+	"Jalil #2" = 0
+	"Pelaio #3" = 0
+	"Antso #1" = 0
+	"Rodrigo #1" = 0
+	"Shamir #1" = 0
+	"Aghlab #1" = 0
+	"Aarif #1" = 0
+	"Burgheard #1" = 0
+	"Sæweald #1" = 0
+	"Feremund #1" = 0
+	"Gislari #1" = 0
+	"Godomar #1" = 0
+	"Wannaqo #1" = 0
+	"Raimbold #1" = 0
+	"Valeran #2" = 0
+	"Fulcari #1" = 0
+	"Barthélémi #2" = 0
+	"Mubashir #1" = 0
+	"Guillaume #1" = 0
+	"Nicolas #1" = 0
+	"Enguerrand #2" = 0
+	"Alfonso #0" = 0
+	"Alonso #0" = 0
+	"Álvar #0" = 0
+	"Álvaro #0" = 0
+	"Bermudo #0" = 0
+	"Diego #0" = 0
+	"Enrique #0" = 0
+	"Fadrique #0" = 0
+	"Felipe #0" = 0
+	"Fernando #0" = 0
+	"Fruela #0" = 0
+	"García #0" = 0
+	"Gil #0" = 0
+	"Gómez #0" = 0
+	"Gonzalo #0" = 0
+	"Guillén #0" = 0
+	"Gutierre #0" = 0
+	"Juan #0" = 0
+	"Lope #0" = 0
+	"Luis #0" = 0
+	"Manrique #0" = 0
+	"Martín #0" = 0
+	"Munio #0" = 0
+	"Nuño #0" = 0
+	"Ordoño #0" = 0
+	"Oveco #0" = 0
+	"Pedro #0" = 0
+	"Pelayo #0" = 0
+	"Ramiro #0" = 0
+	"Sancho #0" = 0
+	"Suero #0" = 0
+	"Tello #0" = 0
+	"Vela #0" = 0
+}
+

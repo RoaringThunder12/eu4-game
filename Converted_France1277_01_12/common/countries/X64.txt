@@ -1,0 +1,421 @@
+# Vukovar
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 178 148 123 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Khuterkin" "Eudossia" "Alberto" "Angelo" "Eleonora" "Fausta" "Gherardo" "Bälgiçi" "Valentina" "Constanza" 
+	"Kutrigur" "Nada" "Napoleone" "Laura" "Valerio" "Isabella" "Payen" "Marcella" "Ermenegilda" "Agnès" 
+	"Letizia" "Abbondanzio" "Felicia" "Massimo" "Snjezana" "Nolfo" "Alisia" "Usunbike" "Malacresta" "Ispor" 
+	"Dora" "Isperikh" "Guar" "Kharaton" "Vinekh" "Horpan" "Bughra" "Bezmer" "Goleda" "Zenti" 
+	"Belkermak" "Drong" "Okors" "Tsog" "Dengizikh" "Odolgan" "Ernakh" "Kuber" "Barsbek" "Labertam" 
+	"Yildiz" "Yavantey" "Samsam" "Bulçan" "Dragana" "Tura" "Këlnissa" "Iani" "Yasar" "Sati" 
+	"Alp" "Pakhtiyar" "Irge" "Tarasiy" "Gundes" "Sarica" "Savilay" "Peksen" "Sirma" "Çiçäk" 
+	"Ayasun" "Bars" "Dusica" "Isbul" "Karacik" "Iltäbär" "Çeçeppi" "Songul" "Sibel" "Ostro" 
+	"Khatun" "Naça" "Umay" "Batoya" "Özgul" "Sevar" "Yeldem" "Ikalay" "Praksa" "Toghrïl" 
+	"Vetam" "Tuzniq" "Këlyamal" "Bastu" "Rugila" "Maturkka" "Çeçki" "Gulay" "Kätyarikka" "Parsbit" 
+	"Ngauyahu" "Çiltanesi" "Kardam" "Savin" "Onegavon" "Gunes" "Ilkay" "Sarä" "Çat'n" "Akgul" 
+	"Sandilkh" "Savaçka" "Puyantay" "Kundaç" "Kayghalagh" "Mala" "Namena" "Timër" "Gunduz" "Çorpan" 
+	"Yartilek" "Patiyer" "Tähtani" "Tiradin" "Baghatur" "Sartäç" "Krovat" "Desislava" "Yelisey" "Visarion" 
+	"Papaçyz" "Ötemis" "Khudbard" "Sarikel" "Dizeng" "Chepa" "Paykëlti" "Barjik" "Birgitta" "Itakh" 
+	"Lyukha" "Kubrat" "Kisa" "Irnek" "Anzi" "Mutlu" "Kotrag" "Ayten" "Kveta" "Yabghu" 
+	"Tatra" "Çat" "Katarzyna" "Milobrat" "Doman" "Andrzej" "Prelimír" "Tingiz" "Dilek" "Taridin" 
+	"Omurtag" "Ludmila" "Jakusz" "Rigunth" "Agnes" "Kibar" "Telec" "Radovan" "Swietoslawa" "Krum" 
+	"Toktu" "Apskhih" "Timëreç" "Lärkka" "Ladina" "Dristar" "Elzbieta" "Savintik" "Grgur" "Gulçiçäk" 
+	"Eufemia" "Wszebora" "Svietlana" "Dukum" "Kano" "Samur" "Milomíra" "Maslaw" "Sarantay" "Kordil" 
+	"Aldimir" "Ipekel" "Miroslaw" "Vakrim" "Demetrio" "Lucia" "Martina" "Mariano" "Stjepan" "Fortunata" 
+	"Tedice" "Savkëlti" "Almish" "Tarmaç" "Busir" "Maria" "Sarkhan" "Bona" "Anastasio" "Dmitar" 
+	"Giuditta" "Antonija" "Sozzo" "Berto" "Davide" "Bernard" "Isnardo" "Basilio" "Ivanis" "Eugenia" 
+	"Stanislav" "Damiano" "Borso" "Joscella" "Tatjana" "Lodovica" "Borislava" "Vjekoslava" "Tarkhan" "Michele" 
+	"Cededa" "Guerrino" "Bernardo" "Pagano" "Salinguerra" "Drzislav" "Hranislav" "Aurelia" "Antonia" "Lucrezia" 
+	"Yonefij" "Echive" "Okhsi" "Adriana" "Eudes" "Augusta" "Tekçe" "Benilde" "Antonino" "Margherita" 
+	"Ambrosia" "Matilda" "Tiziano" "Bruto" "Renata" "Buzer" "Prospero" "Euphemios" "Ioustina" "Alim" 
+	"Alzek" "Araslan" "Asparukh" "Bagha" "Balambär" "Bashtwa" "Bataul" "Batbayan" "Batulia" "Bayan" 
+	"Bihor" "Boyan" "Bugha" "Bulan" "Bulger" "Buzan" "Böri" "Chinialush" "Dometa" "Elemag" 
+	"Ellak" "Eskhakh" "Gostun" "Hudbad" "Ilik" "Islivan" "Kamaj" "Karadakh" "Karan" "Karaton" 
+	"Khatir" "Khinialon" "Kormesiy" "Kormisosh" "Kundaçiq" "Kurt" "Kälaç" "Magotin" "Malamir" "Mugel" 
+	"Mänär" "Mänäs" "Mënümarót" "Okhsun" "Organ" "Organa" "Ornag" "Oshi" "Pagan" "Paväl" 
+	"Rassate" "Sabin" "Sandil" "Shilki" "Simsam" "Sondoke" "Tabghaç" "Telerig" "Tervel" "Timërpälat" 
+	"Toghan" "Tokhtaman" "Tsul" "Tuk" "Täbär" "Tähtaman" "Umor" "Uturgur" "Venda" "Yani" 
+	"Yençepi" "Yerneslu" "Yeçtirek" "Yilig" "Zabergan" }
+monarch_names = {
+	"Khuterkin #0" = 1
+	"Eudossia #0" = -1
+	"Alberto #0" = 1
+	"Angelo #0" = 1
+	"Eleonora #0" = -1
+	"Fausta #0" = -1
+	"Gherardo #0" = 1
+	"Bälgiçi #0" = 1
+	"Valentina #0" = -1
+	"Constanza #0" = -1
+	"Kutrigur #0" = 1
+	"Nada #0" = -1
+	"Napoleone #0" = 1
+	"Laura #0" = -1
+	"Valerio #0" = 1
+	"Isabella #0" = -1
+	"Payen #0" = 1
+	"Marcella #0" = -1
+	"Ermenegilda #0" = -1
+	"Agnès #0" = -1
+	"Letizia #0" = -1
+	"Abbondanzio #0" = 1
+	"Felicia #0" = -1
+	"Massimo #0" = 1
+	"Snjezana #0" = -1
+	"Nolfo #0" = 1
+	"Alisia #0" = -1
+	"Usunbike #0" = -1
+	"Malacresta #0" = 1
+	"Ispor #0" = 1
+	"Dora #0" = -1
+	"Isperikh #0" = 1
+	"Guar #0" = 1
+	"Kharaton #0" = 1
+	"Vinekh #0" = 1
+	"Horpan #0" = 1
+	"Bughra #0" = 1
+	"Bezmer #0" = 1
+	"Goleda #0" = 1
+	"Zenti #0" = 1
+	"Belkermak #0" = 1
+	"Drong #0" = 1
+	"Okors #0" = 1
+	"Tsog #0" = 1
+	"Dengizikh #0" = 1
+	"Odolgan #0" = 1
+	"Ernakh #0" = 1
+	"Kuber #0" = 1
+	"Barsbek #0" = 1
+	"Labertam #0" = 1
+	"Yildiz #0" = -1
+	"Yavantey #0" = 1
+	"Samsam #0" = 1
+	"Bulçan #0" = 1
+	"Dragana #0" = -1
+	"Tura #0" = -1
+	"Këlnissa #0" = -1
+	"Iani #0" = 1
+	"Yasar #0" = -1
+	"Sati #0" = -1
+	"Alp #0" = 1
+	"Pakhtiyar #0" = 1
+	"Irge #0" = -1
+	"Tarasiy #0" = 1
+	"Gundes #0" = -1
+	"Sarica #0" = -1
+	"Savilay #0" = -1
+	"Peksen #0" = -1
+	"Sirma #0" = -1
+	"Çiçäk #0" = -1
+	"Ayasun #0" = -1
+	"Bars #0" = 1
+	"Dusica #0" = -1
+	"Isbul #0" = 1
+	"Karacik #0" = -1
+	"Iltäbär #0" = 1
+	"Çeçeppi #0" = -1
+	"Songul #0" = -1
+	"Sibel #0" = -1
+	"Ostro #0" = 1
+	"Khatun #0" = -1
+	"Naça #0" = -1
+	"Umay #0" = -1
+	"Batoya #0" = 1
+	"Özgul #0" = -1
+	"Sevar #0" = 1
+	"Yeldem #0" = -1
+	"Ikalay #0" = -1
+	"Praksa #0" = 1
+	"Toghrïl #0" = 1
+	"Vetam #0" = 1
+	"Tuzniq #0" = 1
+	"Këlyamal #0" = -1
+	"Bastu #0" = 1
+	"Rugila #0" = 1
+	"Maturkka #0" = -1
+	"Çeçki #0" = -1
+	"Gulay #0" = -1
+	"Kätyarikka #0" = -1
+	"Parsbit #0" = -1
+	"Ngauyahu #0" = -1
+	"Çiltanesi #0" = -1
+	"Kardam #0" = 1
+	"Savin #0" = 1
+	"Onegavon #0" = 1
+	"Gunes #0" = -1
+	"Ilkay #0" = -1
+	"Sarä #0" = -1
+	"Çat'n #0" = 1
+	"Akgul #0" = -1
+	"Sandilkh #0" = 1
+	"Savaçka #0" = -1
+	"Puyantay #0" = -1
+	"Kundaç #0" = 1
+	"Kayghalagh #0" = 1
+	"Mala #0" = -1
+	"Namena #0" = -1
+	"Timër #0" = 1
+	"Gunduz #0" = -1
+	"Çorpan #0" = 1
+	"Yartilek #0" = -1
+	"Patiyer #0" = -1
+	"Tähtani #0" = -1
+	"Tiradin #0" = 1
+	"Baghatur #0" = 1
+	"Sartäç #0" = 1
+	"Krovat #0" = 1
+	"Desislava #0" = -1
+	"Yelisey #0" = 1
+	"Visarion #0" = 1
+	"Papaçyz #0" = 1
+	"Ötemis #0" = 1
+	"Khudbard #0" = 1
+	"Sarikel #0" = -1
+	"Dizeng #0" = 1
+	"Chepa #0" = 1
+	"Paykëlti #0" = -1
+	"Barjik #0" = 1
+	"Birgitta #0" = -1
+	"Itakh #0" = 1
+	"Lyukha #0" = -1
+	"Kubrat #0" = 1
+	"Kisa #0" = 1
+	"Irnek #0" = 1
+	"Anzi #0" = 1
+	"Mutlu #0" = -1
+	"Kotrag #0" = 1
+	"Ayten #0" = -1
+	"Kveta #0" = -1
+	"Yabghu #0" = 1
+	"Tatra #0" = 1
+	"Çat #0" = 1
+	"Katarzyna #0" = -1
+	"Milobrat #0" = 1
+	"Doman #0" = 1
+	"Andrzej #0" = 1
+	"Prelimír #0" = 1
+	"Tingiz #0" = 1
+	"Dilek #0" = -1
+	"Taridin #0" = 1
+	"Omurtag #0" = 1
+	"Ludmila #0" = -1
+	"Jakusz #0" = 1
+	"Rigunth #0" = -1
+	"Agnes #0" = -1
+	"Kibar #0" = 1
+	"Telec #0" = 1
+	"Radovan #0" = 1
+	"Swietoslawa #0" = -1
+	"Krum #0" = 1
+	"Toktu #0" = 1
+	"Apskhih #0" = 1
+	"Timëreç #0" = 1
+	"Lärkka #0" = -1
+	"Ladina #0" = -1
+	"Dristar #0" = 1
+	"Elzbieta #0" = -1
+	"Savintik #0" = -1
+	"Grgur #0" = 1
+	"Gulçiçäk #0" = -1
+	"Eufemia #0" = -1
+	"Wszebora #0" = -1
+	"Svietlana #0" = -1
+	"Dukum #0" = 1
+	"Kano #0" = 1
+	"Samur #0" = -1
+	"Milomíra #0" = -1
+	"Maslaw #0" = 1
+	"Sarantay #0" = -1
+	"Kordil #0" = 1
+	"Aldimir #0" = 1
+	"Ipekel #0" = -1
+	"Miroslaw #0" = 1
+	"Vakrim #0" = 1
+	"Demetrio #0" = 1
+	"Lucia #0" = -1
+	"Martina #0" = -1
+	"Mariano #0" = 1
+	"Stjepan #0" = 1
+	"Fortunata #0" = -1
+	"Tedice #0" = 1
+	"Savkëlti #0" = -1
+	"Almish #0" = 1
+	"Tarmaç #0" = 1
+	"Busir #0" = 1
+	"Maria #0" = -1
+	"Sarkhan #0" = 1
+	"Bona #0" = -1
+	"Anastasio #0" = 1
+	"Dmitar #0" = 1
+	"Giuditta #0" = -1
+	"Antonija #0" = -1
+	"Sozzo #0" = 1
+	"Berto #0" = 1
+	"Davide #0" = 1
+	"Bernard #0" = 1
+	"Isnardo #0" = 1
+	"Basilio #0" = 1
+	"Ivanis #0" = 1
+	"Eugenia #0" = -1
+	"Stanislav #0" = 1
+	"Damiano #0" = 1
+	"Borso #0" = 1
+	"Joscella #0" = -1
+	"Tatjana #0" = -1
+	"Lodovica #0" = -1
+	"Borislava #0" = -1
+	"Vjekoslava #0" = -1
+	"Tarkhan #0" = 1
+	"Michele #0" = 1
+	"Cededa #0" = -1
+	"Guerrino #0" = 1
+	"Bernardo #0" = 1
+	"Pagano #0" = 1
+	"Salinguerra #0" = 1
+	"Drzislav #0" = 1
+	"Hranislav #0" = 1
+	"Aurelia #0" = -1
+	"Antonia #0" = -1
+	"Lucrezia #0" = -1
+	"Yonefij #0" = -1
+	"Echive #0" = -1
+	"Okhsi #0" = 1
+	"Adriana #0" = -1
+	"Eudes #0" = 1
+	"Augusta #0" = -1
+	"Tekçe #0" = -1
+	"Benilde #0" = -1
+	"Antonino #0" = 1
+	"Margherita #0" = -1
+	"Ambrosia #0" = -1
+	"Matilda #0" = -1
+	"Tiziano #0" = 1
+	"Bruto #0" = 1
+	"Renata #0" = -1
+	"Buzer #0" = 1
+	"Prospero #0" = 1
+	"Euphemios #0" = 1
+	"Ioustina #0" = -1
+	"Alim #0" = 1
+	"Alzek #0" = 0
+	"Araslan #0" = 0
+	"Asparukh #0" = 0
+	"Bagha #0" = 0
+	"Balambär #0" = 0
+	"Bashtwa #0" = 0
+	"Bataul #0" = 0
+	"Batbayan #0" = 0
+	"Batulia #0" = 0
+	"Bayan #0" = 0
+	"Bihor #0" = 0
+	"Boyan #0" = 0
+	"Bugha #0" = 0
+	"Bulan #0" = 0
+	"Bulger #0" = 0
+	"Buzan #0" = 0
+	"Böri #0" = 0
+	"Chinialush #0" = 0
+	"Dometa #0" = 0
+	"Elemag #0" = 0
+	"Ellak #0" = 0
+	"Eskhakh #0" = 0
+	"Gostun #0" = 0
+	"Hudbad #0" = 0
+	"Ilik #0" = 0
+	"Islivan #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Karan #0" = 0
+	"Karaton #0" = 0
+	"Khatir #0" = 0
+	"Khinialon #0" = 0
+	"Kormesiy #0" = 0
+	"Kormisosh #0" = 0
+	"Kundaçiq #0" = 0
+	"Kurt #0" = 0
+	"Kälaç #0" = 0
+	"Magotin #0" = 0
+	"Malamir #0" = 0
+	"Mugel #0" = 0
+	"Mänär #0" = 0
+	"Mänäs #0" = 0
+	"Mënümarót #0" = 0
+	"Okhsun #0" = 0
+	"Organ #0" = 0
+	"Organa #0" = 0
+	"Ornag #0" = 0
+	"Oshi #0" = 0
+	"Pagan #0" = 0
+	"Paväl #0" = 0
+	"Rassate #0" = 0
+	"Sabin #0" = 0
+	"Sandil #0" = 0
+	"Shilki #0" = 0
+	"Simsam #0" = 0
+	"Sondoke #0" = 0
+	"Tabghaç #0" = 0
+	"Telerig #0" = 0
+	"Tervel #0" = 0
+	"Timërpälat #0" = 0
+	"Toghan #0" = 0
+	"Tokhtaman #0" = 0
+	"Tsul #0" = 0
+	"Tuk #0" = 0
+	"Täbär #0" = 0
+	"Tähtaman #0" = 0
+	"Umor #0" = 0
+	"Uturgur #0" = 0
+	"Venda #0" = 0
+	"Yani #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+	"Yilig #0" = 0
+	"Zabergan #0" = 0
+}
+ship_names = {
+	Cres
+	"Dugi Otok"
+	Goli
+	Krl
+	Pag Plavnik
+	Susak "Sveti Grgur"
+	Tijat
+	Unije
+	"Vele Srankane"
+	Zlarin Zmajan
+}
+

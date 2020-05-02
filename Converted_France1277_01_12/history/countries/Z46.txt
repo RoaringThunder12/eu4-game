@@ -1,0 +1,27 @@
+# Lisboa
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = suebi
+religion = catholic
+clear_scripted_personalities = yes
+capital = 227
+1433.1.11 = {
+	monarch = {
+		name = "Ulfr"
+		birth_date = 1385.9.21
+		dynasty = "Wuffing"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 227
+	add_treasury = 14
+	add_prestige = 231
+}

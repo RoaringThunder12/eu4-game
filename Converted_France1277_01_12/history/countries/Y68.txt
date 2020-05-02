@@ -1,0 +1,39 @@
+# Antalo
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1213
+1426.4.17 = {
+	monarch = {
+		name = "Mekonnen"
+		birth_date = 1405.3.24
+		dynasty = "Kembolchid"
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = righteous_personality
+}
+1439.3.15 = {
+	heir = {
+		name = "Jibril"
+		monarch_name = "Jibril"
+		dynasty = "Kembolchid"
+		birth_date = 1439.3.15
+		death_date = 1519.3.15
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 1213
+	add_treasury = 14
+	add_prestige = 95
+}

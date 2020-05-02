@@ -1,0 +1,26 @@
+# Hwicce
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+clear_scripted_personalities = yes
+capital = 239
+1434.9.3 = {
+	monarch = {
+		name = "Wulfhere II"
+		birth_date = 1420.4.17
+		dynasty = "Eadwulfing"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 239
+	add_treasury = 465
+	add_prestige = 254
+}

@@ -1,0 +1,14 @@
+iranian = {
+	sogdian = {
+		primary = KHO
+		dynasty_names = { "Mayenne" }
+	}
+	tocharian = {
+		primary = KAS
+		dynasty_names = { "Kapilavastu" }
+	}
+	saka = {
+		primary = KAS
+		dynasty_names = { }
+	}
+}

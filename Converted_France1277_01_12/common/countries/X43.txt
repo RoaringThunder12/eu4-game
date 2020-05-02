@@ -1,0 +1,159 @@
+# Tigrinya
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 146 105 50 }
+
+
+
+
+leader_names = {
+
+	"Marianos" "Zosima" "Kersiami" "Krisanthos" "Solomôn" "Ñssitkitol" "Chrissa" "Zerebekka" "Asenath" "Theodosia" 
+	"Epimachosi" "Alethia" "Chael" "Eirene" "Eionkouda" "Eirena" "Rahimah" "Hoasse" "Eliezer" "Leontios" 
+	"Maraña" "Saaman" "Sergios" "Iêsousyko" "Soizuros" "Genseoua" "Mena" "Dioskoros" "Theognosta" "Emmanouel" 
+	"Ioustina" "Theipisthe" "Ñonnen" "Pesanthia" "Thadeosi" "Athanasios" "Mariankouda" "Iêsousinkouda" "Theobronia" "Mouses" 
+	"Ñejin" "Iannia" "Patrikia" "Theodote" "Eikkir" "Ñouddl" "Theophilia" "Mariana" "Theodorake" "Sotinkouda" 
+	"Ñoltou" "Eionñoka" "Ñeššadena" "Ñašša" "Eulabia" "Pelagia" "Dimetheos" "Theodôros" "Jalil" "Sabba" 
+	"Mahdi" "Aarôn" "Aberikos" "Abraam" "Añgelos" "Andreas" "Balô" "Bartholomaios" "Birêl" "Christophoros" 
+	"Dauid" "Diônisios" "Enôch" "Ephannê" "Epimachos" "Epiphanios" "Gabriel" "Gabrielkouda" "Gabrielophorou" "Gennatios" 
+	"Geôrgios" "Hêlias" "Hoase" "Hoassi" "Iacob" "Ieremias" "Iêsous" "Iôannou" "Iôannês" "Iordanes" 
+	"Ioseph" "Kalinikos" "Kollouthos" "Kuriakos" "Kurillos" "Lazaros" "Leon" "Makarios" "Marios" "Markos" 
+	"Marturophoros" "Mašanñal" "Maththias" "Mêlênkouda" "Menankouda" "Merkourios" "Michaêl" "Michaêlkouda" "Orna" "Panigiros" 
+	"Papasinen" "Papasinkouda" "Patrikios" "Paulos" "Petros" "Petrou" "Philotheos" "Philemon" "Prochoros" "Raphael" 
+	"Raphaelkouda" "Samson" "Senouthios" "Sentiko" "Simeoni" "Stephanos" "Stephanou" "Theodosios" "Thoma" "Tophêna" 
+	"Tirsakouni" "Zacharias" }
+monarch_names = {
+	"Marianos #0" = 1
+	"Zosima #0" = 1
+	"Kersiami #0" = -1
+	"Krisanthos #0" = 1
+	"Solomôn #0" = 1
+	"Ñssitkitol #0" = -1
+	"Chrissa #0" = -1
+	"Zerebekka #0" = -1
+	"Asenath #0" = -1
+	"Theodosia #0" = -1
+	"Epimachosi #0" = -1
+	"Alethia #0" = -1
+	"Chael #0" = 1
+	"Eirene #0" = -1
+	"Eionkouda #0" = 1
+	"Eirena #0" = -1
+	"Rahimah #0" = -1
+	"Hoasse #0" = 1
+	"Eliezer #0" = 1
+	"Leontios #0" = 1
+	"Maraña #0" = -1
+	"Saaman #0" = -1
+	"Sergios #0" = 1
+	"Iêsousyko #0" = -1
+	"Soizuros #0" = 1
+	"Genseoua #0" = -1
+	"Mena #0" = 1
+	"Dioskoros #0" = 1
+	"Theognosta #0" = -1
+	"Emmanouel #0" = 1
+	"Ioustina #0" = -1
+	"Theipisthe #0" = -1
+	"Ñonnen #0" = -1
+	"Pesanthia #0" = -1
+	"Thadeosi #0" = 1
+	"Athanasios #0" = 1
+	"Mariankouda #0" = 1
+	"Iêsousinkouda #0" = 1
+	"Theobronia #0" = -1
+	"Mouses #0" = 1
+	"Ñejin #0" = -1
+	"Iannia #0" = -1
+	"Patrikia #0" = -1
+	"Theodote #0" = 1
+	"Eikkir #0" = -1
+	"Ñouddl #0" = -1
+	"Theophilia #0" = -1
+	"Mariana #0" = 1
+	"Theodorake #0" = -1
+	"Sotinkouda #0" = 1
+	"Ñoltou #0" = -1
+	"Eionñoka #0" = -1
+	"Ñeššadena #0" = -1
+	"Ñašša #0" = -1
+	"Eulabia #0" = -1
+	"Pelagia #0" = -1
+	"Dimetheos #0" = 1
+	"Theodôros #0" = 1
+	"Jalil #0" = 1
+	"Sabba #0" = -1
+	"Mahdi #0" = 1
+	"Aarôn #0" = 0
+	"Aberikos #0" = 0
+	"Abraam #0" = 0
+	"Añgelos #0" = 0
+	"Andreas #0" = 0
+	"Balô #0" = 0
+	"Bartholomaios #0" = 0
+	"Birêl #0" = 0
+	"Christophoros #0" = 0
+	"Dauid #0" = 0
+	"Diônisios #0" = 0
+	"Enôch #0" = 0
+	"Ephannê #0" = 0
+	"Epimachos #0" = 0
+	"Epiphanios #0" = 0
+	"Gabriel #0" = 0
+	"Gabrielkouda #0" = 0
+	"Gabrielophorou #0" = 0
+	"Gennatios #0" = 0
+	"Geôrgios #0" = 0
+	"Hêlias #0" = 0
+	"Hoase #0" = 0
+	"Hoassi #0" = 0
+	"Iacob #0" = 0
+	"Ieremias #0" = 0
+	"Iêsous #0" = 0
+	"Iôannou #0" = 0
+	"Iôannês #0" = 0
+	"Iordanes #0" = 0
+	"Ioseph #0" = 0
+	"Kalinikos #0" = 0
+	"Kollouthos #0" = 0
+	"Kuriakos #0" = 0
+	"Kurillos #0" = 0
+	"Lazaros #0" = 0
+	"Leon #0" = 0
+	"Makarios #0" = 0
+	"Marios #0" = 0
+	"Markos #0" = 0
+	"Marturophoros #0" = 0
+	"Mašanñal #0" = 0
+	"Maththias #0" = 0
+	"Mêlênkouda #0" = 0
+	"Menankouda #0" = 0
+	"Merkourios #0" = 0
+	"Michaêl #0" = 0
+	"Michaêlkouda #0" = 0
+	"Orna #0" = 0
+	"Panigiros #0" = 0
+	"Papasinen #0" = 0
+	"Papasinkouda #0" = 0
+	"Patrikios #0" = 0
+	"Paulos #0" = 0
+	"Petros #0" = 0
+	"Petrou #0" = 0
+	"Philotheos #0" = 0
+	"Philemon #0" = 0
+	"Prochoros #0" = 0
+	"Raphael #0" = 0
+	"Raphaelkouda #0" = 0
+	"Samson #0" = 0
+	"Senouthios #0" = 0
+	"Sentiko #0" = 0
+	"Simeoni #0" = 0
+	"Stephanos #0" = 0
+	"Stephanou #0" = 0
+	"Theodosios #0" = 0
+	"Thoma #0" = 0
+	"Tophêna #0" = 0
+	"Tirsakouni #0" = 0
+	"Zacharias #0" = 0
+}
+

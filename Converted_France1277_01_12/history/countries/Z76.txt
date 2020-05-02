@@ -1,0 +1,26 @@
+# Tobrukid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = afghani
+religion = sunni
+clear_scripted_personalities = yes
+capital = 451
+1436.2.15 = {
+	monarch = {
+		name = "Morad"
+		birth_date = 1412.11.5
+		dynasty = "Tobrukid"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 451
+	add_treasury = 4
+	add_prestige = 85
+}

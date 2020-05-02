@@ -1,0 +1,28 @@
+# Abydos
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2296
+1432.12.25 = {
+	monarch = {
+		name = "Ioanna"
+		birth_date = 1413.3.8
+		dynasty = "Matfrieding"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 2296
+	add_treasury = 24
+	add_prestige = 40
+}

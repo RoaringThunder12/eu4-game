@@ -1,0 +1,427 @@
+# Lisboa
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 193 81 5 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Wehha" "Wihtburh" "Cwenburg" "Beorngyth" "Eadberht" "Eadwulf" "Wulfhild" "Cuthburg" "Cynewulf" "Æthelgifu" 
+	"Oscytel" "Guthfrith" "Beorhtflæd" "Ulfr" "Beornwulf" "Æthelbald" "Leofwaru" "Cyneswith" "Gyrth" "Waltheof" 
+	"Eastmund" "Jelena" "Ordgar" "Cynehelm" "Sæthryth" "Skuld" "Uhtræd" "Gunhilda" "Æthelfrith" "Sifflæd" 
+	"Cynehild" "Æthelwulf" "Stigand" "Ælfgyth" "Wuffa" "Tytila" "Rædwald" "Eni" "Eorpwald" "Sigeberht" 
+	"Æthelric" "Anna" "Æthelhere" "Æthelwold" "Æthelthryth" "Ealdwulf" "Ealdwald" "Beonna" "Æthelberht" "Æthelred" 
+	"Wulfflæd" "Sæxræd" "Ealdræd" "Ælfstan" "Osric" "Cuthræd" "Hextilda" "Eadmær" "Eadræd" "Cynethryth" 
+	"Blæja" "Wulfgifu" "Ealdwine" "Botulfr" "Wærburg" "Siweard" "Oshere" "Sigeræd" "Hereberht" "Æthelmær" 
+	"Cearl" "Geirr" "Mildrith" "Ulfcytel" "Swegn" "Dyddgu" "Wulfwaru" "Thoræd" "Æthelflæd" "Wulfrun" 
+	"Hungifu" "Ceolflæd" "Leofwynn" "Eadfrith" "Eadburg" "Wiglaf" "Ealdgyth" "Murtolic" "Sælræd" "Ceolwulf" 
+	"Wulfhelm" "Eadsige" "Eadgifu" "Osulf" "Kumamon" "Werestan" "Nadja" "Eanswith" "Beorhtwine" "Æthelburg" 
+	"Ealhflæd" "Esbjörn" "Æthelswith" "Æthelræda" "Swæfræd" "Agatha" "Bearnabus" "Burgheard" "Eadgar" "Eanfrith" 
+	"Maccus" "Harold" "Eorcenberht" "Beornflæd" "Leofheah" "Sæbert" "Cenræd" "Wynnflæd" "Byrhtnoth" "Copsige" 
+	"Lleuca" "Leofweald" "Æthelweard" "Beorhtgifu" "Ecgfrith" "Wulfgyth" "Athela" "Eadhburh" "Onlaf" "Æthelburh" 
+	"Hereswith" "Ulf" "Wulfnoth" "Eadhild" "Maud" "Gospatric" "Wulf" "Sæxbald" "Balthild" "Beorhtfrith" 
+	"Ælfrida" "Ælfgifu" "Morydd" "Oswine" "Eardwulf" "Ælfnoth" "Oswulf" "Einarr" "Cytelbearn" "Alfgeir" 
+	"Cristina" "Ealhswith" "Nada" "Heameel" "Leofrun" "Vseslava" "Cenwulf" "Abdallah" "Jalid" "Madidu" 
+	"Hussamaddin" "Uqess'un" "Stembanos" "Khanchla" "Masinissa" "Watt'as" "Immel" "Galind" "Massiva" "Misibsen" 
+	"Sammer" "Hotha" "Mu'izz" "Adal" "Marwan" "Galussa" "Rasiq" "Mubashir" "Yeh'lem" "Abdul-Aziz" 
+	"Fromildus" "Adoric" "Ildiverga" "Fronosili" "Lallina" "Adeqisio" "Agimadus" "Agriulfum" "Alamiro" "Algaster" 
+	"Anila" "Ansuario" "Argiovitus" "Ariamir" "Arosinda" "Audeca" "Badamundus" "Baldemarius" "Balderedo" "Baltarius" 
+	"Baudemiro" "Becilla" "Berteiro" "Bonesindus" "Boniza" "Cagildo" "Cartemiro" "Chararici" "Commundus" "Crodemiro" 
+	"Dagaredus" "Daildus" "Damiro" "Docemiro" "Donazarius" "Donegildus" "Dulcemirus" "Eboric" "Egenio" "Eimiro" 
+	"Eirigu" "Eisindus" "Eldegotus" "Eldesindus" "Elperico" "Engomiro" "Ensaldus" "Ermaric" "Evosindo" "Fagildus" 
+	"Felmiro" "Fralenko" "Framuldo" "Francolino" "Fredoaldus" "Froatingus" "Frumeiro" "Gardingus" "Gaudesindo" "Gomedei" 
+	"Gomulfus" "Gresumarus" "Gudesteus" "Gumarius" "Gundivaldo" "Guntato" "Gunterotis" "Heremigar" "Hermeric" "Hespanisco" 
+	"Hildemir" "Hilderic" "Hunisco" "Huniscus" "Leodegasti" "Leoderigus" "Leodulfus" "Leovaldo" "Lodemiro" "Magitus" 
+	"Malaredus" "Malaric" "Maldras" "Marcosendus" "Massilan" "Mervigius" "Miro" "Moderido" "Nandaricus" "Nantildo" 
+	"Neufila" "Nitigis" "Notarius" "Odamiro" "Odemundus" "Odericus" "Onemiro" "Onoricus" "Osdulfus" "Osorico" 
+	"Ostromirus" "Otualdo" "Pabregildus" "Pantard" "Pantinus" "Pappinus" "Pederagildu" "Pennio" "Pipinus" "Provaredo" 
+	"Quedesendo" "Quedulfus" "Quidemiro" "Quidericus" "Ragimiro" "Ragolfus" "Rakericus" "Randinus" "Randuarius" "Ranisclus" 
+	"Rechiar" "Rechila" "Refulfo" "Reirigus" "Remismund" "Remisol" "Rendericus" "Ricardo" "Richimund" "Rodomiro" 
+	"Roelindus" "Romanisco" "Romarigus" "Sagatus" "Saxomero" "Segomirus" "Sentarius" "Sescutus" "Sisulfus" "Spanarius" 
+	"Spoderigo" "Suavarius" "Sunila" "Teobald" "Teoderedus" "Theodemar" "Todegogia" "Trasmira" "Trasoldi" "Tumtuldo" 
+	"Uittimer" "Venedario" "Veremund" "Viamundus" "Vidraldus" "Villisendo" "Vistremiro" "Zamarius" "Zendasindo" }
+monarch_names = {
+	"Wehha #0" = 1
+	"Wihtburh #0" = -1
+	"Cwenburg #0" = -1
+	"Beorngyth #0" = -1
+	"Eadberht #0" = 1
+	"Eadwulf #0" = 1
+	"Wulfhild #0" = -1
+	"Cuthburg #0" = -1
+	"Cynewulf #0" = 1
+	"Æthelgifu #0" = -1
+	"Oscytel #0" = 1
+	"Guthfrith #0" = 1
+	"Beorhtflæd #0" = -1
+	"Ulfr #1" = 18
+	"Beornwulf #0" = 1
+	"Æthelbald #0" = 1
+	"Leofwaru #0" = -1
+	"Cyneswith #0" = -1
+	"Gyrth #0" = 1
+	"Waltheof #0" = 1
+	"Eastmund #0" = 1
+	"Jelena #0" = -1
+	"Ordgar #0" = 1
+	"Cynehelm #0" = 1
+	"Sæthryth #0" = -1
+	"Skuld #0" = -1
+	"Uhtræd #0" = 1
+	"Gunhilda #0" = -1
+	"Æthelfrith #0" = 1
+	"Sifflæd #0" = -1
+	"Cynehild #0" = -1
+	"Æthelwulf #0" = 1
+	"Stigand #0" = 1
+	"Ælfgyth #0" = -1
+	"Wuffa #0" = 1
+	"Tytila #0" = 1
+	"Rædwald #0" = 1
+	"Eni #0" = 1
+	"Eorpwald #0" = 1
+	"Sigeberht #0" = 1
+	"Æthelric #0" = 1
+	"Anna #0" = 1
+	"Æthelhere #0" = 1
+	"Æthelwold #0" = 1
+	"Æthelthryth #0" = -1
+	"Ealdwulf #0" = 1
+	"Ealdwald #0" = 1
+	"Beonna #0" = 1
+	"Æthelberht #0" = 1
+	"Æthelred #0" = 1
+	"Wulfflæd #0" = -1
+	"Sæxræd #0" = 1
+	"Ealdræd #0" = 1
+	"Ælfstan #0" = 1
+	"Osric #0" = 1
+	"Cuthræd #0" = 1
+	"Hextilda #0" = -1
+	"Eadmær #0" = 1
+	"Eadræd #0" = 1
+	"Cynethryth #0" = -1
+	"Blæja #0" = -1
+	"Wulfgifu #0" = -1
+	"Ealdwine #0" = 1
+	"Botulfr #0" = 1
+	"Wærburg #0" = -1
+	"Siweard #0" = 1
+	"Oshere #0" = 1
+	"Sigeræd #0" = 1
+	"Hereberht #0" = 1
+	"Æthelmær #0" = 1
+	"Cearl #0" = 1
+	"Geirr #0" = 1
+	"Mildrith #0" = -1
+	"Ulfcytel #0" = 1
+	"Swegn #0" = 1
+	"Dyddgu #0" = -1
+	"Wulfwaru #0" = -1
+	"Thoræd #0" = 1
+	"Æthelflæd #0" = -1
+	"Wulfrun #0" = -1
+	"Hungifu #0" = -1
+	"Ceolflæd #0" = -1
+	"Leofwynn #0" = -1
+	"Eadfrith #0" = 1
+	"Eadburg #0" = -1
+	"Wiglaf #0" = 1
+	"Ealdgyth #0" = -1
+	"Murtolic #0" = 1
+	"Sælræd #0" = 1
+	"Ceolwulf #0" = 1
+	"Wulfhelm #0" = 1
+	"Eadsige #0" = 1
+	"Eadgifu #0" = -1
+	"Osulf #0" = 1
+	"Kumamon #0" = 1
+	"Werestan #0" = 1
+	"Nadja #0" = -1
+	"Eanswith #0" = -1
+	"Beorhtwine #0" = 1
+	"Æthelburg #0" = -1
+	"Ealhflæd #0" = -1
+	"Esbjörn #0" = 1
+	"Æthelswith #0" = -1
+	"Æthelræda #0" = -1
+	"Swæfræd #0" = 1
+	"Agatha #0" = -1
+	"Bearnabus #0" = 1
+	"Burgheard #0" = 1
+	"Eadgar #0" = 1
+	"Eanfrith #0" = 1
+	"Maccus #0" = 1
+	"Harold #0" = 1
+	"Eorcenberht #0" = 1
+	"Beornflæd #0" = -1
+	"Leofheah #0" = 1
+	"Sæbert #0" = 1
+	"Cenræd #0" = 1
+	"Wynnflæd #0" = -1
+	"Byrhtnoth #0" = 1
+	"Copsige #0" = 1
+	"Lleuca #0" = -1
+	"Leofweald #0" = 1
+	"Æthelweard #0" = 1
+	"Beorhtgifu #0" = -1
+	"Ecgfrith #0" = 1
+	"Wulfgyth #0" = -1
+	"Athela #0" = -1
+	"Eadhburh #0" = -1
+	"Onlaf #0" = 1
+	"Æthelburh #0" = -1
+	"Hereswith #0" = -1
+	"Ulf #0" = 1
+	"Wulfnoth #0" = 1
+	"Eadhild #0" = -1
+	"Maud #0" = -1
+	"Gospatric #0" = 1
+	"Wulf #0" = 1
+	"Sæxbald #0" = 1
+	"Balthild #0" = -1
+	"Beorhtfrith #0" = 1
+	"Ælfrida #0" = -1
+	"Ælfgifu #0" = -1
+	"Morydd #0" = 1
+	"Oswine #0" = 1
+	"Eardwulf #0" = 1
+	"Ælfnoth #0" = 1
+	"Oswulf #0" = 1
+	"Einarr #0" = 1
+	"Cytelbearn #0" = 1
+	"Alfgeir #0" = 1
+	"Cristina #0" = -1
+	"Ealhswith #0" = -1
+	"Nada #0" = -1
+	"Heameel #0" = 1
+	"Leofrun #0" = -1
+	"Vseslava #0" = -1
+	"Cenwulf #0" = 1
+	"Abdallah #2" = 0
+	"Jalid #2" = 0
+	"Madidu #1" = 0
+	"Hussamaddin #1" = 0
+	"Uqess'un #1" = 0
+	"Stembanos #2" = 0
+	"Khanchla #1" = 0
+	"Masinissa #1" = 0
+	"Watt'as #1" = 0
+	"Immel #1" = 0
+	"Galind #1" = 0
+	"Massiva #1" = 0
+	"Misibsen #1" = 0
+	"Sammer #1" = 0
+	"Hotha #1" = 0
+	"Mu'izz #3" = 0
+	"Adal #1" = 0
+	"Marwan #1" = 0
+	"Galussa #1" = 0
+	"Rasiq #1" = 0
+	"Mubashir #1" = 0
+	"Yeh'lem #2" = 0
+	"Abdul-Aziz #1" = 0
+	"Fromildus #1" = 0
+	"Adoric #2" = 0
+	"Ildiverga #1" = -1
+	"Fronosili #1" = -1
+	"Lallina #1" = -1
+	"Adeqisio #0" = 0
+	"Agimadus #0" = 0
+	"Agriulfum #0" = 0
+	"Alamiro #0" = 0
+	"Algaster #0" = 0
+	"Anila #0" = 0
+	"Ansuario #0" = 0
+	"Argiovitus #0" = 0
+	"Ariamir #0" = 0
+	"Arosinda #0" = 0
+	"Audeca #0" = 0
+	"Badamundus #0" = 0
+	"Baldemarius #0" = 0
+	"Balderedo #0" = 0
+	"Baltarius #0" = 0
+	"Baudemiro #0" = 0
+	"Becilla #0" = 0
+	"Berteiro #0" = 0
+	"Bonesindus #0" = 0
+	"Boniza #0" = 0
+	"Cagildo #0" = 0
+	"Cartemiro #0" = 0
+	"Chararici #0" = 0
+	"Commundus #0" = 0
+	"Crodemiro #0" = 0
+	"Dagaredus #0" = 0
+	"Daildus #0" = 0
+	"Damiro #0" = 0
+	"Docemiro #0" = 0
+	"Donazarius #0" = 0
+	"Donegildus #0" = 0
+	"Dulcemirus #0" = 0
+	"Eboric #0" = 0
+	"Egenio #0" = 0
+	"Eimiro #0" = 0
+	"Eirigu #0" = 0
+	"Eisindus #0" = 0
+	"Eldegotus #0" = 0
+	"Eldesindus #0" = 0
+	"Elperico #0" = 0
+	"Engomiro #0" = 0
+	"Ensaldus #0" = 0
+	"Ermaric #0" = 0
+	"Evosindo #0" = 0
+	"Fagildus #0" = 0
+	"Felmiro #0" = 0
+	"Fralenko #0" = 0
+	"Framuldo #0" = 0
+	"Francolino #0" = 0
+	"Fredoaldus #0" = 0
+	"Froatingus #0" = 0
+	"Frumeiro #0" = 0
+	"Gardingus #0" = 0
+	"Gaudesindo #0" = 0
+	"Gomedei #0" = 0
+	"Gomulfus #0" = 0
+	"Gresumarus #0" = 0
+	"Gudesteus #0" = 0
+	"Gumarius #0" = 0
+	"Gundivaldo #0" = 0
+	"Guntato #0" = 0
+	"Gunterotis #0" = 0
+	"Heremigar #0" = 0
+	"Hermeric #0" = 0
+	"Hespanisco #0" = 0
+	"Hildemir #0" = 0
+	"Hilderic #0" = 0
+	"Hunisco #0" = 0
+	"Huniscus #0" = 0
+	"Leodegasti #0" = 0
+	"Leoderigus #0" = 0
+	"Leodulfus #0" = 0
+	"Leovaldo #0" = 0
+	"Lodemiro #0" = 0
+	"Magitus #0" = 0
+	"Malaredus #0" = 0
+	"Malaric #0" = 0
+	"Maldras #0" = 0
+	"Marcosendus #0" = 0
+	"Massilan #0" = 0
+	"Mervigius #0" = 0
+	"Miro #0" = 0
+	"Moderido #0" = 0
+	"Nandaricus #0" = 0
+	"Nantildo #0" = 0
+	"Neufila #0" = 0
+	"Nitigis #0" = 0
+	"Notarius #0" = 0
+	"Odamiro #0" = 0
+	"Odemundus #0" = 0
+	"Odericus #0" = 0
+	"Onemiro #0" = 0
+	"Onoricus #0" = 0
+	"Osdulfus #0" = 0
+	"Osorico #0" = 0
+	"Ostromirus #0" = 0
+	"Otualdo #0" = 0
+	"Pabregildus #0" = 0
+	"Pantard #0" = 0
+	"Pantinus #0" = 0
+	"Pappinus #0" = 0
+	"Pederagildu #0" = 0
+	"Pennio #0" = 0
+	"Pipinus #0" = 0
+	"Provaredo #0" = 0
+	"Quedesendo #0" = 0
+	"Quedulfus #0" = 0
+	"Quidemiro #0" = 0
+	"Quidericus #0" = 0
+	"Ragimiro #0" = 0
+	"Ragolfus #0" = 0
+	"Rakericus #0" = 0
+	"Randinus #0" = 0
+	"Randuarius #0" = 0
+	"Ranisclus #0" = 0
+	"Rechiar #0" = 0
+	"Rechila #0" = 0
+	"Refulfo #0" = 0
+	"Reirigus #0" = 0
+	"Remismund #0" = 0
+	"Remisol #0" = 0
+	"Rendericus #0" = 0
+	"Ricardo #0" = 0
+	"Richimund #0" = 0
+	"Rodomiro #0" = 0
+	"Roelindus #0" = 0
+	"Romanisco #0" = 0
+	"Romarigus #0" = 0
+	"Sagatus #0" = 0
+	"Saxomero #0" = 0
+	"Segomirus #0" = 0
+	"Sentarius #0" = 0
+	"Sescutus #0" = 0
+	"Sisulfus #0" = 0
+	"Spanarius #0" = 0
+	"Spoderigo #0" = 0
+	"Suavarius #0" = 0
+	"Sunila #0" = 0
+	"Teobald #0" = 0
+	"Teoderedus #0" = 0
+	"Theodemar #0" = 0
+	"Todegogia #0" = 0
+	"Trasmira #0" = 0
+	"Trasoldi #0" = 0
+	"Tumtuldo #0" = 0
+	"Uittimer #0" = 0
+	"Venedario #0" = 0
+	"Veremund #0" = 0
+	"Viamundus #0" = 0
+	"Vidraldus #0" = 0
+	"Villisendo #0" = 0
+	"Vistremiro #0" = 0
+	"Zamarius #0" = 0
+	"Zendasindo #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

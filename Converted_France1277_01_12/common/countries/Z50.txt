@@ -1,0 +1,177 @@
+# Ragusa
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 133 98 17 }
+historical_idea_groups = {
+	naval_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	religious_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Domagna" "Stane" "Nale" "Loncho" "Margerita" "Babalio" "Nixa" "Elena" "Vita" "Fortunato" 
+	"Leonardus" "Ana" "Antolina" "Gervasius" "Drase" "Pericle" "Jachussa" "Bodacia" "Michael" "Schimosa" 
+	"Jacobica" "Nicola" "Paschalis" "Vallius" "Eudokia" "Clara" "Theodotos" "Niketas" "Sibylla" "Eulalia" 
+	"Nikolaos" "Sabas" "Athanasia" "Polykarpos" "Thomais" "Deia" "Rusco" "Mauressa" "Magdalena" "Rado" 
+	"Theophano" "Helene" "Eirene" "Eunike" "Theodora" "Euphemios" "Maurikios" "Kyriakos" "Bardas" "Bartholomaios" 
+	"Zoe" "Eugenia" "Giuditta" "Damianos" "Konstantinos" "Bosporios" "Hypatia" "Thekla" "Petronia" "Rhodanthe" 
+	"Agne" "Boethios" "Aikaterine" "Nikoletta" "Isidoros" "Aigidia" "Traianos" "Calenda" "Antipatra" "Adrianos" 
+	"Andre" "Nikarete" "Maria" "Juliano" "Laurenzo" "Maroe" "Thoma" "Rossa" "Regina" "Caterina" 
+	"Nicoletta" "Anna" "Jelussa" "Mare" "Marinus" "Petrus" "Vele" "Giuco" "Rade" "Dea" 
+	"Bisti" "Perue" "Gaucoli" "Gauzoli" "Blaxius" "Eudoxios" "Lucarus" "Rassinus" "Clime" "Comes" 
+	"Nichiforus" "Junius" "Andreas" "Give" "Jugno" "Marco" "Matheus" "Pascalis" "Pasqualis" "Petragna" 
+	"Piero" "Tuone" }
+monarch_names = {
+	"Domagna #1" = 21
+	"Stane #0" = 1
+	"Nale #1" = 27
+	"Loncho #3" = 33
+	"Margerita #0" = -1
+	"Babalio #0" = -1
+	"Nixa #0" = -1
+	"Elena #0" = -1
+	"Vita #1" = 21
+	"Fortunato #0" = 1
+	"Leonardus #2" = 21
+	"Ana #0" = -1
+	"Antolina #0" = -1
+	"Gervasius #0" = 1
+	"Drase #0" = -1
+	"Pericle #0" = 1
+	"Jachussa #0" = -1
+	"Bodacia #0" = -1
+	"Michael #1" = 36
+	"Schimosa #0" = -1
+	"Jacobica #0" = -1
+	"Nicola #3" = 27
+	"Paschalis #1" = 27
+	"Vallius #0" = 1
+	"Eudokia #0" = -1
+	"Clara #0" = -1
+	"Theodotos #0" = 1
+	"Niketas #0" = 1
+	"Sibylla #0" = -1
+	"Eulalia #0" = -1
+	"Nikolaos #0" = 1
+	"Sabas #0" = 1
+	"Athanasia #0" = -1
+	"Polykarpos #2" = 21
+	"Thomais #0" = -1
+	"Deia #0" = -1
+	"Rusco #1" = 18
+	"Mauressa #0" = -1
+	"Magdalena #0" = -1
+	"Rado #0" = -1
+	"Theophano #0" = -1
+	"Helene #0" = -1
+	"Eirene #0" = -1
+	"Eunike #0" = -1
+	"Theodora #0" = -1
+	"Euphemios #0" = 1
+	"Maurikios #0" = 1
+	"Kyriakos #0" = 1
+	"Bardas #0" = 1
+	"Bartholomaios #0" = 1
+	"Zoe #0" = -1
+	"Eugenia #0" = -1
+	"Giuditta #0" = -1
+	"Damianos #1" = 18
+	"Konstantinos #0" = 1
+	"Bosporios #0" = 1
+	"Hypatia #0" = -1
+	"Thekla #0" = -1
+	"Petronia #0" = -1
+	"Rhodanthe #0" = -1
+	"Agne #0" = -1
+	"Boethios #1" = 18
+	"Aikaterine #0" = -1
+	"Nikoletta #0" = -1
+	"Isidoros #0" = 1
+	"Aigidia #0" = -1
+	"Traianos #0" = 1
+	"Calenda #1" = 18
+	"Antipatra #0" = -1
+	"Adrianos #0" = 1
+	"Andre #3" = 21
+	"Nikarete #0" = -1
+	"Maria #0" = -1
+	"Juliano #2" = 24
+	"Laurenzo #2" = 30
+	"Maroe #2" = 18
+	"Thoma #1" = 18
+	"Rossa #0" = -1
+	"Regina #0" = -1
+	"Caterina #0" = -1
+	"Nicoletta #0" = -1
+	"Anna #0" = -1
+	"Jelussa #0" = -1
+	"Mare #1" = 18
+	"Marinus #0" = 1
+	"Petrus #1" = 18
+	"Vele #0" = -1
+	"Giuco #0" = 1
+	"Rade #0" = -1
+	"Dea #0" = -1
+	"Bisti #0" = 1
+	"Perue #1" = 0
+	"Gaucoli #1" = 0
+	"Gauzoli #1" = 0
+	"Blaxius #1" = 0
+	"Eudoxios #1" = 0
+	"Lucarus #1" = 0
+	"Rassinus #2" = 0
+	"Clime #1" = 0
+	"Comes #2" = 0
+	"Nichiforus #1" = 0
+	"Junius #1" = 0
+	"Andreas #0" = 0
+	"Give #0" = 0
+	"Jugno #0" = 0
+	"Marco #0" = 0
+	"Matheus #0" = 0
+	"Pascalis #0" = 0
+	"Pasqualis #0" = 0
+	"Petragna #0" = 0
+	"Piero #0" = 0
+	"Tuone #0" = 0
+}
+ship_names = {
+	Agatobles Altavilla Apollo Archimede Audaze Borbone
+	Calabria Capitana Diana Disttrutore Drago
+	Ercole Etna "Federigo Barbarossa" Folgorante Fulminante
+	Generoso Guiscardo Hohenstaufen Idra Invencibile L'Aretusa Jupiter
+	"Maria Inmacolata" Marte Mercurio Messaggero Minerva
+	Napoli Navigante Nettuno Palinuro Partenope Pegaso 
+	Peloro Plutone Puglia "Purissima Concezione"
+	"Re Carlo" "Re Federigo" "Re Ferrante" "Regina dei Mari"
+	"S.Francesco d'Assisi" Saetta "San Antonio" "San Carlo"
+	"San Ferdinando" "San Vito" Sannita "Santa Amalia" "Santa Helena"
+	"Santa Lucia" "Santa Wenfrida" Sant'Agata Sant'Agatone
+	Sibilla Sicilia Sirena Tancredi Veloce
+}
+

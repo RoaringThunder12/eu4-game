@@ -1,0 +1,132 @@
+# Novgorod
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 149 166 106 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	religious_ideas
+	administrative_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Yelisey" "Dobrynia" "Yaroslav" "Tatyana" "Olena" "Alexei" "Dobrava" "Praskovya" "Varvara" "Liudmila" 
+	"Rostislav" "Ulyana" "Gavriil" "Pribislava" "Feodora" "Voislav" "Iziaslav" "Volodar" "Afanasiy" "Alexandr" 
+	"Andrei" "Boris" "Briachislav" "Daniil" "Davyd" "Demid" "Dmitriy" "Fedot" "Feodor" "Gleb" 
+	"Grigoriy" "Iakov" "Igor" "Iliya" "Ingvar" "Ivan" "Kirill" "Konstantin" "Koz'ma" "Lev" 
+	"Matfei" "Mikhail" "Mitrofan" "Mstislav" "Nikita" "Oleg" "Pavel" "Putiata" "Radoslav" "Rodislav" 
+	"Rogvolod" "Roman" "Rurik" "Ruslan" "Stanislav" "Stepan" "Sudislav" "Svetozar" "Sviatopolk" "Sviatoslav" 
+	"Terentiy" "Trifon" "Vasiliy" "Vasilko" "Viacheslav" "Vladimir" "Vladislav" "Vseslav" "Vsevolod" "Vyshata" 
+	"Vysheslav" "Yaropolk" "Yefimiy" "Yemelyan" "Yeremey" "Yevstafiy" "Yuriy" }
+monarch_names = {
+	"Yelisey #0" = 1
+	"Dobrynia #0" = 1
+	"Yaroslav #0" = 1
+	"Tatyana #0" = -1
+	"Olena #0" = -1
+	"Alexei #0" = 1
+	"Dobrava #0" = -1
+	"Praskovya #0" = -1
+	"Varvara #0" = -1
+	"Liudmila #0" = -1
+	"Rostislav #0" = 1
+	"Ulyana #0" = -1
+	"Gavriil #0" = 1
+	"Pribislava #0" = -1
+	"Feodora #0" = -1
+	"Voislav #0" = 1
+	"Iziaslav #0" = 1
+	"Volodar #0" = 1
+	"Afanasiy #0" = 0
+	"Alexandr #0" = 0
+	"Andrei #0" = 0
+	"Boris #0" = 0
+	"Briachislav #0" = 0
+	"Daniil #0" = 0
+	"Davyd #0" = 0
+	"Demid #0" = 0
+	"Dmitriy #0" = 0
+	"Fedot #0" = 0
+	"Feodor #0" = 0
+	"Gleb #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Ingvar #0" = 0
+	"Ivan #0" = 0
+	"Kirill #0" = 0
+	"Konstantin #0" = 0
+	"Koz'ma #0" = 0
+	"Lev #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Mitrofan #0" = 0
+	"Mstislav #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Putiata #0" = 0
+	"Radoslav #0" = 0
+	"Rodislav #0" = 0
+	"Rogvolod #0" = 0
+	"Roman #0" = 0
+	"Rurik #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Stepan #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Vasiliy #0" = 0
+	"Vasilko #0" = 0
+	"Viacheslav #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Vseslav #0" = 0
+	"Vsevolod #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yaropolk #0" = 0
+	"Yefimiy #0" = 0
+	"Yemelyan #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
+	"Yuriy #0" = 0
+}
+ship_names = {
+	"Staraya Russa" Ladoga Torzhok Oreshek
+	"Alexander Nevsky" Pestrovo Valdai Kholm
+	Borovichi Luga Msta "Ozero I'lmen" Lovat
+	Polist Redja Pola Visera Volchov Selon Polomet
+}
+

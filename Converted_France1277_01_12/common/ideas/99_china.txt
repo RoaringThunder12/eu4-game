@@ -1,0 +1,5 @@
+CHI_ideas = {
+	trigger = {
+		always = no
+	}
+}

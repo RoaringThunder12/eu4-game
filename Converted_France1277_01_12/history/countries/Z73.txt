@@ -1,0 +1,27 @@
+# Nefoud
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 392
+1406.10.7 = {
+	monarch = {
+		name = "Turhan"
+		birth_date = 1367.4.21
+		dynasty = "Samarrid"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 392
+	add_treasury = 27
+	add_prestige = 352
+}

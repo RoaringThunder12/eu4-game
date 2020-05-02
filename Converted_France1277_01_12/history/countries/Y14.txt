@@ -1,0 +1,26 @@
+# Vidin
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khazar
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2746
+1433.12.24 = {
+	monarch = {
+		name = "Baghatur"
+		birth_date = 1415.10.19
+		dynasty = "Tuzniqid"
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2746
+	add_treasury = 33
+	add_prestige = 157
+}

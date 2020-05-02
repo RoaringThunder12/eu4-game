@@ -1,0 +1,26 @@
+# Korkutid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4122
+1438.3.29 = {
+	monarch = {
+		name = "Aydin"
+		birth_date = 1398.6.22
+		dynasty = "Korkutid"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4122
+	add_treasury = 17
+	add_prestige = 31
+}

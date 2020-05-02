@@ -1,0 +1,26 @@
+# Boukellarion
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2196
+1438.4.4 = {
+	monarch = {
+		name = "Ignatios"
+		birth_date = 1422.12.10
+		dynasty = "Adrianos"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 2196
+	add_treasury = 72
+	add_prestige = 46
+}

@@ -1,0 +1,39 @@
+# Jerusalem
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 379
+1440.3.24 = {
+	monarch = {
+		name = "Adalbero"
+		birth_date = 1417.2.2
+		dynasty = "Varbertingi"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = fertile_personality
+}
+1442.8.13 = {
+	heir = {
+		name = "Alessandra"
+		monarch_name = "Alessandra"
+		dynasty = "Varbertingi"
+		birth_date = 1442.8.13
+		death_date = 1522.8.13
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 379
+	add_treasury = 639
+	add_prestige = 486
+}

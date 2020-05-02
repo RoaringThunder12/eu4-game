@@ -1,0 +1,27 @@
+# Coloneia
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = sunni
+clear_scripted_personalities = yes
+capital = 329
+1428.4.6 = {
+	monarch = {
+		name = "Isaias"
+		birth_date = 1414.5.9
+		dynasty = "Emichid"
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 329
+	add_treasury = 328
+	add_prestige = 228
+}

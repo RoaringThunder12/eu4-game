@@ -1,0 +1,105 @@
+# Barsbekid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 233 120 127 }
+
+
+
+
+leader_names = {
+
+	"Karadakh" "Këlyamal" "Khuterkin" "Simsam" "Lyukha" "Yasar" "Çeçtilet" "Yabghu" "Tabghaç" "Kätyarikka" 
+	"Bälgiçi" "Ötemis" "Yeldem" "Bugha" "Bulçan" "Yavantey" "Ipekel" "Gulay" "Bozçin" "Tuzniq" 
+	"Khatir" "Yeçtirek" "Barsbek" "Maturkka" "Gulçiçäk" "Ipek" "Sarantay" "Vakrim" "Çorpan" "Ikalay" 
+	"Ilik" "Savintik" "Sirin" "Tähtani" "Papaçyz" "Patiyer" "Çeçki" "Tarkhan" "Songul" "Yilig" 
+	"Itakh" "Paykëlti" "Sarica" "Yençepi" "Barjik" "Busir" "Umay" "Naça" "Täbär" "Özlem" 
+	"Irge" "Puyantay" "Savkëlti" "Sibel" "Parsbit" "Savtilek" "Mala" "Mänär" "Alp" "Araslan" 
+	"Bagha" "Baghatur" "Bastu" "Bashtwa" "Bihor" "Böri" "Bulan" "Buzer" "Çat" "Çat'n" 
+	"Iltäbär" "Kamaj" "Kayghalagh" "Kibar" "Kisa" "Kundaçiq" "Kundaç" "Mänäs" "Mënümarót" "Samsam" 
+	"Sartäç" "Tarmaç" "Yerneslu" }
+monarch_names = {
+	"Karadakh #1" = 27
+	"Këlyamal #0" = -1
+	"Khuterkin #1" = 18
+	"Simsam #1" = 21
+	"Lyukha #0" = -1
+	"Yasar #0" = -1
+	"Çeçtilet #0" = -1
+	"Yabghu #0" = 1
+	"Tabghaç #1" = 18
+	"Kätyarikka #0" = -1
+	"Bälgiçi #0" = 1
+	"Ötemis #0" = 1
+	"Yeldem #0" = -1
+	"Bugha #1" = 21
+	"Bulçan #0" = 1
+	"Yavantey #0" = 1
+	"Ipekel #0" = -1
+	"Gulay #0" = -1
+	"Bozçin #0" = -1
+	"Tuzniq #0" = 1
+	"Khatir #1" = 18
+	"Yeçtirek #0" = 1
+	"Barsbek #1" = 24
+	"Maturkka #0" = -1
+	"Gulçiçäk #0" = -1
+	"Ipek #0" = -1
+	"Sarantay #0" = -1
+	"Vakrim #2" = 27
+	"Çorpan #1" = 21
+	"Ikalay #0" = -1
+	"Ilik #0" = 1
+	"Savintik #0" = -1
+	"Sirin #0" = -1
+	"Tähtani #0" = -1
+	"Papaçyz #0" = 1
+	"Patiyer #0" = -1
+	"Çeçki #0" = -1
+	"Tarkhan #0" = 1
+	"Songul #0" = -1
+	"Yilig #0" = 1
+	"Itakh #0" = 1
+	"Paykëlti #0" = -1
+	"Sarica #0" = -1
+	"Yençepi #0" = 1
+	"Barjik #0" = 1
+	"Busir #0" = 1
+	"Umay #0" = -1
+	"Naça #0" = -1
+	"Täbär #1" = 21
+	"Özlem #0" = -1
+	"Irge #0" = -1
+	"Puyantay #0" = -1
+	"Savkëlti #0" = -1
+	"Sibel #0" = -1
+	"Parsbit #0" = -1
+	"Savtilek #0" = -1
+	"Mala #0" = -1
+	"Mänär #0" = 1
+	"Alp #0" = 0
+	"Araslan #0" = 0
+	"Bagha #0" = 0
+	"Baghatur #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bulan #0" = 0
+	"Buzer #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Iltäbär #0" = 0
+	"Kamaj #0" = 0
+	"Kayghalagh #0" = 0
+	"Kibar #0" = 0
+	"Kisa #0" = 0
+	"Kundaçiq #0" = 0
+	"Kundaç #0" = 0
+	"Mänäs #0" = 0
+	"Mënümarót #0" = 0
+	"Samsam #0" = 0
+	"Sartäç #0" = 0
+	"Tarmaç #0" = 0
+	"Yerneslu #0" = 0
+}
+

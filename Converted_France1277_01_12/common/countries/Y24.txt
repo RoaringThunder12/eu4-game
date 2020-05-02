@@ -1,0 +1,77 @@
+# Kayghalaid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 232 242 176 }
+
+
+
+
+leader_names = {
+
+	"Ötemis" "Kayghalagh" "Vakrim" "Tuzniq" "Baghatur" "Busir" "Samur" "Alp" "Araslan" "Bagha" 
+	"Bälgiçi" "Barjik" "Barsbek" "Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" "Bulan" "Bulçan" 
+	"Buzer" "Çat" "Çat'n" "Çorpan" "Ilik" "Iltäbär" "Itakh" "Kamaj" "Karadakh" "Khatir" 
+	"Khuterkin" "Kibar" "Kisa" "Kundaçiq" "Kundaç" "Mänär" "Mänäs" "Mënümarót" "Papaçyz" "Samsam" 
+	"Sartäç" "Simsam" "Täbär" "Tabghaç" "Tarkhan" "Tarmaç" "Yabghu" "Yavantey" "Yençepi" "Yerneslu" 
+	"Yeçtirek" "Yilig" }
+monarch_names = {
+	"Ötemis #0" = 1
+	"Kayghalagh #1" = 18
+	"Vakrim #0" = 1
+	"Tuzniq #0" = 1
+	"Baghatur #0" = 1
+	"Busir #0" = 1
+	"Samur #0" = -1
+	"Alp #0" = 0
+	"Araslan #0" = 0
+	"Bagha #0" = 0
+	"Bälgiçi #0" = 0
+	"Barjik #0" = 0
+	"Barsbek #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bugha #0" = 0
+	"Bulan #0" = 0
+	"Bulçan #0" = 0
+	"Buzer #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Çorpan #0" = 0
+	"Ilik #0" = 0
+	"Iltäbär #0" = 0
+	"Itakh #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Khatir #0" = 0
+	"Khuterkin #0" = 0
+	"Kibar #0" = 0
+	"Kisa #0" = 0
+	"Kundaçiq #0" = 0
+	"Kundaç #0" = 0
+	"Mänär #0" = 0
+	"Mänäs #0" = 0
+	"Mënümarót #0" = 0
+	"Papaçyz #0" = 0
+	"Samsam #0" = 0
+	"Sartäç #0" = 0
+	"Simsam #0" = 0
+	"Täbär #0" = 0
+	"Tabghaç #0" = 0
+	"Tarkhan #0" = 0
+	"Tarmaç #0" = 0
+	"Yabghu #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+	"Yilig #0" = 0
+
+
+	"Çeçki #0" = -1
+	"Lyukha #0" = -1
+	"Gunduz #0" = -1
+	"Patiyer #0" = -1
+}
+

@@ -1,0 +1,162 @@
+# Savonia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 110 5 5 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Haapa" "Asko" "Uoti" "Tohmas" "Lauri" "Katarina" "Titti" "Auni" "Taimi" "Skuld" 
+	"Karl" "Kaarle" "Terho" "Georg" "Tuovi" "Eua" "Mats" "Anna" "Rögnhildr" "Maer" 
+	"Ingrid" "Ihanti" "Xëryuchi" "Sarak" "Yapti" "Nabtiko" "Olavi" "Alik" "Vesa" "Hintsa" 
+	"Päiviö" "Mielitty" "Ukko" "Aatos" "Ahma" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" 
+	"Hannu" "Havu" "Into" "Jalo" "Jurva" "Kaleva" "Kalevi" "Kettu" "Kolli" "Lalli" 
+	"Lemetti" "Miemo" "Mikko" "Oiva" "Onni" "Otso" "Pyry" "Pentti" "Reko" "Sampo" 
+	"Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" "Toivo" "Urho" "Väinö" "Valta" "Valto" 
+	"Veli" "Voitto" "Erkki" "Johannes" "Risto" "Petri" "Henri" "Yrjö" "Valteri" "Riku" 
+	"Matti" "Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" "Tuokko" "Rieti" "Kauro" 
+	"Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" }
+monarch_names = {
+	"Haapa #2" = 21
+	"Asko #0" = 1
+	"Uoti #0" = 1
+	"Tohmas #0" = 1
+	"Lauri #0" = 1
+	"Katarina #0" = -1
+	"Titti #0" = -1
+	"Auni #0" = -1
+	"Taimi #0" = -1
+	"Skuld #0" = -1
+	"Karl #1" = 18
+	"Kaarle #1" = 18
+	"Terho #0" = 1
+	"Georg #1" = 21
+	"Tuovi #0" = -1
+	"Eua #0" = -1
+	"Mats #0" = 1
+	"Anna #0" = -1
+	"Rögnhildr #0" = -1
+	"Maer #0" = -1
+	"Ingrid #0" = -1
+	"Ihanti #2" = 0
+	"Xëryuchi #3" = 0
+	"Sarak #1" = 0
+	"Yapti #2" = 0
+	"Nabtiko #1" = 0
+	"Olavi #2" = 0
+	"Alik #1" = 0
+	"Vesa #1" = 0
+	"Hintsa #1" = 0
+	"Päiviö #1" = 0
+	"Mielitty #1" = 0
+	"Ukko #1" = 0
+	"Aatos #0" = 0
+	"Ahma #0" = 0
+	"Aimo #0" = 0
+	"Armas #0" = 0
+	"Arvo #0" = 0
+	"Asikko #0" = 0
+	"Ensio #0" = 0
+	"Hannu #0" = 0
+	"Havu #0" = 0
+	"Into #0" = 0
+	"Jalo #0" = 0
+	"Jurva #0" = 0
+	"Kaleva #0" = 0
+	"Kalevi #0" = 0
+	"Kettu #0" = 0
+	"Kolli #0" = 0
+	"Lalli #0" = 0
+	"Lemetti #0" = 0
+	"Miemo #0" = 0
+	"Mikko #0" = 0
+	"Oiva #0" = 0
+	"Onni #0" = 0
+	"Otso #0" = 0
+	"Pyry #0" = 0
+	"Pentti #0" = 0
+	"Reko #0" = 0
+	"Sampo #0" = 0
+	"Satajalka #0" = 0
+	"Satatieto #0" = 0
+	"Seppo #0" = 0
+	"Susi #0" = 0
+	"Tapani #0" = 0
+	"Toivo #0" = 0
+	"Urho #0" = 0
+	"Väinö #0" = 0
+	"Valta #0" = 0
+	"Valto #0" = 0
+	"Veli #0" = 0
+	"Voitto #0" = 0
+	"Erkki #0" = 0
+	"Johannes #0" = 0
+	"Risto #0" = 0
+	"Petri #0" = 0
+	"Henri #0" = 0
+	"Yrjö #0" = 0
+	"Valteri #0" = 0
+	"Riku #0" = 0
+	"Matti #0" = 0
+	"Jaakoppi #0" = 0
+	"Taisto #0" = 0
+	"Paavo #0" = 0
+	"Aatso #0" = 0
+	"Ahvo #0" = 0
+	"Aarto #0" = 0
+	"Tuokko #0" = 0
+	"Rieti #0" = 0
+	"Kauro #0" = 0
+	"Kuuti #0" = 0
+	"Pekko #0" = 0
+	"Soini #0" = 0
+	"Tuure #0" = 0
+	"Turo #0" = 0
+	"Tommo #0" = 0
+}
+ship_names = {
+	Agricola Aura
+	Borgå "Birger Jarl"
+	Helsingfors Hakkapeliitta
+	Ilmarinen
+	Kullervo Karelen Kymi
+	Lemminkäinen Lapland
+	Nyland
+	Oulu
+	"Per Brahe"
+	Sampo "St. Henrik" Savolax
+	Tavastehus Tavastland
+	Väinämöinen Vasa Viborg Vanda Vuoksi
+	Åbo
+	Österbotten
+}
+

@@ -1,0 +1,27 @@
+# Austergautland
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = swedish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2
+1417.12.17 = {
+	monarch = {
+		name = "Gudbrand"
+		birth_date = 1403.9.9
+		dynasty = "Væni"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 2
+	add_treasury = 15
+	add_prestige = 62
+}

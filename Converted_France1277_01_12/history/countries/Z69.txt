@@ -1,0 +1,27 @@
+# Pamir
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = saka
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2073
+1430.5.15 = {
+	monarch = {
+		name = "Belek"
+		birth_date = 1392.3.14
+		dynasty = "Abbasid"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 2073
+	add_treasury = 122
+	add_prestige = 682
+}

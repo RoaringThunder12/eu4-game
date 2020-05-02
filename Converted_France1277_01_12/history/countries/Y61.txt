@@ -1,0 +1,40 @@
+# Naderid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = kharijite
+clear_scripted_personalities = yes
+capital = 352
+1431.1.4 = {
+	monarch = {
+		name = "Jibril II"
+		birth_date = 1409.2.12
+		dynasty = "Naderid"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = tolerant_personality
+}
+1434.4.4 = {
+	heir = {
+		name = "Jibril"
+		monarch_name = "Jibril III"
+		dynasty = "Naderid"
+		birth_date = 1434.4.4
+		death_date = 1514.4.4
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 352
+	add_treasury = 18
+	add_prestige = 56
+}

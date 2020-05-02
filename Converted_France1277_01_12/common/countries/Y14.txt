@@ -1,0 +1,148 @@
+# Vidin
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 122 103 58 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Tuzniq" "Barsbek" "Buzer" "Araslan" "Joscella" "Çilen" "Ipekel" "Bulan" "Kundaçiq" "Yeldem" 
+	"Gulay" "Asli" "Çiçäk" "Alp" "Mutlu" "Mänäs" "Itakh" "Savkëlti" "Tarkhan" "Khatir" 
+	"Barjik" "Iltäbär" "Savtilek" "Yartilek" "Tabghaç" "Ilik" "Paykëlti" "Yerneslu" "Savilay" "Kätyarikka" 
+	"Bagha" "Peksen" "Çeçki" "Usunbike" "Samur" "Sarä" "Sarikel" "Gulçiçäk" "Yençepi" "Baghatur" 
+	"Kisa" "Ayten" "Kayghalagh" "Irge" "Mënümarót" "Yeçtirek" "Täbär" "Asparukh" "Urus" "Umor" 
+	"Uturgur" "Tatra" "Eskhakh" "Gostun" "Vinekh" "Khalil" "Ioannes" "Iginu" "Viviana" "Sergios" 
+	"Amalia" "Athanasia" "Aikaterine" "Tarmaç" "Bälgiçi" "Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" 
+	"Bulçan" "Busir" "Çat" "Çat'n" "Çorpan" "Kamaj" "Karadakh" "Khuterkin" "Kibar" "Kundaç" 
+	"Mänär" "Ötemis" "Papaçyz" "Samsam" "Sartäç" "Simsam" "Vakrim" "Yabghu" "Yavantey" "Yilig" }
+monarch_names = {
+	"Tuzniq #1" = 30
+	"Barsbek #0" = 1
+	"Buzer #0" = 1
+	"Araslan #1" = 27
+	"Joscella #0" = -1
+	"Çilen #0" = -1
+	"Ipekel #0" = -1
+	"Bulan #0" = 1
+	"Kundaçiq #1" = 18
+	"Yeldem #0" = -1
+	"Gulay #0" = -1
+	"Asli #0" = -1
+	"Çiçäk #0" = -1
+	"Alp #0" = 1
+	"Mutlu #0" = -1
+	"Mänäs #0" = 1
+	"Itakh #0" = 1
+	"Savkëlti #0" = -1
+	"Tarkhan #0" = 1
+	"Khatir #0" = 1
+	"Barjik #0" = 1
+	"Iltäbär #0" = 1
+	"Savtilek #0" = -1
+	"Yartilek #0" = -1
+	"Tabghaç #0" = 1
+	"Ilik #1" = 18
+	"Paykëlti #0" = -1
+	"Yerneslu #1" = 24
+	"Savilay #0" = -1
+	"Kätyarikka #0" = -1
+	"Bagha #2" = 21
+	"Peksen #0" = -1
+	"Çeçki #0" = -1
+	"Usunbike #0" = -1
+	"Samur #0" = -1
+	"Sarä #0" = -1
+	"Sarikel #0" = -1
+	"Gulçiçäk #0" = -1
+	"Yençepi #0" = 1
+	"Baghatur #1" = 18
+	"Kisa #0" = 1
+	"Ayten #0" = -1
+	"Kayghalagh #1" = 18
+	"Irge #0" = -1
+	"Mënümarót #0" = 1
+	"Yeçtirek #0" = 1
+	"Täbär #0" = 1
+	"Asparukh #1" = 0
+	"Urus #1" = 0
+	"Umor #1" = 0
+	"Uturgur #1" = 0
+	"Tatra #1" = 0
+	"Eskhakh #1" = 0
+	"Gostun #1" = 0
+	"Vinekh #1" = 0
+	"Khalil #1" = 0
+	"Ioannes #1" = 0
+	"Iginu #1" = 0
+	"Viviana #2" = -1
+	"Sergios #1" = 0
+	"Amalia #1" = -1
+	"Athanasia #1" = -1
+	"Aikaterine #1" = -1
+	"Tarmaç #1" = 0
+	"Bälgiçi #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bugha #0" = 0
+	"Bulçan #0" = 0
+	"Busir #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Çorpan #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Khuterkin #0" = 0
+	"Kibar #0" = 0
+	"Kundaç #0" = 0
+	"Mänär #0" = 0
+	"Ötemis #0" = 0
+	"Papaçyz #0" = 0
+	"Samsam #0" = 0
+	"Sartäç #0" = 0
+	"Simsam #0" = 0
+	"Vakrim #0" = 0
+	"Yabghu #0" = 0
+	"Yavantey #0" = 0
+	"Yilig #0" = 0
+}
+ship_names = {
+	Alhtpolo
+	Kiten Kraymorie
+	Lozenets
+	Promorsko
+	Rezovo
+	Sarafovo Sinemorets Sozopol
+	Varara
+}
+

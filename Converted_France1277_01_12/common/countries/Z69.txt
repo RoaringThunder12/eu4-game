@@ -1,0 +1,593 @@
+# Pamir
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 174 120 0 }
+
+
+
+
+leader_names = {
+
+	"Abbas" "Çiçek" "Lale" "Zuhal" "Is'mail" "Tutus" "Pelagia" "Ali" "Sehnaz" "Nagihan" 
+	"Artemios" "Markia" "Shameem" "Alexandra" "Chrysanthos" "Konstantios" "Nur" "Selim" "Musa" "Parween" 
+	"Çaka" "Niphon" "Samir" "Theodosia" "Neslihan" "Shogofa" "Gabriel" "Demir" "Muzaffaraddin" "Ceylan" 
+	"Songul" "Alim" "Kallinikos" "Ioanna" "Maurikios" "Burak" "Gunduz" "Huriye" "Basillike" "Mala" 
+	"Layla" "Tura" "Yakut" "Dogan" "Ayasun" "Serife" "Umur" "Gulay" "Karatay" "Balaban" 
+	"Alkan" "Aghlab" "Fatma" "Apollonia" "Ilkay" "Meletios" "Sajida" "Aksonqor" "Gennadios" "Leyla" 
+	"Bozan" "Meliksah" "Afsin" "Adriane" "Böru" "Epiphania" "Ipek" "Samur" "Rasa" "Kutalmis" 
+	"Jahaira" "Saghar" "Yasar" "Belek" "Tanrivermis" "Esin" "Shahrbano" "Sati" "Nergis" "Reshawna" 
+	"Pavlina" "Lazaros" "Ipekel" "Ramazan" "Ayse" "Çagri" "Philaretos" "Özgul" "Ghamze" "Ridvan" 
+	"Abdullah" "Ubaydallah" "al-Harith" "Asma" "Muhammad" "As-Saffah" "Ibrahim" "Abdallah" "Salih" "Isa" 
+	"al-Sariyy" "Qutham" "Al-Fadl" "al-Hadi" "Al-Mansur" "Hanifa" "Shaiban" "Abbasa" "Shahzadah" "Al-Mahdi" 
+	"Abd al-Bahhab" "Ja'far" "Abd ar-Rahman" "Rayta" "Al-Hadi" "Jibril" "Abd al-Malik" "Faghira" "Khalil" "Ramadan" 
+	"Sholah" "Yasmin" "Yagana" "Harun al-Rashid" "Sheeva" "Qawurd" "Tanaz" "Abdul" "Hasan" "Bahir" 
+	"Murad" "Arwa" "Abdul-Gafur" "Hussayn" "Shujah" "Rafiqa" "Husam" "Rashida" "Asiya" "Amsha" 
+	"Samira" "Taimur" "Souzan" "Idris" "Paywand" "Parand" "Mahmud" "Sheeftah" "Maryam" "Ubayd" 
+	"Mubarak" "Zeyd" "Sami" "Zaynab" "Aram" "Shararah" "Kamala" "Faruk" "Sulayman" "Muslihiddin" 
+	"Abu-Bakr" "Sahba" "Uways" "Akin" "Abdul-Wahab" "Mahdi" "Azam" "Mukhtar" "Simin" "Yahya" 
+	"Salahaddin" "Rahim" "Nasr" "Abdul-Jaleel" "Abdul-Qadir" "Sitara" "Adila" "Bashar" "Semeah" "Burhanaddin" 
+	"Sa'daddin" "Paymaneh" "Nafisa" "Jalil" "Mirza" "Najib" "Jamil" "Fadl" "Nyawela" "Amir" 
+	"Shokouh" "Aarif" "Saaman" "Halil" "Faisal" "Jabir" "Yakta" "Fadil" "Umaya" "Setara" 
+	"Huma" "Duha" "Nastaran" "Hafiz" "Imamaddin" "Qamara" "Habiba" "Abdul-Hamid" "Muhsin" "Nizam" 
+	"Taneen" "Seyfullah" "Karima" "Nasiba" "Mansur" "Abdul-Lateef" "Gulnaz" "Gulpari" "Mehri" "Ibtisam" 
+	"Muaddam" "Zahra" "Bernardine" "Shola" "Hashmaddin" "Fluffy" "Adil" "Nasraddin" "Zahir" "Rabiya" 
+	"Taliba" "Talib" "Aisha" "Hamdan" "Khudayar" "Khalid" "Sabba" "Khaireddin" "Aziza" "Radhi" 
+	"Neelab" "Nuri" "Tawfiq" "Najela" "Akab" "Ashraf" "Mina" "Niki" "Jalila" "Zuhayra" 
+	"Ismat" "Farida" "Shamir" "Kamran" "Hasti" "Khandan" "Mahdokht" "Rasul" "Muzaffar" "Jahan" 
+	"Behnaz" "Khatira" "Khaterah" "Golbahar" "Parsbit" "Munawwar" "Sa'ud" "Ayla" "Salma" "Muzhdah" 
+	"Nikoo" "Abdul-Razzaq" "Porsuk" "Sirhan" "Nahal" "Çilen" "Marwa" "Kaytun" "Nilufer" "Mahsa" 
+	"Hatice" "Hayat" "Sökmen" "Merve" "Alexeia" "Romanos" "Gulbahar" "Anastasios" "Apollonios" "Javaneh" 
+	"Sibel" "Kiliç" "Batuhan" "Umay" "Serap" "Bozçin" "Eulalia" "Madiha" "Usunbike" "Dilber" 
+	"Kaiqobad" "Ghalib" "Romylia" "Leontios" "Savur" "Sadiya" "Sencer" "Aydogdu" "Baturay" "Peksen" 
+	"Ahmet" "Söbuk" "Özlem" "Sibylla" "Suleyman" "Timurtas" "Turhan" "Toktamis" "Sinan" "Kutay" 
+	"Narses" "Gundes" "Baytas" "Akgul" "Yunus" "Eustathia" "Aslihan" "Pamphilios" "Bulend" "Mutlu" 
+	"Tekçe" "Chrysogone" "Dukak" "Irge" "Aydogan" "Yeldem" "Sabas" "Belisarios" "Banu" "Simonis" 
+	"Artuk" "Raphail" "Kurboga" "Aytekin" "Makarios" "Antipatra" "Ertan" "Vahide" "Dorotheos" "Athanasia" 
+	"Saltuk" "Ioulianos" "Sirin" "Ilknur" "Mansure" "Sadiq" "Kaya" "Dilek" "Ioustinos" "Selçuk" 
+	"Azize" "Gulçiçek" "Eunike" "Evanthia" "Kyriake" "Xene" "Romane" "Bahadir" "Hierotheos" "Mustafa" 
+	"Eustratios" "Gerasimos" "Gunes" "Gumus" "Theophano" "Basileios" "Phyllis" "Korkut" "Chrysogonos" "Kasim" 
+	"Bugra" "Agne" "Viviana" "Sevilay" "Damiane" "Inal" "Parthena" "Zenobia" "Ioulia" "Sarica" 
+	"Nikoletta" "Andronikos" "Emine" "Barbara" "Tekin" "Methodios" "Pulcheria" "Orhan" "Kosmas" "Thekla" 
+	"Dunya" "Çiltanesi" "Euphemia" "Bahar" "Nikarete" "Isaias" "Berkan" "Sumru" "Berkiyaruk" "Saim" 
+	"Yaman" "Tolun" "Togay" "Terkhen" "Eudoxia" "Alexios" "Mengucek" "Rustem" "Zehra" "Georgia" 
+	"Ashoka" "Prithvi" "Pakyau" "Punekula" "Malamir" "Suru" "Kourkoutai" "Visaram" "Yeçtirek" "Vadhaga" 
+	"Alysanna" "Arsa" "Aryamgula" "Asi" "Baga" "Bahudhiva" "Bamdaka" "Bhadra" "Bradaysaa" "Brika" 
+	"Capastaka" "Ceguti" "Chika" "Daisai" "Dharma" "Dum" "Dzatsi" "Gostana" "Gulai" "Harka" 
+	"Haskadatta" "Huyi" "Hvam" "Hvarda" "Hvardamaya" "Hvimdu" "Ikam" "Irasamga" "Jabgu" "Jajahasa" 
+	"Kamnai" "Kayam" "Kharusa" "Khina" "Khuradatta" "Khvarnarse" "Kimashana" "Kimashani" "Kimatcuna" "Kirtti" 
+	"Kriti" "Kunala" "Kushtana" "Mamatti" "Manohara" "Murlimin" "Naganpaka" "Nipandaka" "Padatcaina" "Phimduka" 
+	"Presamdha" "Punarrjam" "Purgula" "Raghu" "Samgai" "Samgaka" "Samgalaka" "Sangrama" "Sayausa" "Sham" 
+	"Shambhava" "Shikshananda" "Shinganca" "Shiresala" "Shirvamdai" "Shribhadra" "Shtrugize" "Shudamgula" "Shura" "Sidaka" 
+	"Sihya" "Siladharma" "Simhyi" "Skunkha" "Sthavira" "Sudarrjam" "Sudhana" "Sumauna" "Sumtharaka" "Tayasham" 
+	"Tcusyau" "Vagiti" "Vaham" "Vahana" "Vardhana" "Varman" "Vasudeva" "Vidakai" "Vidaram" "Vijita" 
+	"Vijitasimha" "Vikrama" "Virsha" "Vishirapumna" "Visma" "Ysambasta" "Zambasta" }
+monarch_names = {
+	"Abbas #0" = 1
+	"Çiçek #0" = -1
+	"Lale #0" = -1
+	"Zuhal #0" = -1
+	"Is'mail #2" = 48
+	"Tutus #0" = 1
+	"Pelagia #0" = -1
+	"Ali #0" = 1
+	"Sehnaz #0" = -1
+	"Nagihan #0" = -1
+	"Artemios #0" = 1
+	"Markia #0" = -1
+	"Shameem #0" = -1
+	"Alexandra #0" = -1
+	"Chrysanthos #0" = 1
+	"Konstantios #0" = 1
+	"Nur #0" = -1
+	"Selim #0" = 1
+	"Musa #0" = 1
+	"Parween #0" = -1
+	"Çaka #0" = 1
+	"Niphon #0" = 1
+	"Samir #0" = 1
+	"Theodosia #0" = -1
+	"Neslihan #0" = -1
+	"Shogofa #0" = -1
+	"Gabriel #0" = 1
+	"Demir #0" = 1
+	"Muzaffaraddin #1" = 42
+	"Ceylan #0" = -1
+	"Songul #0" = -1
+	"Alim #0" = 1
+	"Kallinikos #0" = 1
+	"Ioanna #0" = -1
+	"Maurikios #0" = 1
+	"Burak #1" = 54
+	"Gunduz #0" = -1
+	"Huriye #0" = -1
+	"Basillike #0" = -1
+	"Mala #0" = -1
+	"Layla #0" = -1
+	"Tura #0" = -1
+	"Yakut #0" = 1
+	"Dogan #1" = 21
+	"Ayasun #0" = -1
+	"Serife #0" = -1
+	"Umur #0" = 1
+	"Gulay #0" = -1
+	"Karatay #0" = 1
+	"Balaban #0" = 1
+	"Alkan #0" = 1
+	"Aghlab #0" = 1
+	"Fatma #0" = -1
+	"Apollonia #0" = -1
+	"Ilkay #0" = -1
+	"Meletios #0" = 1
+	"Sajida #0" = -1
+	"Aksonqor #2" = 24
+	"Gennadios #0" = 1
+	"Leyla #0" = -1
+	"Bozan #0" = 1
+	"Meliksah #0" = 1
+	"Afsin #0" = 1
+	"Adriane #0" = -1
+	"Böru #0" = 1
+	"Epiphania #0" = -1
+	"Ipek #0" = -1
+	"Samur #0" = -1
+	"Rasa #0" = -1
+	"Kutalmis #1" = 30
+	"Jahaira #0" = -1
+	"Saghar #0" = -1
+	"Yasar #0" = -1
+	"Belek #1" = 18
+	"Tanrivermis #0" = 1
+	"Esin #0" = -1
+	"Shahrbano #0" = -1
+	"Sati #0" = -1
+	"Nergis #0" = -1
+	"Reshawna #0" = -1
+	"Pavlina #0" = -1
+	"Lazaros #0" = 1
+	"Ipekel #0" = -1
+	"Ramazan #0" = 1
+	"Ayse #0" = -1
+	"Çagri #1" = 24
+	"Philaretos #0" = 1
+	"Özgul #0" = -1
+	"Ghamze #0" = -1
+	"Ridvan #0" = 1
+	"Abdullah #0" = 1
+	"Ubaydallah #0" = 1
+	"al-Harith #0" = 1
+	"Asma #0" = -1
+	"Muhammad #0" = 1
+	"As-Saffah #0" = 1
+	"Ibrahim #0" = 1
+	"Abdallah #0" = 1
+	"Salih #0" = 1
+	"Isa #0" = 1
+	"al-Sariyy #0" = 1
+	"Qutham #0" = 1
+	"Al-Fadl #0" = 1
+	"al-Hadi #0" = 1
+	"Al-Mansur #0" = 1
+	"Hanifa #0" = -1
+	"Shaiban #0" = 1
+	"Abbasa #0" = -1
+	"Shahzadah #0" = -1
+	"Al-Mahdi #0" = 1
+	"Abd al-Bahhab #0" = 1
+	"Ja'far #0" = 1
+	"Abd ar-Rahman #0" = 1
+	"Rayta #0" = -1
+	"Al-Hadi #0" = 1
+	"Jibril #0" = 1
+	"Abd al-Malik #0" = 1
+	"Faghira #0" = -1
+	"Khalil #0" = 1
+	"Ramadan #0" = 1
+	"Sholah #0" = -1
+	"Yasmin #0" = -1
+	"Yagana #0" = -1
+	"Harun al-Rashid #0" = 1
+	"Sheeva #0" = -1
+	"Qawurd #0" = 1
+	"Tanaz #0" = -1
+	"Abdul #0" = 1
+	"Hasan #0" = 1
+	"Bahir #0" = 1
+	"Murad #0" = 1
+	"Arwa #0" = -1
+	"Abdul-Gafur #0" = 1
+	"Hussayn #1" = 39
+	"Shujah #0" = 1
+	"Rafiqa #0" = -1
+	"Husam #0" = 1
+	"Rashida #0" = -1
+	"Asiya #0" = -1
+	"Amsha #0" = -1
+	"Samira #0" = -1
+	"Taimur #0" = 1
+	"Souzan #0" = -1
+	"Idris #0" = 1
+	"Paywand #0" = -1
+	"Parand #0" = -1
+	"Mahmud #0" = 1
+	"Sheeftah #0" = -1
+	"Maryam #0" = -1
+	"Ubayd #0" = 1
+	"Mubarak #0" = 1
+	"Zeyd #0" = 1
+	"Sami #0" = 1
+	"Zaynab #0" = -1
+	"Aram #0" = 1
+	"Shararah #0" = -1
+	"Kamala #0" = -1
+	"Faruk #0" = 1
+	"Sulayman #0" = 1
+	"Muslihiddin #0" = 1
+	"Abu-Bakr #0" = 1
+	"Sahba #0" = -1
+	"Uways #0" = 1
+	"Akin #0" = 1
+	"Abdul-Wahab #0" = 1
+	"Mahdi #0" = 1
+	"Azam #0" = 1
+	"Mukhtar #0" = 1
+	"Simin #0" = -1
+	"Yahya #0" = 1
+	"Salahaddin #0" = 1
+	"Rahim #0" = -1
+	"Nasr #0" = 1
+	"Abdul-Jaleel #0" = 1
+	"Abdul-Qadir #0" = 1
+	"Sitara #0" = -1
+	"Adila #0" = -1
+	"Bashar #0" = 1
+	"Semeah #0" = -1
+	"Burhanaddin #0" = 1
+	"Sa'daddin #0" = 1
+	"Paymaneh #0" = -1
+	"Nafisa #0" = -1
+	"Jalil #0" = 1
+	"Mirza #0" = 1
+	"Najib #0" = 1
+	"Jamil #0" = 1
+	"Fadl #0" = 1
+	"Nyawela #0" = -1
+	"Amir #0" = 1
+	"Shokouh #0" = -1
+	"Aarif #0" = 1
+	"Saaman #0" = -1
+	"Halil #0" = 1
+	"Faisal #0" = 1
+	"Jabir #0" = 1
+	"Yakta #0" = -1
+	"Fadil #0" = 1
+	"Umaya #0" = 1
+	"Setara #0" = -1
+	"Huma #0" = -1
+	"Duha #0" = -1
+	"Nastaran #0" = -1
+	"Hafiz #0" = 1
+	"Imamaddin #0" = 1
+	"Qamara #0" = -1
+	"Habiba #0" = -1
+	"Abdul-Hamid #0" = 1
+	"Muhsin #0" = 1
+	"Nizam #0" = 1
+	"Taneen #0" = -1
+	"Seyfullah #0" = 1
+	"Karima #0" = -1
+	"Nasiba #0" = -1
+	"Mansur #0" = 1
+	"Abdul-Lateef #0" = 1
+	"Gulnaz #0" = -1
+	"Gulpari #0" = -1
+	"Mehri #0" = -1
+	"Ibtisam #0" = -1
+	"Muaddam #0" = 1
+	"Zahra #0" = -1
+	"Bernardine #0" = -1
+	"Shola #0" = -1
+	"Hashmaddin #0" = 1
+	"Fluffy #0" = 1
+	"Adil #0" = 1
+	"Nasraddin #0" = 1
+	"Zahir #0" = 1
+	"Rabiya #0" = -1
+	"Taliba #0" = -1
+	"Talib #0" = 1
+	"Aisha #0" = -1
+	"Hamdan #0" = 1
+	"Khudayar #0" = 1
+	"Khalid #0" = 1
+	"Sabba #0" = -1
+	"Khaireddin #0" = 1
+	"Aziza #0" = -1
+	"Radhi #0" = 1
+	"Neelab #0" = -1
+	"Nuri #0" = 1
+	"Tawfiq #0" = 1
+	"Najela #0" = -1
+	"Akab #0" = 1
+	"Ashraf #0" = 1
+	"Mina #0" = -1
+	"Niki #0" = -1
+	"Jalila #0" = -1
+	"Zuhayra #0" = -1
+	"Ismat #0" = 1
+	"Farida #0" = -1
+	"Shamir #0" = 1
+	"Kamran #0" = 1
+	"Hasti #0" = -1
+	"Khandan #0" = -1
+	"Mahdokht #0" = -1
+	"Rasul #0" = 1
+	"Muzaffar #0" = 1
+	"Jahan #0" = 1
+	"Behnaz #0" = -1
+	"Khatira #0" = -1
+	"Khaterah #0" = -1
+	"Golbahar #0" = -1
+	"Parsbit #0" = -1
+	"Munawwar #0" = -1
+	"Sa'ud #0" = 1
+	"Ayla #0" = -1
+	"Salma #0" = -1
+	"Muzhdah #0" = -1
+	"Nikoo #0" = -1
+	"Abdul-Razzaq #0" = 1
+	"Porsuk #0" = 1
+	"Sirhan #0" = 1
+	"Nahal #0" = -1
+	"Çilen #0" = -1
+	"Marwa #0" = -1
+	"Kaytun #0" = 1
+	"Nilufer #0" = -1
+	"Mahsa #0" = -1
+	"Hatice #0" = -1
+	"Hayat #0" = -1
+	"Sökmen #0" = 1
+	"Merve #0" = -1
+	"Alexeia #0" = -1
+	"Romanos #0" = 1
+	"Gulbahar #0" = -1
+	"Anastasios #0" = 1
+	"Apollonios #0" = 1
+	"Javaneh #0" = -1
+	"Sibel #0" = -1
+	"Kiliç #0" = 1
+	"Batuhan #0" = 1
+	"Umay #0" = -1
+	"Serap #0" = -1
+	"Bozçin #0" = -1
+	"Eulalia #0" = -1
+	"Madiha #0" = -1
+	"Usunbike #0" = -1
+	"Dilber #0" = -1
+	"Kaiqobad #0" = 1
+	"Ghalib #0" = 1
+	"Romylia #0" = -1
+	"Leontios #0" = 1
+	"Savur #1" = 24
+	"Sadiya #0" = -1
+	"Sencer #0" = 1
+	"Aydogdu #0" = 1
+	"Baturay #0" = 1
+	"Peksen #0" = -1
+	"Ahmet #0" = 1
+	"Söbuk #0" = 1
+	"Özlem #0" = -1
+	"Sibylla #0" = -1
+	"Suleyman #0" = 1
+	"Timurtas #0" = 1
+	"Turhan #0" = 1
+	"Toktamis #0" = 1
+	"Sinan #0" = 1
+	"Kutay #0" = 1
+	"Narses #0" = 1
+	"Gundes #0" = -1
+	"Baytas #0" = 1
+	"Akgul #0" = -1
+	"Yunus #0" = 1
+	"Eustathia #0" = -1
+	"Aslihan #0" = -1
+	"Pamphilios #0" = 1
+	"Bulend #0" = 1
+	"Mutlu #0" = -1
+	"Tekçe #0" = -1
+	"Chrysogone #0" = -1
+	"Dukak #0" = 1
+	"Irge #0" = -1
+	"Aydogan #0" = 1
+	"Yeldem #0" = -1
+	"Sabas #0" = 1
+	"Belisarios #0" = 1
+	"Banu #0" = -1
+	"Simonis #0" = -1
+	"Artuk #0" = 1
+	"Raphail #0" = 1
+	"Kurboga #0" = 1
+	"Aytekin #0" = 1
+	"Makarios #0" = 1
+	"Antipatra #0" = -1
+	"Ertan #0" = 1
+	"Vahide #0" = -1
+	"Dorotheos #0" = 1
+	"Athanasia #0" = -1
+	"Saltuk #0" = 1
+	"Ioulianos #0" = 1
+	"Sirin #0" = -1
+	"Ilknur #0" = -1
+	"Mansure #0" = -1
+	"Sadiq #0" = 1
+	"Kaya #0" = 1
+	"Dilek #0" = -1
+	"Ioustinos #0" = 1
+	"Selçuk #0" = 1
+	"Azize #0" = -1
+	"Gulçiçek #0" = -1
+	"Eunike #0" = -1
+	"Evanthia #0" = -1
+	"Kyriake #0" = -1
+	"Xene #0" = -1
+	"Romane #0" = -1
+	"Bahadir #0" = 1
+	"Hierotheos #0" = 1
+	"Mustafa #0" = 1
+	"Eustratios #0" = 1
+	"Gerasimos #0" = 1
+	"Gunes #0" = -1
+	"Gumus #0" = -1
+	"Theophano #0" = -1
+	"Basileios #0" = 1
+	"Phyllis #0" = -1
+	"Korkut #0" = 1
+	"Chrysogonos #0" = 1
+	"Kasim #0" = 1
+	"Bugra #0" = 1
+	"Agne #0" = -1
+	"Viviana #0" = -1
+	"Sevilay #0" = -1
+	"Damiane #0" = -1
+	"Inal #0" = 1
+	"Parthena #0" = -1
+	"Zenobia #0" = -1
+	"Ioulia #0" = -1
+	"Sarica #0" = -1
+	"Nikoletta #0" = -1
+	"Andronikos #0" = 1
+	"Emine #0" = -1
+	"Barbara #0" = -1
+	"Tekin #0" = 1
+	"Methodios #0" = 1
+	"Pulcheria #0" = -1
+	"Orhan #0" = 1
+	"Kosmas #0" = 1
+	"Thekla #0" = -1
+	"Dunya #0" = -1
+	"Çiltanesi #0" = -1
+	"Euphemia #0" = -1
+	"Bahar #0" = -1
+	"Nikarete #0" = -1
+	"Isaias #0" = 1
+	"Berkan #0" = 1
+	"Sumru #0" = -1
+	"Berkiyaruk #0" = 1
+	"Saim #0" = 1
+	"Yaman #0" = 1
+	"Tolun #0" = 1
+	"Togay #0" = 1
+	"Terkhen #0" = -1
+	"Eudoxia #0" = -1
+	"Alexios #0" = 1
+	"Mengucek #0" = 1
+	"Rustem #0" = 1
+	"Zehra #0" = -1
+	"Georgia #0" = -1
+	"Ashoka #2" = 0
+	"Prithvi #1" = 0
+	"Pakyau #1" = 0
+	"Punekula #1" = 0
+	"Malamir #1" = 0
+	"Suru #1" = 0
+	"Kourkoutai #1" = 0
+	"Visaram #1" = 0
+	"Yeçtirek #1" = 0
+	"Vadhaga #1" = 0
+	"Alysanna #0" = 0
+	"Arsa #0" = 0
+	"Aryamgula #0" = 0
+	"Asi #0" = 0
+	"Baga #0" = 0
+	"Bahudhiva #0" = 0
+	"Bamdaka #0" = 0
+	"Bhadra #0" = 0
+	"Bradaysaa #0" = 0
+	"Brika #0" = 0
+	"Capastaka #0" = 0
+	"Ceguti #0" = 0
+	"Chika #0" = 0
+	"Daisai #0" = 0
+	"Dharma #0" = 0
+	"Dum #0" = 0
+	"Dzatsi #0" = 0
+	"Gostana #0" = 0
+	"Gulai #0" = 0
+	"Harka #0" = 0
+	"Haskadatta #0" = 0
+	"Huyi #0" = 0
+	"Hvam #0" = 0
+	"Hvarda #0" = 0
+	"Hvardamaya #0" = 0
+	"Hvimdu #0" = 0
+	"Ikam #0" = 0
+	"Irasamga #0" = 0
+	"Jabgu #0" = 0
+	"Jajahasa #0" = 0
+	"Kamnai #0" = 0
+	"Kayam #0" = 0
+	"Kharusa #0" = 0
+	"Khina #0" = 0
+	"Khuradatta #0" = 0
+	"Khvarnarse #0" = 0
+	"Kimashana #0" = 0
+	"Kimashani #0" = 0
+	"Kimatcuna #0" = 0
+	"Kirtti #0" = 0
+	"Kriti #0" = 0
+	"Kunala #0" = 0
+	"Kushtana #0" = 0
+	"Mamatti #0" = 0
+	"Manohara #0" = 0
+	"Murlimin #0" = 0
+	"Naganpaka #0" = 0
+	"Nipandaka #0" = 0
+	"Padatcaina #0" = 0
+	"Phimduka #0" = 0
+	"Presamdha #0" = 0
+	"Punarrjam #0" = 0
+	"Purgula #0" = 0
+	"Raghu #0" = 0
+	"Samgai #0" = 0
+	"Samgaka #0" = 0
+	"Samgalaka #0" = 0
+	"Sangrama #0" = 0
+	"Sayausa #0" = 0
+	"Sham #0" = 0
+	"Shambhava #0" = 0
+	"Shikshananda #0" = 0
+	"Shinganca #0" = 0
+	"Shiresala #0" = 0
+	"Shirvamdai #0" = 0
+	"Shribhadra #0" = 0
+	"Shtrugize #0" = 0
+	"Shudamgula #0" = 0
+	"Shura #0" = 0
+	"Sidaka #0" = 0
+	"Sihya #0" = 0
+	"Siladharma #0" = 0
+	"Simhyi #0" = 0
+	"Skunkha #0" = 0
+	"Sthavira #0" = 0
+	"Sudarrjam #0" = 0
+	"Sudhana #0" = 0
+	"Sumauna #0" = 0
+	"Sumtharaka #0" = 0
+	"Tayasham #0" = 0
+	"Tcusyau #0" = 0
+	"Vagiti #0" = 0
+	"Vaham #0" = 0
+	"Vahana #0" = 0
+	"Vardhana #0" = 0
+	"Varman #0" = 0
+	"Vasudeva #0" = 0
+	"Vidakai #0" = 0
+	"Vidaram #0" = 0
+	"Vijita #0" = 0
+	"Vijitasimha #0" = 0
+	"Vikrama #0" = 0
+	"Virsha #0" = 0
+	"Vishirapumna #0" = 0
+	"Visma #0" = 0
+	"Ysambasta #0" = 0
+	"Zambasta #0" = 0
+}
+

@@ -1,0 +1,40 @@
+# Anatolia
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4307
+1418.11.4 = {
+	monarch = {
+		name = "Maurikios II"
+		birth_date = 1394.3.18
+		dynasty = "Abbasid"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = naive_personality
+}
+1431.2.17 = {
+	heir = {
+		name = "Alexios"
+		monarch_name = "Alexios"
+		dynasty = "Abbasid"
+		birth_date = 1431.2.17
+		death_date = 1511.2.17
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 4307
+	add_treasury = 413
+	add_prestige = 868
+}

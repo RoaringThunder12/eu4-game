@@ -1,0 +1,27 @@
+# Yolluqid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = uyghur
+religion = zoroastrian
+clear_scripted_personalities = yes
+capital = 1057
+1430.7.2 = {
+	monarch = {
+		name = "Yolluq"
+		birth_date = 1397.1.31
+		dynasty = "Yolluqid"
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 1057
+	add_treasury = 5
+	add_prestige = 59
+}

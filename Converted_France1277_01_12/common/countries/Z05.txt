@@ -1,0 +1,212 @@
+# Viken
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 80 120 215 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Aniel" "Anlaufr" "Sholto" "Wulfhild" "Garalt" "Haldora" "Jorunn" "Cecilia" "Octreda" "Ælfrida" 
+	"Una" "Wulfthryth" "Kentigerna" "Torstein" "Æthelsige" "Castantin" "Durilia" "Cristin" "Tarla" "Bronuen" 
+	"Madru" "Neulina" "Galam" "Gest" "Uunis" "Murtolic" "Crup" "Maud" "Ciniod" "Uuen" 
+	"Elaine" "Ganant" "Pidarnoin" "Caltram" "Allisander" "Addiena" "Mairi" "Aróc" "Girom" "Uen" 
+	"Allust" "Bran" "Éogan" "Telurgan" "Urguist" "Holmfrid" "Caitrion" "Dabíd" "Uuena" "Uluen" 
+	"Bride" "Rubert" "Enuidaig" "Rudri" "Eddarrnonn" "Maelmurie" "Muriel" "Siunod" "Klas" "Morleo" 
+	"Gloð" "Astrid" "Uuredach" "Morag" "Aleta" "Paul" "Sara" "Philip" "Arthur" "Æthelburh" 
+	"Raoul" "Stephan" "Tore" "Ingjerd" "Brian" "Trond" "Halfdan" "Suni" "Totil" "Ingjald" 
+	"Alf" "Guðfrið" "Sturla" "Dag" "Olav" "Håkon" "Bård" "Lutrin" "Eorcenberht" "Alv" 
+	"Arne" "Arnfinn" "Arnkjell" "Arnmod" "Arnvid" "Bjørn" "Eigil" "Eilif" "Einar" "Eirik" 
+	"Erlend" "Erling" "Eystein" "Finn" "Grim" "Gudbrand" "Gudleik" "Gudrød" "Gunnar" "Guttorm" 
+	"Haldor" "Halkjell" "Harald" "Håvard" "Inge" "Ivar" "Jon" "Kåre" "Kolbein" "Lodin" 
+	"Magne" "Magnus" "Ogmund" "Ossor" "Pål" "Ragnar" "Ragnvald" "Rolf" "Sigurd" "Skjalg" 
+	"Skofte" "Skule" "Svein" "Sverre" "Torbjørn" "Tord" "Torgil" "Tormod" "Torolf" "Tryggve" 
+	"Ulv" "Vigleik" "Åle" "Åmund" "Ølver" "Øystein" }
+monarch_names = {
+	"Aniel #0" = 1
+	"Anlaufr #1" = 21
+	"Sholto #0" = -1
+	"Wulfhild #1" = -19
+	"Garalt #0" = 1
+	"Haldora #0" = -1
+	"Jorunn #0" = -1
+	"Cecilia #0" = -1
+	"Octreda #0" = -1
+	"Ælfrida #0" = -1
+	"Una #0" = -1
+	"Wulfthryth #0" = -1
+	"Kentigerna #0" = -1
+	"Torstein #1" = 18
+	"Æthelsige #0" = 1
+	"Castantin #0" = 1
+	"Durilia #0" = -1
+	"Cristin #0" = -1
+	"Tarla #0" = 1
+	"Bronuen #0" = -1
+	"Madru #0" = -1
+	"Neulina #0" = -1
+	"Galam #0" = 1
+	"Gest #0" = 1
+	"Uunis #0" = -1
+	"Murtolic #0" = 1
+	"Crup #0" = 1
+	"Maud #0" = -1
+	"Ciniod #0" = 1
+	"Uuen #0" = 1
+	"Elaine #0" = -1
+	"Ganant #0" = 1
+	"Pidarnoin #0" = 1
+	"Caltram #0" = 1
+	"Allisander #0" = 1
+	"Addiena #0" = -1
+	"Mairi #0" = -1
+	"Aróc #0" = -1
+	"Girom #0" = 1
+	"Uen #0" = -1
+	"Allust #0" = -1
+	"Bran #0" = 1
+	"Éogan #0" = 1
+	"Telurgan #0" = 1
+	"Urguist #0" = 1
+	"Holmfrid #0" = -1
+	"Caitrion #0" = -1
+	"Dabíd #0" = 1
+	"Uuena #0" = -1
+	"Uluen #0" = -1
+	"Bride #0" = -1
+	"Rubert #0" = 1
+	"Enuidaig #0" = 1
+	"Rudri #0" = 1
+	"Eddarrnonn #0" = 1
+	"Maelmurie #0" = -1
+	"Muriel #0" = -1
+	"Siunod #0" = -1
+	"Klas #0" = 1
+	"Morleo #0" = 1
+	"Gloð #0" = -1
+	"Astrid #0" = -1
+	"Uuredach #0" = 1
+	"Morag #0" = -1
+	"Aleta #0" = -1
+	"Paul #0" = 1
+	"Sara #0" = -1
+	"Philip #0" = 1
+	"Arthur #0" = 1
+	"Æthelburh #0" = -1
+	"Raoul #0" = 1
+	"Stephan #0" = 1
+	"Tore #2" = 18
+	"Ingjerd #0" = -1
+	"Brian #0" = 1
+	"Trond #0" = 1
+	"Halfdan #1" = 0
+	"Suni #1" = 0
+	"Totil #1" = 0
+	"Ingjald #1" = 0
+	"Alf #2" = 0
+	"Guðfrið #1" = 0
+	"Sturla #1" = 0
+	"Dag #1" = 0
+	"Olav #1" = 0
+	"Håkon #1" = 0
+	"Bård #1" = 0
+	"Lutrin #1" = 0
+	"Eorcenberht #1" = 0
+	"Alv #0" = 0
+	"Arne #0" = 0
+	"Arnfinn #0" = 0
+	"Arnkjell #0" = 0
+	"Arnmod #0" = 0
+	"Arnvid #0" = 0
+	"Bjørn #0" = 0
+	"Eigil #0" = 0
+	"Eilif #0" = 0
+	"Einar #0" = 0
+	"Eirik #0" = 0
+	"Erlend #0" = 0
+	"Erling #0" = 0
+	"Eystein #0" = 0
+	"Finn #0" = 0
+	"Grim #0" = 0
+	"Gudbrand #0" = 0
+	"Gudleik #0" = 0
+	"Gudrød #0" = 0
+	"Gunnar #0" = 0
+	"Guttorm #0" = 0
+	"Haldor #0" = 0
+	"Halkjell #0" = 0
+	"Harald #0" = 0
+	"Håvard #0" = 0
+	"Inge #0" = 0
+	"Ivar #0" = 0
+	"Jon #0" = 0
+	"Kåre #0" = 0
+	"Kolbein #0" = 0
+	"Lodin #0" = 0
+	"Magne #0" = 0
+	"Magnus #0" = 0
+	"Ogmund #0" = 0
+	"Ossor #0" = 0
+	"Pål #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Sigurd #0" = 0
+	"Skjalg #0" = 0
+	"Skofte #0" = 0
+	"Skule #0" = 0
+	"Svein #0" = 0
+	"Sverre #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Torgil #0" = 0
+	"Tormod #0" = 0
+	"Torolf #0" = 0
+	"Tryggve #0" = 0
+	"Ulv #0" = 0
+	"Vigleik #0" = 0
+	"Åle #0" = 0
+	"Åmund #0" = 0
+	"Ølver #0" = 0
+	"Øystein #0" = 0
+}
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

@@ -1,0 +1,155 @@
+# Ghana
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 62 150 247 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	african_spearmen
+	mali_tribal_warfare
+	african_hill_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	african_western_franchise_warfare
+}
+
+
+
+leader_names = {
+
+	"Kasseï" "Ouati" "Cisse" "Kadi" "Aminata" "Soumaoro" "Mamoudou" "Amita" "Nafissa" "Salimata" 
+	"Sidibé" "Soundiata" "Gao" "Adja" "Bakr" "Abi-Bakr" "Kusoy" "Birama" "Lorane" "Zeïnab" 
+	"Bintou" "Hargani" "Nana" "Kilia" "Kambine" "Bamari" "Manding-Bory" "Fatoumata" "Abubakari" "Siya" 
+	"Aoua" "Igoumou" "Fatim" "Malla" "Hawa" "Dramane" "Seydou" "Drissa" "Alayaman" "Takoi" 
+	"Zaynab" "Maammarou" "Bonkana" "Diobé" "Señram" "Kumay" "Biyu" "Djire" "Sulayman" "Alima" 
+	"Bomou" "Dankaran" "Wati" "Musa" "Daffi" "Jalil" "Hilal" "Fadl" "Shamir" "Sanyo" 
+	"Muhammad" "Muyahid" "Abbad" "Abbas" "Abdallah" "Abdul-Aziz" "Abdul-Hakam" "Abdul-Hasan" "Abdul-Hazm" "Abdul-Rahman" 
+	"Abdul-Razzaq" "Abdul" "Abu" "Abu-Bakr" "Adfuns" "Ahmad" "Ali" "Amr" "Ayyub" "Balashk" 
+	"Bilal" "Fath" "Galind" "Garsiya" "Hakam" "Ibrahim" "Isma'il" "Jyad" "Lubb" "Ma'n" 
+	"Mubashir" "Mundir" "Raf" "Rashid" "Rasiq" "Sa'd" "Siddray" "Suleyman" "Tariq" "Tifilwit" 
+	"Umar" "Utman" "Wannaqo" "Ya'far" "Yahaff" "Yahya" "Yusuf" }
+monarch_names = {
+	"Kasseï #1" = 24
+	"Ouati #1" = 21
+	"Cisse #0" = 1
+	"Kadi #0" = -1
+	"Aminata #0" = -1
+	"Soumaoro #0" = 1
+	"Mamoudou #0" = 1
+	"Amita #0" = -1
+	"Nafissa #0" = -1
+	"Salimata #0" = -1
+	"Sidibé #0" = -1
+	"Soundiata #1" = 18
+	"Gao #1" = 18
+	"Adja #0" = -1
+	"Bakr #0" = 1
+	"Abi-Bakr #0" = 1
+	"Kusoy #0" = 1
+	"Birama #1" = 21
+	"Lorane #1" = -19
+	"Zeïnab #0" = -1
+	"Bintou #0" = -1
+	"Hargani #0" = 1
+	"Nana #0" = -1
+	"Kilia #0" = -1
+	"Kambine #0" = 1
+	"Bamari #0" = 1
+	"Manding-Bory #2" = 18
+	"Fatoumata #0" = -1
+	"Abubakari #0" = 1
+	"Siya #0" = -1
+	"Aoua #0" = -1
+	"Igoumou #1" = 18
+	"Fatim #0" = -1
+	"Malla #1" = 18
+	"Hawa #0" = -1
+	"Dramane #1" = 0
+	"Seydou #1" = 0
+	"Drissa #1" = 0
+	"Alayaman #1" = 0
+	"Takoi #1" = 0
+	"Zaynab #1" = -1
+	"Maammarou #1" = 0
+	"Bonkana #1" = 0
+	"Diobé #1" = 0
+	"Señram #1" = 0
+	"Kumay #1" = 0
+	"Biyu #1" = 0
+	"Djire #1" = -1
+	"Sulayman #1" = 0
+	"Alima #1" = -1
+	"Bomou #2" = 0
+	"Dankaran #2" = 0
+	"Wati #1" = 0
+	"Musa #1" = 0
+	"Daffi #1" = 0
+	"Jalil #1" = 0
+	"Hilal #2" = 0
+	"Fadl #1" = 0
+	"Shamir #2" = 0
+	"Sanyo #1" = 0
+	"Muhammad #1" = 0
+	"Muyahid #1" = 0
+	"Abbad #0" = 0
+	"Abbas #0" = 0
+	"Abdallah #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Hakam #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abdul #0" = 0
+	"Abu #0" = 0
+	"Abu-Bakr #0" = 0
+	"Adfuns #0" = 0
+	"Ahmad #0" = 0
+	"Ali #0" = 0
+	"Amr #0" = 0
+	"Ayyub #0" = 0
+	"Balashk #0" = 0
+	"Bilal #0" = 0
+	"Fath #0" = 0
+	"Galind #0" = 0
+	"Garsiya #0" = 0
+	"Hakam #0" = 0
+	"Ibrahim #0" = 0
+	"Isma'il #0" = 0
+	"Jyad #0" = 0
+	"Lubb #0" = 0
+	"Ma'n #0" = 0
+	"Mubashir #0" = 0
+	"Mundir #0" = 0
+	"Raf #0" = 0
+	"Rashid #0" = 0
+	"Rasiq #0" = 0
+	"Sa'd #0" = 0
+	"Siddray #0" = 0
+	"Suleyman #0" = 0
+	"Tariq #0" = 0
+	"Tifilwit #0" = 0
+	"Umar #0" = 0
+	"Utman #0" = 0
+	"Wannaqo #0" = 0
+	"Ya'far #0" = 0
+	"Yahaff #0" = 0
+	"Yahya #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Kiringa Timbuktu "Koumbi Saleh" Gao
+	Jenne "Sundiata Keita" "Kankan Musa"
+	"Kouroukan Fouga" "Wali Keita" "Quati Keita"
+	"Khalifa Keita" Sakura
+}
+

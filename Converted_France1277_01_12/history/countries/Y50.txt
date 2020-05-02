@@ -1,0 +1,27 @@
+# Damietta
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 362
+1423.8.9 = {
+	monarch = {
+		name = "Aarif"
+		birth_date = 1400.6.9
+		dynasty = "Crawford"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 362
+	add_treasury = 177
+	add_prestige = 152
+}

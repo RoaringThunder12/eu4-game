@@ -1,0 +1,38 @@
+# Khetaka
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2054
+1417.9.11 = {
+	monarch = {
+		name = "Mushkara"
+		birth_date = 1386.5.11
+		dynasty = "Obayammid"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = fertile_personality
+	heir = {
+		name = "Mushkara"
+		monarch_name = "Mushkara"
+		dynasty = "Obayammid"
+		birth_date = 1409.1.27
+		death_date = 1489.1.27
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 2054
+	add_treasury = 27
+	add_prestige = 289
+}

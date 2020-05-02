@@ -1,0 +1,40 @@
+# Nyingchi
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2130
+1413.6.20 = {
+	monarch = {
+		name = "Detrin"
+		birth_date = 1400.3.12
+		dynasty = "Kapilavastu"
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = strict_personality
+}
+1427.4.5 = {
+	heir = {
+		name = "Tridra"
+		monarch_name = "Tridra II"
+		dynasty = "Kapilavastu"
+		birth_date = 1427.4.5
+		death_date = 1507.4.5
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = sinner_personality
+}
+1444.11.11 = {
+	capital = 2130
+	add_treasury = 39
+	add_prestige = 185
+}

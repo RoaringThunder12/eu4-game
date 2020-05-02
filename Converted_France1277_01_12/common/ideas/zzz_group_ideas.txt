@@ -1,0 +1,149 @@
+# The new dynamic idea system replace most of these
+
+
+berber_ideas = {
+	trigger = {
+		always = no
+	}
+}	
+
+
+rajput_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+dravidian_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+bengali_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+gujarati_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+indian_muslim_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+anatolian_beyliks_ideas = {
+
+	trigger = {
+		always = no
+	}
+}		
+
+
+german_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+irish_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+arabian_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+latin_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+central_indic_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+west_african_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+vindhyan_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+
+kurdish_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+somali_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+greek_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+nubian_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+french_culture_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+caucasus_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+caspian_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+ruthenian_ideas = {
+	trigger = {
+		always = no
+	}
+}

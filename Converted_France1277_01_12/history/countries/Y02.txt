@@ -1,0 +1,27 @@
+# Temes
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khazar
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1954
+1433.3.25 = {
+	monarch = {
+		name = "Sartäç II"
+		birth_date = 1408.3.28
+		dynasty = "Akhasir"
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 1954
+	add_treasury = 7
+	add_prestige = 101
+}

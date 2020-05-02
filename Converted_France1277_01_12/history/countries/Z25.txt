@@ -1,0 +1,26 @@
+# Powys
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+clear_scripted_personalities = yes
+capital = 240
+1437.10.25 = {
+	monarch = {
+		name = "Flaithemán"
+		birth_date = 1419.6.28
+		dynasty = "af Munsö"
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 240
+	add_treasury = 520
+	add_prestige = 54
+}

@@ -1,0 +1,27 @@
+# Tamghançurid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = uyghur
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2433
+1420.3.8 = {
+	monarch = {
+		name = "Inel"
+		birth_date = 1374.6.27
+		dynasty = "Tamghançurid"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 2433
+	add_treasury = 40
+	add_prestige = 642
+}

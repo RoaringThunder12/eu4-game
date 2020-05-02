@@ -1,0 +1,27 @@
+# Jüçi
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = uyghur
+religion = manichean
+clear_scripted_personalities = yes
+capital = 1066
+1404.12.6 = {
+	monarch = {
+		name = "Jämï"
+		birth_date = 1385.1.27
+		dynasty = "Jüçi"
+		adm = 0
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 1066
+	add_treasury = 24
+	add_prestige = 167
+}

@@ -1,0 +1,164 @@
+# Gotland
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 170 25 25 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	trade_ideas
+	aristocracy_ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Sumarliði" "Hroðulfr" "Åke" "Oddr" "Knut" "Starkaðr" "Alfr" "Doman" "Piskla" "Imram" 
+	"Niezamysl" "Zygmunt" "Magni" "Vagn" "Þorgil" "Kolbjörn" "Dyre" "Sven" "Sten" "Greger" 
+	"Botulf" "Östen" "Cecilia" "Sverker" "Albrikt" "Alf" "Algot" "Anders" "Arnbjörn" "Arne" 
+	"Arnfast" "Astrad" "Azur" "Bengt" "Bertil" "Birger" "Björn" "Bo" "Borkvard" "Bror" 
+	"Brynjolf" "Dag" "Dan" "Einar" "Erik" "Eskild" "Faste" "Fredrik" "Filip" "Folke" 
+	"Georg" "Grim" "Gunnar" "Gustav" "Halsten" "Hans" "Harald" "Helgi" "Henrik" "Hjalmar" 
+	"Holmger" "Håkan" "Inge" "Ingemar" "Ingvar" "Jedvard" "Johan" "Karl" "Kettil" "Kettilmund" 
+	"Klas" "Kol" "Lars" "Magnus" "Markus" "Mats" "Nils" "Niklas" "Olaf" "Peder" 
+	"Ragnar" "Rolf" "Rörek" "Ragnvald" "Sigtrygg" "Sigurd" "Sune" "Sölvi" "Thomas" "Tord" 
+	"Torkel" "Torolf" "Torsten" "Totil" "Ulf" "Valdemar" }
+monarch_names = {
+	"Sumarliði #1" = 18
+	"Hroðulfr #2" = 18
+	"Åke #0" = 1
+	"Oddr #1" = 0
+	"Knut #1" = 0
+	"Starkaðr #1" = 0
+	"Alfr #1" = 0
+	"Doman #2" = 0
+	"Piskla #1" = 0
+	"Imram #1" = 0
+	"Niezamysl #1" = 0
+	"Zygmunt #1" = 0
+	"Magni #1" = 0
+	"Vagn #1" = 0
+	"Þorgil #1" = 0
+	"Kolbjörn #1" = 0
+	"Dyre #1" = 0
+	"Sven #1" = 0
+	"Sten #1" = 0
+	"Greger #1" = 0
+	"Botulf #1" = 0
+	"Östen #1" = 0
+	"Cecilia #1" = -1
+	"Sverker #1" = 0
+	"Albrikt #0" = 0
+	"Alf #0" = 0
+	"Algot #0" = 0
+	"Anders #0" = 0
+	"Arnbjörn #0" = 0
+	"Arne #0" = 0
+	"Arnfast #0" = 0
+	"Astrad #0" = 0
+	"Azur #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Bror #0" = 0
+	"Brynjolf #0" = 0
+	"Dag #0" = 0
+	"Dan #0" = 0
+	"Einar #0" = 0
+	"Erik #0" = 0
+	"Eskild #0" = 0
+	"Faste #0" = 0
+	"Fredrik #0" = 0
+	"Filip #0" = 0
+	"Folke #0" = 0
+	"Georg #0" = 0
+	"Grim #0" = 0
+	"Gunnar #0" = 0
+	"Gustav #0" = 0
+	"Halsten #0" = 0
+	"Hans #0" = 0
+	"Harald #0" = 0
+	"Helgi #0" = 0
+	"Henrik #0" = 0
+	"Hjalmar #0" = 0
+	"Holmger #0" = 0
+	"Håkan #0" = 0
+	"Inge #0" = 0
+	"Ingemar #0" = 0
+	"Ingvar #0" = 0
+	"Jedvard #0" = 0
+	"Johan #0" = 0
+	"Karl #0" = 0
+	"Kettil #0" = 0
+	"Kettilmund #0" = 0
+	"Klas #0" = 0
+	"Kol #0" = 0
+	"Lars #0" = 0
+	"Magnus #0" = 0
+	"Markus #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Olaf #0" = 0
+	"Peder #0" = 0
+	"Ragnar #0" = 0
+	"Rolf #0" = 0
+	"Rörek #0" = 0
+	"Ragnvald #0" = 0
+	"Sigtrygg #0" = 0
+	"Sigurd #0" = 0
+	"Sune #0" = 0
+	"Sölvi #0" = 0
+	"Thomas #0" = 0
+	"Tord #0" = 0
+	"Torkel #0" = 0
+	"Torolf #0" = 0
+	"Torsten #0" = 0
+	"Totil #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+
+
+	"Hafrid #0" = -1
+	"Beata #0" = -1
+	"Gyrið #0" = -1
+	"Sara #0" = -1
+}
+ship_names = {
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+}
+

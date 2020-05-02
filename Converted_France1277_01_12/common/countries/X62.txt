@@ -1,0 +1,134 @@
+# Vasyugan
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 220 220 120 }
+
+
+
+
+leader_names = {
+
+	"Kezhevat" "Nuyat" "Asrava" "Vidyava" "Shindyay" "Tatka" "Upurga" "Oshmar" "Syryava" "Ozheg" 
+	"Zhuneg" "Pokshayka" "Inyava" "Kya" "Rangyi" "Kunyavka" "Uchva" "Minzhong" "Rayda" "Biyar" 
+	"Taotao" "Burmort" "Shochynava" "Kezhapa" "Slyugan'ka" "Kanyava" "Paksyay" "Ordava" "Pakstyan" "Shyrpuzh" 
+	"Tundava" "Lysko" "Poshayka" "Ashava" "Toyaksha" "Sirçan" "Aepak" "Zyryan" "Virdyan" "Aymort" 
+	"Viryas" "Tähtaman" "Andyamo" "Arnaz" "Arti" "Artis" "Arvo" "Azeg" "Biur" "Chichayka" 
+	"Chuga" "Dergun" "Deryab" "Dobrinya" "Dokya" "Dondy" "Gazheg" "Hulyen" "Inzhay" "Irter" 
+	"Lyneg" "Kezhay" "Kezhedey" "Kichay" "Koksha" "Kuaz" "Kudym-Osh" "Kyldysin" "Malyaka" "Malyy" 
+	"Meltsayka" "Mosheg" "Nalka" "Nuyaksha" "Nuyanza" "Nydog" "Nylog" "Odeg" "Onika" "Osh" 
+	"Oshypel" "Ovtay" "Ozhmeg" "Paksyut" "Parush" "Pivtsay" "Putyayka" "Pyera" "Rateg" "Sarin" 
+	"Sektev" "Setyamka" "Shypicha" "Spira" "Syrka" "Tikshayka" "Tuhan" "Tyueykezhut" "Tyutyuk" "Tugan" 
+	"Turush" "Varaka" "Vechkas" "Velmayka" "Viryay" "Vokan" "Yirkap" "Ylvan" "Zarny" "Zhebeg" }
+monarch_names = {
+	"Kezhevat #3" = 27
+	"Nuyat #1" = 18
+	"Asrava #0" = -1
+	"Vidyava #0" = -1
+	"Shindyay #1" = 18
+	"Tatka #0" = -1
+	"Upurga #0" = -1
+	"Oshmar #1" = 24
+	"Syryava #0" = -1
+	"Ozheg #0" = 1
+	"Zhuneg #0" = 1
+	"Pokshayka #0" = 1
+	"Inyava #0" = -1
+	"Kya #1" = 18
+	"Rangyi #0" = 1
+	"Kunyavka #0" = -1
+	"Uchva #0" = 1
+	"Minzhong #0" = 1
+	"Rayda #0" = 1
+	"Biyar #1" = 18
+	"Taotao #0" = -1
+	"Burmort #0" = 1
+	"Shochynava #0" = -1
+	"Kezhapa #0" = 1
+	"Slyugan'ka #0" = -1
+	"Kanyava #0" = -1
+	"Paksyay #0" = 1
+	"Ordava #0" = -1
+	"Pakstyan #0" = 1
+	"Shyrpuzh #0" = 1
+	"Tundava #0" = -1
+	"Lysko #0" = 1
+	"Poshayka #0" = -1
+	"Ashava #0" = -1
+	"Toyaksha #0" = -1
+	"Sirçan #1" = 0
+	"Aepak #1" = 0
+	"Zyryan #1" = 0
+	"Virdyan #3" = 0
+	"Aymort #1" = 0
+	"Viryas #1" = 0
+	"Tähtaman #1" = 0
+	"Andyamo #0" = 0
+	"Arnaz #0" = 0
+	"Arti #0" = 0
+	"Artis #0" = 0
+	"Arvo #0" = 0
+	"Azeg #0" = 0
+	"Biur #0" = 0
+	"Chichayka #0" = 0
+	"Chuga #0" = 0
+	"Dergun #0" = 0
+	"Deryab #0" = 0
+	"Dobrinya #0" = 0
+	"Dokya #0" = 0
+	"Dondy #0" = 0
+	"Gazheg #0" = 0
+	"Hulyen #0" = 0
+	"Inzhay #0" = 0
+	"Irter #0" = 0
+	"Lyneg #0" = 0
+	"Kezhay #0" = 0
+	"Kezhedey #0" = 0
+	"Kichay #0" = 0
+	"Koksha #0" = 0
+	"Kuaz #0" = 0
+	"Kudym-Osh #0" = 0
+	"Kyldysin #0" = 0
+	"Malyaka #0" = 0
+	"Malyy #0" = 0
+	"Meltsayka #0" = 0
+	"Mosheg #0" = 0
+	"Nalka #0" = 0
+	"Nuyaksha #0" = 0
+	"Nuyanza #0" = 0
+	"Nydog #0" = 0
+	"Nylog #0" = 0
+	"Odeg #0" = 0
+	"Onika #0" = 0
+	"Osh #0" = 0
+	"Oshypel #0" = 0
+	"Ovtay #0" = 0
+	"Ozhmeg #0" = 0
+	"Paksyut #0" = 0
+	"Parush #0" = 0
+	"Pivtsay #0" = 0
+	"Putyayka #0" = 0
+	"Pyera #0" = 0
+	"Rateg #0" = 0
+	"Sarin #0" = 0
+	"Sektev #0" = 0
+	"Setyamka #0" = 0
+	"Shypicha #0" = 0
+	"Spira #0" = 0
+	"Syrka #0" = 0
+	"Tikshayka #0" = 0
+	"Tuhan #0" = 0
+	"Tyueykezhut #0" = 0
+	"Tyutyuk #0" = 0
+	"Tugan #0" = 0
+	"Turush #0" = 0
+	"Varaka #0" = 0
+	"Vechkas #0" = 0
+	"Velmayka #0" = 0
+	"Viryay #0" = 0
+	"Vokan #0" = 0
+	"Yirkap #0" = 0
+	"Ylvan #0" = 0
+	"Zarny #0" = 0
+	"Zhebeg #0" = 0
+}
+

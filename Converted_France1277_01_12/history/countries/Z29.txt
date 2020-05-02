@@ -1,0 +1,27 @@
+# Bremen
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1874
+1402.6.8 = {
+	monarch = {
+		name = "Ælle"
+		birth_date = 1399.2.20
+		dynasty = "of Dorset"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 1874
+	add_treasury = 17
+	add_prestige = 66
+}

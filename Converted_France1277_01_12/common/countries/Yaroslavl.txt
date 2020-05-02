@@ -1,0 +1,168 @@
+# Vologda
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 178 192 134 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Paksyut" "Mazava" "Kanyuva" "Uzhara" "Tyushtya" "Atyamas" "Mastorava" "Utyayka" "Tetyava" "Shindyay" 
+	"Potyava" "Chindyayka" "Erziya" "Yalgava" "Megurka" "Parush" "Siyamka" "Chinzhay" "Pekshayka" "Kichay" 
+	"Paksyay" "Uchva" "Ashava" "Inzhay" "Nishkepaz" "Tekay" "Olota" "Puresh" "Nuyanza" "Valdava" 
+	"Deryab" "Nyal'ka" "Kezhedey" "Vezhav" "Sernyava" "Upurga" "Tyushten" "Pivtsay" "Sangasa" "Pemka" 
+	"Kunyavka" "Chipaz" "Tatka" "Chechama" "Vidyava" "Malyaka" "Oshama" "Putyayka" "Viryas" "Surt" 
+	"Orunza" "Tuure" "Satatieto" "Aarto" "Pakstyan" "Ilmatar" "Anava" "Vihavald" "Õigemeel" "Litova" 
+	"Syrka" "Andyamo" "Chichayka" "Chumbulat" "Dergun" "Dobrinya" "Kezhapa" "Kezhay" "Kezhevat" "Kubrat" 
+	"Malyy" "Meltsayka" "Mordvinko" "Moksha" "Nalka" "Nuyaksha" "Nuyat" "Ovtay" "Pokshayka" "Setyamka" 
+	"Shoksha" "Tikshayka" "Tyueykezhut" "Varaka" "Vechkas" "Velmayka" "Virdyan" "Viryay" "Azyren" "Kardaz" 
+	"Kinyak" "Koshel" "Murunza" "Naruchad" "Purysho" "Saksa" "Shkay" "Tul" "Tunya" "Tutyra" 
+	"Tylmache" "Tylze" "Varmanpaz" }
+monarch_names = {
+	"Paksyut #2" = 27
+	"Mazava #0" = -1
+	"Kanyuva #0" = -1
+	"Uzhara #2" = 21
+	"Tyushtya #0" = 1
+	"Atyamas #1" = 21
+	"Mastorava #0" = -1
+	"Utyayka #0" = -1
+	"Tetyava #0" = -1
+	"Shindyay #1" = 18
+	"Potyava #0" = -1
+	"Chindyayka #0" = -1
+	"Erziya #0" = 1
+	"Yalgava #0" = -1
+	"Megurka #0" = -1
+	"Parush #1" = 21
+	"Siyamka #0" = -1
+	"Chinzhay #0" = -1
+	"Pekshayka #0" = -1
+	"Kichay #0" = 1
+	"Paksyay #2" = 18
+	"Uchva #0" = 1
+	"Ashava #0" = -1
+	"Inzhay #0" = 1
+	"Nishkepaz #0" = 1
+	"Tekay #0" = -1
+	"Olota #0" = -1
+	"Puresh #0" = 1
+	"Nuyanza #0" = -1
+	"Valdava #0" = -1
+	"Deryab #0" = 1
+	"Nyal'ka #0" = -1
+	"Kezhedey #0" = 1
+	"Vezhav #0" = -1
+	"Sernyava #0" = -1
+	"Upurga #0" = -1
+	"Tyushten #1" = 18
+	"Pivtsay #0" = 1
+	"Sangasa #0" = -1
+	"Pemka #0" = -1
+	"Kunyavka #0" = -1
+	"Chipaz #0" = 1
+	"Tatka #0" = -1
+	"Chechama #0" = -1
+	"Vidyava #0" = -1
+	"Malyaka #0" = 1
+	"Oshama #0" = -1
+	"Putyayka #1" = 18
+	"Viryas #0" = 1
+	"Surt #6" = 0
+	"Orunza #2" = 0
+	"Tuure #1" = 0
+	"Satatieto #1" = 0
+	"Aarto #1" = 0
+	"Pakstyan #1" = 0
+	"Ilmatar #1" = -1
+	"Anava #1" = -1
+	"Vihavald #1" = 0
+	"Õigemeel #1" = 0
+	"Litova #1" = -1
+	"Syrka #1" = 0
+	"Andyamo #0" = 0
+	"Chichayka #0" = 0
+	"Chumbulat #0" = 0
+	"Dergun #0" = 0
+	"Dobrinya #0" = 0
+	"Kezhapa #0" = 0
+	"Kezhay #0" = 0
+	"Kezhevat #0" = 0
+	"Kubrat #0" = 0
+	"Malyy #0" = 0
+	"Meltsayka #0" = 0
+	"Mordvinko #0" = 0
+	"Moksha #0" = 0
+	"Nalka #0" = 0
+	"Nuyaksha #0" = 0
+	"Nuyat #0" = 0
+	"Ovtay #0" = 0
+	"Pokshayka #0" = 0
+	"Setyamka #0" = 0
+	"Shoksha #0" = 0
+	"Tikshayka #0" = 0
+	"Tyueykezhut #0" = 0
+	"Varaka #0" = 0
+	"Vechkas #0" = 0
+	"Velmayka #0" = 0
+	"Virdyan #0" = 0
+	"Viryay #0" = 0
+	"Azyren #0" = 0
+	"Kardaz #0" = 0
+	"Kinyak #0" = 0
+	"Koshel #0" = 0
+	"Murunza #0" = 0
+	"Naruchad #0" = 0
+	"Purysho #0" = 0
+	"Saksa #0" = 0
+	"Shkay #0" = 0
+	"Tul #0" = 0
+	"Tunya #0" = 0
+	"Tutyra #0" = 0
+	"Tylmache #0" = 0
+	"Tylze #0" = 0
+	"Varmanpaz #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

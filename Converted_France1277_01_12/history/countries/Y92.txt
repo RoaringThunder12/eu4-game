@@ -1,0 +1,27 @@
+# Sailodbhava
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 549
+1421.8.5 = {
+	monarch = {
+		name = "Vidhyadharabhanja"
+		birth_date = 1401.2.7
+		dynasty = "Sailodbhava"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 549
+	add_treasury = 295
+	add_prestige = 260
+}

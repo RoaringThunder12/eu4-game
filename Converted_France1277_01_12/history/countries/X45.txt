@@ -1,0 +1,38 @@
+# Jüküntirigid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = uyghur
+religion = mazdaki
+clear_scripted_personalities = yes
+capital = 718
+1427.6.25 = {
+	monarch = {
+		name = "Tunyuquq II"
+		birth_date = 1382.11.24
+		dynasty = "Jüküntirigid"
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = just_personality
+	heir = {
+		name = "Mänglik"
+		monarch_name = "Mänglik III"
+		dynasty = "Jüküntirigid"
+		birth_date = 1418.8.5
+		death_date = 1498.8.5
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = 9
+	add_prestige = 161
+}

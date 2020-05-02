@@ -1,0 +1,26 @@
+# Yatenga
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = ibadi
+clear_scripted_personalities = yes
+capital = 1135
+1435.6.2 = {
+	monarch = {
+		name = "Kassa"
+		birth_date = 1418.10.4
+		dynasty = "Bisi"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 1135
+	add_treasury = 38
+	add_prestige = 123
+}

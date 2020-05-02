@@ -1,0 +1,40 @@
+# Aghlabid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1220
+1402.11.18 = {
+	monarch = {
+		name = "Yahya"
+		birth_date = 1400.7.19
+		dynasty = "Aghlabid"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1417.7.21 = {
+	heir = {
+		name = "Jibril"
+		monarch_name = "Jibril III"
+		dynasty = "Aghlabid"
+		birth_date = 1417.7.21
+		death_date = 1497.7.21
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 1220
+	add_treasury = 26
+	add_prestige = 109
+}

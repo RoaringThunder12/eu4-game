@@ -1,0 +1,27 @@
+# Aragon
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2463
+1429.3.16 = {
+	monarch = {
+		name = "Joan"
+		birth_date = 1409.12.9
+		dynasty = "Vuodi"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 2463
+	add_treasury = 21
+	add_prestige = 482
+}

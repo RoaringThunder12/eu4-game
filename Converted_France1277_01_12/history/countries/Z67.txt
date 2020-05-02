@@ -1,0 +1,27 @@
+# Berkan
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2340
+1407.1.4 = {
+	monarch = {
+		name = "Togtekin II"
+		birth_date = 1389.7.19
+		dynasty = "Berkan"
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2340
+	add_treasury = 24
+	add_prestige = 173
+}

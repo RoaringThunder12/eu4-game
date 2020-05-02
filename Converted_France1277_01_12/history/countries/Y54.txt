@@ -1,0 +1,26 @@
+# Kebbi
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = andalucian
+religion = ibadi
+clear_scripted_personalities = yes
+capital = 1136
+1443.3.11 = {
+	monarch = {
+		name = "Umar IV"
+		birth_date = 1434.4.8
+		dynasty = "Umayyad"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1136
+	add_treasury = 49
+	add_prestige = 695
+}

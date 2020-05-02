@@ -1,0 +1,26 @@
+# Ha'ilid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 426
+1443.5.20 = {
+	monarch = {
+		name = "Fariborz"
+		birth_date = 1428.10.17
+		dynasty = "Ha'ilid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 426
+	add_treasury = 23
+	add_prestige = 45
+}

@@ -1,0 +1,40 @@
+# Seljuk
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 429
+1426.2.5 = {
+	monarch = {
+		name = "Tolun"
+		birth_date = 1413.6.2
+		dynasty = "Seljuk"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = pious_personality
+}
+1435.5.18 = {
+	heir = {
+		name = "Tanrivermis"
+		monarch_name = "Tanrivermis"
+		dynasty = "Seljuk"
+		birth_date = 1435.5.18
+		death_date = 1515.5.18
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 429
+	add_treasury = 0
+	add_prestige = 749
+}

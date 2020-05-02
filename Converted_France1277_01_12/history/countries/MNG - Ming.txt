@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = celestial_empire
+government_rank = 3
+technology_group = chinese
+add_harmonized_religion = mahayana
+capital = 1821	# Nanjing
+
+primary_culture = chihan
+religion = confucianism
+1264.10.28 = {
+	monarch = {
+		name = "Liezu"
+		birth_date = 1401.2.5
+		dynasty = "Ge"
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+}

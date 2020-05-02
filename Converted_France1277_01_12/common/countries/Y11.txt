@@ -1,0 +1,182 @@
+# Oultrejourdain
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 190 190 180 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Zelibrat" "Astrid" "Rikissa" "Kolbjörn" "Þorgil" "Greger" "Øystein" "Gudbrand" "Holmger" "Rögnvaldr" 
+	"Gandalfr" "Rögnfrið" "Edla" "Haldora" "Anna" "Thorborg" "Maria" "Eirikr" "Hrane" "Yrsa" 
+	"Gurli" "Sveinn" "Totil" "Ale" "Sigtrygg" "Ylva" "Folki" "Kraka" "Åke" "Faste" 
+	"Jedvard" "Rögnhildr" "Jon" "Katarina" "Åshild" "Anlaufr" "Alvör" "Gudrid" "Bonaventura" "Tomasina" 
+	"Alessandra" "Giuseppe" "Aurelio" "Arnvid" "Constanza" "Ingebjørg" "Margrete" "Einar" "Nolfo" "Gudrun" 
+	"Al-Mansur" "Is'mail" "Sami" "Isa" "Khaireddin" "Aarif" "Nizam" "Alim" "Khalil" "Samir" 
+	"Bahir" "Husam" "Antonios" "Togtekin" "Mukhtar" "Yahya" "Baybars" "Kutlug" "Yunus" "Bartolomeo" 
+	"Bartholomaios" "Theophanes" "Geoffroy" "Ioustinos" "Oreste" "Poppo" "Abbad" "Abdallah" "Abdul-Aziz" "Abdul-Hakam" 
+	"Abdul-Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abu" "Adfuns" "Amr" "Ayyub" "Balashk" "Bilal" 
+	"Fadl" "Fath" "Galind" "Garsiya" "Hakam" "Hilal" "Ibrahim" "Isma'il" "Jyad" "Lubb" 
+	"Ma'n" "Mubashir" "Mundir" "Musa" "Muyahid" "Raf" "Rashid" "Rasiq" "Sa'd" "Sanyo" 
+	"Siddray" "Suleyman" "Tariq" "Tifilwit" "Umar" "Utman" "Wannaqo" "Ya'far" "Yahaff" "Yusuf" }
+monarch_names = {
+	"Zelibrat #0" = 1
+	"Astrid #0" = -1
+	"Rikissa #0" = -1
+	"Kolbjörn #0" = 1
+	"Þorgil #0" = 1
+	"Greger #0" = 1
+	"Øystein #0" = 1
+	"Gudbrand #0" = 1
+	"Holmger #0" = 1
+	"Rögnvaldr #1" = 18
+	"Gandalfr #0" = 1
+	"Rögnfrið #0" = -1
+	"Edla #0" = -1
+	"Haldora #0" = -1
+	"Anna #0" = -1
+	"Thorborg #0" = -1
+	"Maria #0" = -1
+	"Eirikr #0" = 1
+	"Hrane #0" = 1
+	"Yrsa #0" = -1
+	"Gurli #0" = -1
+	"Sveinn #0" = 1
+	"Totil #0" = 1
+	"Ale #0" = 1
+	"Sigtrygg #0" = 1
+	"Ylva #0" = -1
+	"Folki #0" = 1
+	"Kraka #0" = -1
+	"Åke #0" = 1
+	"Faste #0" = 1
+	"Jedvard #0" = 1
+	"Rögnhildr #0" = -1
+	"Jon #0" = 1
+	"Katarina #0" = -1
+	"Åshild #0" = -1
+	"Anlaufr #0" = 1
+	"Alvör #0" = -1
+	"Gudrid #0" = -1
+	"Bonaventura #1" = 18
+	"Tomasina #1" = -19
+	"Alessandra #0" = -1
+	"Giuseppe #0" = 1
+	"Aurelio #0" = 1
+	"Arnvid #0" = 1
+	"Constanza #0" = -1
+	"Ingebjørg #0" = -1
+	"Margrete #0" = -1
+	"Einar #0" = 1
+	"Nolfo #0" = 1
+	"Gudrun #0" = -1
+	"Al-Mansur #1" = 0
+	"Is'mail #1" = 0
+	"Sami #2" = 0
+	"Isa #1" = 0
+	"Khaireddin #1" = 0
+	"Aarif #1" = 0
+	"Nizam #2" = 0
+	"Alim #1" = 0
+	"Khalil #2" = 0
+	"Samir #1" = 0
+	"Bahir #1" = 0
+	"Husam #1" = 0
+	"Antonios #1" = 0
+	"Togtekin #1" = 0
+	"Mukhtar #1" = 0
+	"Yahya #1" = 0
+	"Baybars #2" = 0
+	"Kutlug #1" = 0
+	"Yunus #1" = 0
+	"Bartolomeo #1" = 0
+	"Bartholomaios #1" = 0
+	"Theophanes #1" = 0
+	"Geoffroy #1" = 0
+	"Ioustinos #1" = 0
+	"Oreste #1" = 0
+	"Poppo #1" = 0
+	"Abbad #0" = 0
+	"Abdallah #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Hakam #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abu #0" = 0
+	"Adfuns #0" = 0
+	"Amr #0" = 0
+	"Ayyub #0" = 0
+	"Balashk #0" = 0
+	"Bilal #0" = 0
+	"Fadl #0" = 0
+	"Fath #0" = 0
+	"Galind #0" = 0
+	"Garsiya #0" = 0
+	"Hakam #0" = 0
+	"Hilal #0" = 0
+	"Ibrahim #0" = 0
+	"Isma'il #0" = 0
+	"Jyad #0" = 0
+	"Lubb #0" = 0
+	"Ma'n #0" = 0
+	"Mubashir #0" = 0
+	"Mundir #0" = 0
+	"Musa #0" = 0
+	"Muyahid #0" = 0
+	"Raf #0" = 0
+	"Rashid #0" = 0
+	"Rasiq #0" = 0
+	"Sa'd #0" = 0
+	"Sanyo #0" = 0
+	"Siddray #0" = 0
+	"Suleyman #0" = 0
+	"Tariq #0" = 0
+	"Tifilwit #0" = 0
+	"Umar #0" = 0
+	"Utman #0" = 0
+	"Wannaqo #0" = 0
+	"Ya'far #0" = 0
+	"Yahaff #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

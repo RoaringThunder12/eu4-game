@@ -1,0 +1,40 @@
+# Xigazê
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 4518
+1413.2.3 = {
+	monarch = {
+		name = "Mangban"
+		birth_date = 1406.4.24
+		dynasty = "Qumaid"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = sinner_personality
+}
+1425.8.6 = {
+	heir = {
+		name = "Rinchen"
+		monarch_name = "Rinchen IV"
+		dynasty = "Qumaid"
+		birth_date = 1425.8.6
+		death_date = 1505.8.6
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 4518
+	add_treasury = 23
+	add_prestige = 291
+}

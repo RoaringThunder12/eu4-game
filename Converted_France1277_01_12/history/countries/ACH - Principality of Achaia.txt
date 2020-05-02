@@ -1,0 +1,27 @@
+# Achaia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 148
+1421.1.5 = {
+	monarch = {
+		name = "Bartholomaios II"
+		birth_date = 1401.2.21
+		dynasty = "Eirenikos"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 148
+	add_treasury = 31
+	add_prestige = 285
+}

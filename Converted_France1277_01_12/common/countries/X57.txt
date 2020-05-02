@@ -1,0 +1,206 @@
+# Serpukhov
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 141 159 64 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Nuyanza" "Chechama" "Litova" "Tylze" "Nuyaksha" "Setyamka" "Uzhara" "Paksyut" "Naruchad" "Asrava" 
+	"Siyamka" "Erziya" "Ordava" "Varmanpaz" "Mastorava" "Kichay" "Pokshava" "Nuyat" "Tyueykezhut" "Sernyava" 
+	"Ashava" "Tyushtya" "Andyamo" "Serzhay" "Chitska" "Nezayka" "Nulzyava" "Kunava" "Purysho" "Tutyra" 
+	"Styaka" "Kanyava" "Saksa" "Meltsayka" "Kezhay" "Liyava" "Kinyak" "Pekshayka" "Moksha" "Chipaz" 
+	"Mazava" "Vergava" "Kanyuva" "Tundya" "Koshel" "Velmayka" "Kezhevat" "Kezhedey" "Yalgava" "Sanal'ka" 
+	"Pokshayka" "Pivtsay" "Elyuva" "Tikshayka" "Puresh" "Viryay" "Chindyayka" "Syryava" "Sochava" "Dergun" 
+	"Tylmache" "Putyayka" "Atyamas" "Shkay" "Syrka" "Prebrana" "Kezhapa" "Ruzava" "Varaka" "Viryas" 
+	"Unzhutka" "Malyy" "Mstislav" "Briachislav" "Chenksa" "Chumbulat" "Ingjerðr" "Chichayka" "Tyushten" "Nyal'ka" 
+	"Cherava" "Sinyava" "Sbyslava" "Virtyava" "Utyayka" "Tundava" "Mordvinko" "Pribislava" "Mel'shay" "Azyren" 
+	"Anava" "Chinzhay" "Liis" "Ulyana" "Murunza" "Potekay" "Õie" "Surt" "Upurga" "Parush" 
+	"Pemka" "Ovtay" "Malyaka" "Uchva" "Ravzhava" "Oshama" "Fevronia" "Kardaz" "Viacheslava" "Kunyavka" 
+	"Nalka" "Yeremey" "Inzhay" "Kubrat" "Noroava" "Megurka" "Paksyay" "Potyava" "Maija" "Shonzhava" 
+	"Dobrinya" "Orunza" "Seyamka" "Tul" "Shindyay" "Poshayka" "Tekay" "Kujku" "Olota" "Deryab" 
+	"Nyayka" "Chindyapa" "Nishkepaz" "Pakstyan" "Shoksha" "Vechkas" "Virdyan" "Tunya" }
+monarch_names = {
+	"Nuyanza #0" = 1
+	"Chechama #0" = -1
+	"Litova #0" = -1
+	"Tylze #0" = 1
+	"Nuyaksha #0" = 1
+	"Setyamka #0" = -1
+	"Uzhara #0" = 1
+	"Paksyut #0" = 1
+	"Naruchad #0" = 1
+	"Asrava #0" = -1
+	"Siyamka #0" = -1
+	"Erziya #0" = 1
+	"Ordava #0" = -1
+	"Varmanpaz #0" = 1
+	"Mastorava #0" = -1
+	"Kichay #0" = 1
+	"Pokshava #0" = -1
+	"Nuyat #0" = 1
+	"Tyueykezhut #0" = 1
+	"Sernyava #0" = -1
+	"Ashava #0" = -1
+	"Tyushtya #0" = 1
+	"Andyamo #0" = 1
+	"Serzhay #0" = -1
+	"Chitska #0" = -1
+	"Nezayka #0" = -1
+	"Nulzyava #0" = -1
+	"Kunava #0" = -1
+	"Purysho #0" = 1
+	"Tutyra #0" = 1
+	"Styaka #0" = -1
+	"Kanyava #0" = -1
+	"Saksa #0" = 1
+	"Meltsayka #0" = 1
+	"Kezhay #0" = 1
+	"Liyava #0" = -1
+	"Kinyak #0" = 1
+	"Pekshayka #0" = -1
+	"Moksha #0" = 1
+	"Chipaz #0" = 1
+	"Mazava #0" = -1
+	"Vergava #0" = -1
+	"Kanyuva #0" = -1
+	"Tundya #0" = -1
+	"Koshel #0" = 1
+	"Velmayka #0" = 1
+	"Kezhevat #0" = 1
+	"Kezhedey #0" = 1
+	"Yalgava #0" = -1
+	"Sanal'ka #0" = -1
+	"Pokshayka #0" = 1
+	"Pivtsay #0" = 1
+	"Elyuva #0" = -1
+	"Tikshayka #0" = -1
+	"Puresh #0" = 1
+	"Viryay #0" = 1
+	"Chindyayka #0" = -1
+	"Syryava #0" = -1
+	"Sochava #0" = -1
+	"Dergun #0" = 1
+	"Tylmache #0" = 1
+	"Putyayka #0" = 1
+	"Atyamas #0" = 1
+	"Shkay #0" = 1
+	"Syrka #0" = 1
+	"Prebrana #0" = -1
+	"Kezhapa #0" = 1
+	"Ruzava #0" = -1
+	"Varaka #0" = 1
+	"Viryas #0" = 1
+	"Unzhutka #0" = -1
+	"Malyy #0" = 1
+	"Mstislav #0" = 1
+	"Briachislav #0" = 1
+	"Chenksa #0" = -1
+	"Chumbulat #0" = 1
+	"Ingjerðr #0" = -1
+	"Chichayka #0" = 1
+	"Tyushten #0" = 1
+	"Nyal'ka #0" = -1
+	"Cherava #0" = -1
+	"Sinyava #0" = -1
+	"Sbyslava #0" = -1
+	"Virtyava #0" = -1
+	"Utyayka #0" = -1
+	"Tundava #0" = -1
+	"Mordvinko #0" = 1
+	"Pribislava #0" = -1
+	"Mel'shay #0" = -1
+	"Azyren #0" = 1
+	"Anava #0" = -1
+	"Chinzhay #0" = -1
+	"Liis #0" = -1
+	"Ulyana #0" = -1
+	"Murunza #0" = 1
+	"Potekay #0" = -1
+	"Õie #0" = -1
+	"Surt #0" = 1
+	"Upurga #0" = -1
+	"Parush #0" = 1
+	"Pemka #0" = -1
+	"Ovtay #0" = 1
+	"Malyaka #0" = 1
+	"Uchva #0" = 1
+	"Ravzhava #0" = -1
+	"Oshama #0" = -1
+	"Fevronia #0" = -1
+	"Kardaz #0" = 1
+	"Viacheslava #0" = -1
+	"Kunyavka #0" = -1
+	"Nalka #0" = 1
+	"Yeremey #0" = 1
+	"Inzhay #0" = 1
+	"Kubrat #0" = 1
+	"Noroava #0" = -1
+	"Megurka #0" = -1
+	"Paksyay #0" = 1
+	"Potyava #0" = -1
+	"Maija #0" = -1
+	"Shonzhava #0" = -1
+	"Dobrinya #0" = 1
+	"Orunza #0" = 1
+	"Seyamka #0" = -1
+	"Tul #0" = 1
+	"Shindyay #0" = 1
+	"Poshayka #0" = -1
+	"Tekay #0" = -1
+	"Kujku #0" = -1
+	"Olota #0" = -1
+	"Deryab #0" = 1
+	"Nyayka #0" = -1
+	"Chindyapa #0" = -1
+	"Nishkepaz #0" = 1
+	"Pakstyan #0" = 0
+	"Shoksha #0" = 0
+	"Vechkas #0" = 0
+	"Virdyan #0" = 0
+	"Tunya #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

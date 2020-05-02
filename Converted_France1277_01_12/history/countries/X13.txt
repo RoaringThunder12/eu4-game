@@ -1,0 +1,27 @@
+# Wahabid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = sindhi
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4503
+1418.12.14 = {
+	monarch = {
+		name = "Fadl III"
+		birth_date = 1396.8.24
+		dynasty = "Wahabid"
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 4503
+	add_treasury = 8
+	add_prestige = 252
+}

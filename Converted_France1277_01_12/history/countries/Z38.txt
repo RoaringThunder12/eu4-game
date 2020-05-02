@@ -1,0 +1,27 @@
+# Anjou
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 178
+1408.6.9 = {
+	monarch = {
+		name = "François"
+		birth_date = 1402.3.9
+		dynasty = "Slee"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 178
+	add_treasury = 42
+	add_prestige = 422
+}

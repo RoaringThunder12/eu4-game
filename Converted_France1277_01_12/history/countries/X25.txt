@@ -1,0 +1,28 @@
+# Avanti
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 4462
+1398.12.25 = {
+	monarch = {
+		name = "Mahidevi"
+		birth_date = 1394.10.15
+		dynasty = "Rashtrakuta"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 4462
+	add_treasury = 46
+	add_prestige = 963
+}

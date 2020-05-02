@@ -1,0 +1,28 @@
+# Jejakabhukti
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 559
+1406.8.27 = {
+	monarch = {
+		name = "Kanwar"
+		birth_date = 1396.3.10
+		dynasty = "Pala"
+		female = yes
+		adm = 2
+		dip = 6
+		mil = 6
+	}
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 559
+	add_treasury = 140
+	add_prestige = 863
+}

@@ -1,0 +1,26 @@
+# Valencia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2276
+1443.2.12 = {
+	monarch = {
+		name = "Siddray II"
+		birth_date = 1394.2.7
+		dynasty = "de Maiorica"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 2276
+	add_treasury = 16
+	add_prestige = 118
+}

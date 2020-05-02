@@ -1,0 +1,39 @@
+# Thrace
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 151
+1437.9.10 = {
+	monarch = {
+		name = "Goffredo IV"
+		birth_date = 1410.10.21
+		dynasty = "Karling"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = conqueror_personality
+}
+1439.3.11 = {
+	heir = {
+		name = "Edda"
+		monarch_name = "Edda"
+		dynasty = "Karling"
+		birth_date = 1439.3.11
+		death_date = 1519.3.11
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 151
+	add_treasury = 10
+	add_prestige = 861
+}

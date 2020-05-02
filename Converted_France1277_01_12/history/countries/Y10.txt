@@ -1,0 +1,27 @@
+# Ascalon
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1854
+1417.12.17 = {
+	monarch = {
+		name = "Þorgil"
+		birth_date = 1399.10.24
+		dynasty = "Væni"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 1854
+	add_treasury = 13
+	add_prestige = 273
+}

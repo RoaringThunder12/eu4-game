@@ -1,0 +1,26 @@
+# Tagant
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = soninke
+religion = kharijite
+clear_scripted_personalities = yes
+capital = 2244
+1437.8.30 = {
+	monarch = {
+		name = "Kabayo"
+		birth_date = 1389.3.22
+		dynasty = "Tunkara"
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2244
+	add_treasury = 45
+	add_prestige = 92
+}

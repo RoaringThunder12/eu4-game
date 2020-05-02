@@ -1,0 +1,27 @@
+# Bilalid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 343
+1432.3.8 = {
+	monarch = {
+		name = "Siddray II"
+		birth_date = 1419.12.18
+		dynasty = "Bilalid"
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 343
+	add_treasury = 380
+	add_prestige = 118
+}

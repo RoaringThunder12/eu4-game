@@ -1,0 +1,184 @@
+# Bulgaria
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 113 88 101 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Eadsige" "Rodislav" "Irina" "Yefimia" "Sviatoslava" "Vsevolod" "Anna" "Stanislav" "Tatyana" "Ingvar" 
+	"Gavriil" "Ulita" "Vyshata" "Ælfweard" "Æthelgifu" "Ealhswith" "Yemelyan" "Ælfthryth" "Vasiliy" "Konstantin" 
+	"Zvenislava" "Yefimiy" "Briachislav" "Vladislav" "Dobrynia" "Kubrat" "Batbayan" "Asparukh" "Tervel" "Ajjar" 
+	"Kormesiy" "Sevar" "Kormisosh" "Vinekh" "Telets" "Sabin" "Umor" "Toktu" "Pagan" "Telerig" 
+	"Krum" "Omortag" "Dizeng" "Dristar" "Telec" "Dukum" "Yerneslu" "Buzer" "Araslan" "Yabghu" 
+	"Tarmaç" "Alp" "Kundaç" "Mënümarót" "Kayghalagh" "Iltäbär" "Barjik" "Yeldem" "Yavantey" "Çorpan" 
+	"Khuterkin" "Zdirad" "Bulçan" "Papaçyz" "Simsam" "Çilen" "Bulan" "Lyukha" "Afanasiy" "Alexandr" 
+	"Alexei" "Andrei" "Boris" "Daniil" "Davyd" "Demid" "Dmitriy" "Fedot" "Feodor" "Gleb" 
+	"Grigoriy" "Iakov" "Igor" "Iliya" "Ivan" "Iziaslav" "Kirill" "Koz'ma" "Lev" "Matfei" 
+	"Mikhail" "Mitrofan" "Mstislav" "Nikita" "Oleg" "Pavel" "Putiata" "Radoslav" "Rogvolod" "Roman" 
+	"Rostislav" "Ruslan" "Stepan" "Sudislav" "Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Vasilko" 
+	"Viacheslav" "Vladimir" "Voislav" "Volodar" "Vseslav" "Vysheslav" "Yaropolk" "Yaroslav" "Yelisey" "Yeremey" 
+	"Yevstafiy" "Yuriy" }
+monarch_names = {
+	"Eadsige #0" = 1
+	"Rodislav #0" = 1
+	"Irina #0" = -1
+	"Yefimia #0" = -1
+	"Sviatoslava #0" = -1
+	"Vsevolod #0" = 1
+	"Anna #0" = -1
+	"Stanislav #0" = 1
+	"Tatyana #0" = -1
+	"Ingvar #0" = 1
+	"Gavriil #0" = 1
+	"Ulita #0" = -1
+	"Vyshata #0" = 1
+	"Ælfweard #0" = 1
+	"Æthelgifu #0" = -1
+	"Ealhswith #0" = -1
+	"Yemelyan #0" = 1
+	"Ælfthryth #0" = -1
+	"Vasiliy #0" = 1
+	"Konstantin #0" = 1
+	"Zvenislava #0" = -1
+	"Yefimiy #1" = 18
+	"Briachislav #0" = 1
+	"Vladislav #0" = 1
+	"Dobrynia #0" = 1
+	"Kubrat #1" = 0
+	"Batbayan #1" = 0
+	"Asparukh #2" = 0
+	"Tervel #1" = 0
+	"Ajjar #1" = 0
+	"Kormesiy #1" = 0
+	"Sevar #1" = 0
+	"Kormisosh #1" = 0
+	"Vinekh #1" = 0
+	"Telets #1" = 0
+	"Sabin #1" = 0
+	"Umor #1" = 0
+	"Toktu #2" = 0
+	"Pagan #1" = 0
+	"Telerig #1" = 0
+	"Krum #1" = 0
+	"Omortag #1" = 0
+	"Dizeng #3" = 0
+	"Dristar #1" = 0
+	"Telec #1" = 0
+	"Dukum #1" = 0
+	"Yerneslu #1" = 0
+	"Buzer #1" = 0
+	"Araslan #1" = 0
+	"Yabghu #1" = 0
+	"Tarmaç #1" = 0
+	"Alp #1" = 0
+	"Kundaç #2" = 0
+	"Mënümarót #2" = 0
+	"Kayghalagh #1" = 0
+	"Iltäbär #1" = 0
+	"Barjik #1" = 0
+	"Yeldem #1" = -1
+	"Yavantey #1" = 0
+	"Çorpan #1" = 0
+	"Khuterkin #1" = 0
+	"Zdirad #1" = 0
+	"Bulçan #1" = 0
+	"Papaçyz #1" = 0
+	"Simsam #1" = 0
+	"Çilen #1" = -1
+	"Bulan #1" = 0
+	"Lyukha #1" = -1
+	"Afanasiy #0" = 0
+	"Alexandr #0" = 0
+	"Alexei #0" = 0
+	"Andrei #0" = 0
+	"Boris #0" = 0
+	"Daniil #0" = 0
+	"Davyd #0" = 0
+	"Demid #0" = 0
+	"Dmitriy #0" = 0
+	"Fedot #0" = 0
+	"Feodor #0" = 0
+	"Gleb #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Ivan #0" = 0
+	"Iziaslav #0" = 0
+	"Kirill #0" = 0
+	"Koz'ma #0" = 0
+	"Lev #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Mitrofan #0" = 0
+	"Mstislav #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Putiata #0" = 0
+	"Radoslav #0" = 0
+	"Rogvolod #0" = 0
+	"Roman #0" = 0
+	"Rostislav #0" = 0
+	"Ruslan #0" = 0
+	"Stepan #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Vasilko #0" = 0
+	"Viacheslav #0" = 0
+	"Vladimir #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Vysheslav #0" = 0
+	"Yaropolk #0" = 0
+	"Yaroslav #0" = 0
+	"Yelisey #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
+	"Yuriy #0" = 0
+}
+ship_names = {
+	Alhtpolo
+	Kiten Kraymorie
+	Lozenets
+	Promorsko
+	Rezovo
+	Sarafovo Sinemorets Sozopol
+	Varara
+}
+

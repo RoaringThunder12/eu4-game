@@ -1,0 +1,140 @@
+# Arabia
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 121 196 2 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Tedice" "Joscella" "Dora" "Valentina" "Bartolomeo" "Adelia" "Clotilde" "Severino" "Lucrezia" "Benedetto" 
+	"Giulia" "Agalina" "Amr" "Sa'id" "Nadr" "Al-Mansur" "Al-Mahdi" "Al-Hadi" "Yahya" "Sadiq" 
+	"Mansur" "Uways" "Mahdi" "Ubayd" "Azam" "Murad" "Najib" "Bahir" "Jalil" "Burhanaddin" 
+	"Isa" "Emmanuele" "Costantino" "Conone" "Riccardo" "Elena" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" 
+	"Abdul-Wahab" "Aghlab" "Akin" "Alim" "Aram" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" 
+	"Halil" "Husam" "Ibrahim" "Idris" "Is'mail" "Jabir" "Jibril" "Khaireddin" "Khalil" "Mirza" 
+	"Mubarak" "Mukhtar" "Musa" "Muslihiddin" "Muzaffaraddin" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" 
+	"Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Talib" "Ya'qub" "Youkhanna" "Yusuf" 
+	"Zeyd" }
+monarch_names = {
+	"Tedice #0" = 1
+	"Joscella #0" = -1
+	"Dora #0" = -1
+	"Valentina #0" = -1
+	"Bartolomeo #1" = 21
+	"Adelia #1" = -19
+	"Clotilde #0" = -1
+	"Severino #0" = 1
+	"Lucrezia #0" = -1
+	"Benedetto #0" = 1
+	"Giulia #0" = -1
+	"Agalina #0" = -1
+	"Amr #1" = 0
+	"Sa'id #1" = 0
+	"Nadr #1" = 0
+	"Al-Mansur #1" = 0
+	"Al-Mahdi #1" = 0
+	"Al-Hadi #1" = 0
+	"Yahya #1" = 0
+	"Sadiq #1" = 0
+	"Mansur #4" = 0
+	"Uways #1" = 0
+	"Mahdi #1" = 0
+	"Ubayd #1" = 0
+	"Azam #1" = 0
+	"Murad #1" = 0
+	"Najib #3" = 0
+	"Bahir #2" = 0
+	"Jalil #1" = 0
+	"Burhanaddin #1" = 0
+	"Isa #1" = 0
+	"Emmanuele #1" = 0
+	"Costantino #1" = 0
+	"Conone #1" = 0
+	"Riccardo #1" = 0
+	"Elena #1" = -1
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Alim #0" = 0
+	"Aram #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Ghalib #0" = 0
+	"Hafiz #0" = 0
+	"Halil #0" = 0
+	"Husam #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Is'mail #0" = 0
+	"Jabir #0" = 0
+	"Jibril #0" = 0
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Mukhtar #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Nasr #0" = 0
+	"Nizam #0" = 0
+	"Qawurd #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sami #0" = 0
+	"Samir #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Shujah #0" = 0
+	"Sulayman #0" = 0
+	"Talib #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+	"Zeyd #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

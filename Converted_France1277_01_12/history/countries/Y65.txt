@@ -1,0 +1,27 @@
+# Jabirid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 389
+1433.6.17 = {
+	monarch = {
+		name = "Nasr III"
+		birth_date = 1378.2.7
+		dynasty = "Jabirid"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 389
+	add_treasury = 56
+	add_prestige = 108
+}

@@ -1,0 +1,38 @@
+# Ötemisid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khazar
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2406
+1439.7.2 = {
+	monarch = {
+		name = "Papaçyz"
+		birth_date = 1398.3.23
+		dynasty = "Ötemisid"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = secretive_personality
+}
+1442.9.11 = {
+	heir = {
+		name = "Bastu"
+		monarch_name = "Bastu II"
+		dynasty = "Ötemisid"
+		birth_date = 1442.9.11
+		death_date = 1522.9.11
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2406
+	add_treasury = 14
+	add_prestige = 330
+}

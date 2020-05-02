@@ -1,0 +1,27 @@
+# Istämi
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = uyghur
+religion = zoroastrian
+clear_scripted_personalities = yes
+capital = 719
+1418.12.15 = {
+	monarch = {
+		name = "Umaç"
+		birth_date = 1399.6.22
+		dynasty = "Istämi"
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = fertile_personality
+}
+1444.11.11 = {
+	capital = 719
+	add_treasury = 4
+	add_prestige = 563
+}

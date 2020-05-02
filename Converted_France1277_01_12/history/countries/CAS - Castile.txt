@@ -1,0 +1,26 @@
+# Castille
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 215
+1440.5.21 = {
+	monarch = {
+		name = "Ordonno"
+		birth_date = 1422.10.21
+		dynasty = "de Castella"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 215
+	add_treasury = 69
+	add_prestige = 96
+}

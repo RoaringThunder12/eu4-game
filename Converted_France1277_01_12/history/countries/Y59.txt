@@ -1,0 +1,40 @@
+# Boladid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1231
+1398.2.6 = {
+	monarch = {
+		name = "Hafiz"
+		birth_date = 1384.4.23
+		dynasty = "Boladid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = lawgiver_personality
+}
+1406.5.8 = {
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud II"
+		dynasty = "Boladid"
+		birth_date = 1406.5.8
+		death_date = 1486.5.8
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 1231
+	add_treasury = 32
+	add_prestige = 285
+}

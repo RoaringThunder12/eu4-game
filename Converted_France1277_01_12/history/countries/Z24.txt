@@ -1,0 +1,26 @@
+# Deira
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4368
+1439.4.5 = {
+	monarch = {
+		name = "Morcar"
+		birth_date = 1433.11.28
+		dynasty = "af Gloucester"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 4368
+	add_treasury = 257
+	add_prestige = 68
+}

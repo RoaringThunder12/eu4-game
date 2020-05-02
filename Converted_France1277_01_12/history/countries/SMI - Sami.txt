@@ -1,0 +1,38 @@
+# Kola
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = sapmi
+religion = animism
+clear_scripted_personalities = yes
+capital = 1777
+1413.4.14 = {
+	monarch = {
+		name = "Baeivi III"
+		birth_date = 1410.6.14
+		dynasty = "Guoládat"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = pious_personality
+	heir = {
+		name = "Njulgu"
+		monarch_name = "Njulgu"
+		dynasty = "Guoládat"
+		birth_date = 1410.6.14
+		death_date = 1490.6.14
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = lawgiver_personality
+}
+1444.11.11 = {
+	capital = 1777
+	add_treasury = 81
+	add_prestige = 45
+}

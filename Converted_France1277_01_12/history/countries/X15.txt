@@ -1,0 +1,26 @@
+# Kalachuri
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = nepali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 557
+1441.10.25 = {
+	monarch = {
+		name = "Vachhal"
+		birth_date = 1422.9.9
+		dynasty = "Kalachuri"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 557
+	add_treasury = 61
+	add_prestige = 162
+}

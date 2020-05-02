@@ -1,0 +1,27 @@
+# Barcelona
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = bedouin_arabic
+religion = catholic
+clear_scripted_personalities = yes
+capital = 213
+1442.5.10 = {
+	monarch = {
+		name = "Paymaneh"
+		birth_date = 1437.1.14
+		dynasty = "de Pardiac"
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 213
+	add_treasury = 145
+	add_prestige = 54
+}

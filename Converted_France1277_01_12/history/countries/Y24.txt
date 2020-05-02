@@ -1,0 +1,26 @@
+# Kayghalaid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khazar
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2417
+1443.5.1 = {
+	monarch = {
+		name = "Kayghalagh"
+		birth_date = 1411.10.18
+		dynasty = "Kayghalaid"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 2417
+	add_treasury = 1
+	add_prestige = 56
+}

@@ -1,0 +1,26 @@
+# Hijaz
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2331
+1437.4.22 = {
+	monarch = {
+		name = "Samir"
+		birth_date = 1402.4.25
+		dynasty = "Abbasid"
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2331
+	add_treasury = 12
+	add_prestige = 681
+}

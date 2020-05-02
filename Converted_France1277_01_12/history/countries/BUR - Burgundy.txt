@@ -1,0 +1,26 @@
+# Burgundy
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 192
+1441.9.10 = {
+	monarch = {
+		name = "Diederick II"
+		birth_date = 1435.6.4
+		dynasty = "de Montguyon"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 192
+	add_treasury = 279
+	add_prestige = 96
+}

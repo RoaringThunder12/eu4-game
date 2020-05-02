@@ -1,0 +1,37 @@
+# Harjjaravarman
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2040
+1441.1.3 = {
+	monarch = {
+		name = "Gangakavilasa"
+		birth_date = 1434.5.9
+		dynasty = "Harjjaravarman"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Ranabhanja"
+		monarch_name = "Ranabhanja II"
+		dynasty = "Harjjaravarman"
+		birth_date = 1436.12.22
+		death_date = 1516.12.22
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 2040
+	add_treasury = 38
+	add_prestige = 66
+}

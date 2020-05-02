@@ -1,0 +1,26 @@
+# Hilalid
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 432
+1435.8.18 = {
+	monarch = {
+		name = "Bugra"
+		birth_date = 1394.2.12
+		dynasty = "Hilalid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 432
+	add_treasury = 13
+	add_prestige = 78
+}

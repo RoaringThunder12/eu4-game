@@ -1,0 +1,26 @@
+# Upper Lorraine
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 189
+1436.11.21 = {
+	monarch = {
+		name = "Aldebert"
+		birth_date = 1407.9.7
+		dynasty = "Welf"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 189
+	add_treasury = 121
+	add_prestige = 266
+}

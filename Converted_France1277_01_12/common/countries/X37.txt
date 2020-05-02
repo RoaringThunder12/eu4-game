@@ -1,0 +1,118 @@
+# Nagchu
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 206 107 125 }
+
+
+
+
+leader_names = {
+
+	"Talwerni" "Pantitsamed" "Tigrali" "Sambhota" "Gungsong" "Takdra" "Ngawang" "Yontan" "Tigunyiri" "Delosnyri" 
+	"Khizhi" "Smarshim" "Zangsyag" "Shimwerro" "Khirnyiri" "Rawerni" "Racugni" "Pantihritse" "Tishekhon" "Thungni" 
+	"Martaskra" "Sherkya" "Baninera" "Thungyose" "Nyilni" "Mukan" "Molingzan" "Zhamze" "Tiseto" "Neltunyose" 
+	"Teñribögü" "Smartsamed" "Thatseseto" "Nerkya" "Zarani" "Skyartse" "Tortseli" "Smarkangshe" "Dhingtsamed" "Tashi" 
+	"Tömür" "Choden" "Tisho" "Trikar" "Tsenma" "Mangmo" "Tsogyal" "Omade" "Lhathrimo" "Thrimalö" 
+	"Trinle" "Thrisong" "Chökyi" "Togo" "Tsomo" "Khritsun" "Shonnu" "Ralpacan" "Dickey" "Tubten" 
+	"Drotsen" "Ataklumo" "Nyagdod" "Shekhonti" "Shebu" "Chimetsukphü" "Shenpa" "Dangraskya" "Datserhim" "Dirotiga" 
+	"Dudlutsen" "Krasnetse" "Kunhritse" "Litsakra" "Ljonlji" "Mangpu" "Muba" "Muguni" "Mugunpu" "Murkya" 
+	"Nejini" "Pantimatso" "Rangskya" "Rangwerro" "Rtseni" "Sadslungse" "Sadsrung" "Talsnetse" "Thetsedar" "Tigratinsho" 
+	"Timinrang" "Tisrang" "Tsakrani" "Xinuoluo" "Zlaririm" }
+monarch_names = {
+	"Talwerni #1" = 18
+	"Pantitsamed #0" = -1
+	"Tigrali #0" = 1
+	"Sambhota #1" = 18
+	"Gungsong #2" = 27
+	"Takdra #0" = 1
+	"Ngawang #0" = -1
+	"Yontan #1" = 21
+	"Tigunyiri #2" = 24
+	"Delosnyri #0" = -1
+	"Khizhi #0" = -1
+	"Smarshim #0" = -1
+	"Zangsyag #0" = -1
+	"Shimwerro #2" = 18
+	"Khirnyiri #0" = -1
+	"Rawerni #0" = 1
+	"Racugni #0" = -1
+	"Pantihritse #1" = 21
+	"Tishekhon #0" = -1
+	"Thungni #0" = 1
+	"Martaskra #0" = 1
+	"Sherkya #0" = -1
+	"Baninera #0" = -1
+	"Thungyose #0" = -1
+	"Nyilni #0" = 1
+	"Mukan #0" = 1
+	"Molingzan #1" = 18
+	"Zhamze #0" = -1
+	"Tiseto #0" = -1
+	"Neltunyose #0" = -1
+	"Teñribögü #0" = 1
+	"Smartsamed #0" = -1
+	"Thatseseto #1" = 18
+	"Nerkya #0" = 1
+	"Zarani #0" = 1
+	"Skyartse #0" = 1
+	"Tortseli #0" = -1
+	"Smarkangshe #1" = -19
+	"Dhingtsamed #0" = -1
+	"Tashi #0" = -1
+	"Tömür #0" = 1
+	"Choden #0" = -1
+	"Tisho #0" = 1
+	"Trikar #0" = -1
+	"Tsenma #0" = -1
+	"Mangmo #0" = -1
+	"Tsogyal #0" = -1
+	"Omade #2" = 24
+	"Lhathrimo #0" = -1
+	"Thrimalö #0" = -1
+	"Trinle #0" = -1
+	"Thrisong #0" = -1
+	"Chökyi #0" = -1
+	"Togo #0" = -1
+	"Tsomo #0" = -1
+	"Khritsun #0" = -1
+	"Shonnu #0" = -1
+	"Ralpacan #0" = 1
+	"Dickey #0" = 1
+	"Tubten #0" = -1
+	"Drotsen #1" = 0
+	"Ataklumo #1" = -1
+	"Nyagdod #1" = 0
+	"Shekhonti #1" = -1
+	"Shebu #1" = 0
+	"Chimetsukphü #1" = 0
+	"Shenpa #1" = 0
+	"Dangraskya #0" = 0
+	"Datserhim #0" = 0
+	"Dirotiga #0" = 0
+	"Dudlutsen #0" = 0
+	"Krasnetse #0" = 0
+	"Kunhritse #0" = 0
+	"Litsakra #0" = 0
+	"Ljonlji #0" = 0
+	"Mangpu #0" = 0
+	"Muba #0" = 0
+	"Muguni #0" = 0
+	"Mugunpu #0" = 0
+	"Murkya #0" = 0
+	"Nejini #0" = 0
+	"Pantimatso #0" = 0
+	"Rangskya #0" = 0
+	"Rangwerro #0" = 0
+	"Rtseni #0" = 0
+	"Sadslungse #0" = 0
+	"Sadsrung #0" = 0
+	"Talsnetse #0" = 0
+	"Thetsedar #0" = 0
+	"Tigratinsho #0" = 0
+	"Timinrang #0" = 0
+	"Tisrang #0" = 0
+	"Tsakrani #0" = 0
+	"Xinuoluo #0" = 0
+	"Zlaririm #0" = 0
+}
+

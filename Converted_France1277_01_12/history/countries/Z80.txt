@@ -1,0 +1,26 @@
+# Qualnsiyahid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1099
+1440.3.19 = {
+	monarch = {
+		name = "Bayezid II"
+		birth_date = 1423.1.21
+		dynasty = "Qualnsiyahid"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 1099
+	add_treasury = 203
+	add_prestige = 11
+}

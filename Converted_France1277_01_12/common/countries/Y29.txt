@@ -1,0 +1,61 @@
+# Temirid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 255 255 113 }
+
+
+
+
+leader_names = {
+
+	"Bizel" "Temir" "Sibel" "Sevilay" "Bozçin" "Sevindik" "Suru" "Gunduz" "Ilkay" "Batan" 
+	"Kourkoutai" "Özgul" "Çelgil" "Aba" "Baitzas" "Balgor" "Batas" "Bator" "Bayça" "Biçkili" 
+	"Boru" "Bula" "Giazis" "Ildey" "Ipa" "Ipaos" "Kabuksin" "Karaca" "Kaydum" "Kegen" 
+	"Konel" "Korkutan" "Kortan" "Kostas" "Kuerçi" "Kugel" "Kure" "Sol" "Tatus" "Teber" 
+	"Tyrach" "Yazi" "Yeke" }
+monarch_names = {
+	"Bizel #1" = 24
+	"Temir #1" = 18
+	"Sibel #0" = -1
+	"Sevilay #0" = -1
+	"Bozçin #0" = -1
+	"Sevindik #0" = -1
+	"Suru #0" = 1
+	"Gunduz #0" = -1
+	"Ilkay #0" = -1
+	"Batan #0" = 1
+	"Kourkoutai #0" = 1
+	"Özgul #0" = -1
+	"Çelgil #0" = 0
+	"Aba #0" = 0
+	"Baitzas #0" = 0
+	"Balgor #0" = 0
+	"Batas #0" = 0
+	"Bator #0" = 0
+	"Bayça #0" = 0
+	"Biçkili #0" = 0
+	"Boru #0" = 0
+	"Bula #0" = 0
+	"Giazis #0" = 0
+	"Ildey #0" = 0
+	"Ipa #0" = 0
+	"Ipaos #0" = 0
+	"Kabuksin #0" = 0
+	"Karaca #0" = 0
+	"Kaydum #0" = 0
+	"Kegen #0" = 0
+	"Konel #0" = 0
+	"Korkutan #0" = 0
+	"Kortan #0" = 0
+	"Kostas #0" = 0
+	"Kuerçi #0" = 0
+	"Kugel #0" = 0
+	"Kure #0" = 0
+	"Sol #0" = 0
+	"Tatus #0" = 0
+	"Teber #0" = 0
+	"Tyrach #0" = 0
+	"Yazi #0" = 0
+	"Yeke #0" = 0
+}
+

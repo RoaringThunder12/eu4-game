@@ -1,0 +1,115 @@
+# Wahabid
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 150 60 30 }
+
+
+
+
+leader_names = {
+
+	"Abdul-Wahab" "Fadl" "Habiba" "Bahir" "Muslihiddin" "Tanaz" "Muhammad" "Mansur" "Musa" "Mubarak" 
+	"Sholah" "Jibril" "Adila" "Shujah" "Jaisimha" "Bahubal" "Subahu" "Rajh" "Gaj" "Salivahan" 
+	"Baland" "Bhati" "Mangal-Rao" "Majam-Rao" "Kehar" "Vakpati" "Sultanpala" "Mahendra" "Abdul" "Aram" 
+	"Husam" "Sami" "Samir" "Sulayman" "Mahmud" "Talib" "Ubayd" "Abu-Bakr" "Azam" "Udaysangh" 
+	"Mirza" "Abdullah" "Abdurrashid" "Abdurrahman" "Alauddin" "Ali Sher" "Amar" "Arnel" "Asamuddin" "Aziz" 
+	"Banhbina" "Bhungar" "Bhungar Rao" "Chanesar" "Doda" "Dadu Phattu" "Dalu Rai" "Deva Rai" "Fateh Khan" "Feruzuddin" 
+	"Genhra" "Hafif" "Hamir" "Ismail" "Junah" "Kahah" "Karan" "Khafif" "Khaira" "Khinrah" 
+	"Muhammed-Tur" "Munzir" "Nangar" "Nizamuddin" "Pahtu" "Punhun" "Raidhan" "Sabar" "Salahuddin" "Sanghar" 
+	"Sanjar" "Shahabuddin" "Sikandar" "Sumrah" "Syed" "Tai" "Tamachi" "Taghlak" "Umar" "Unar" }
+monarch_names = {
+	"Abdul-Wahab #1" = 21
+	"Fadl #3" = 18
+	"Habiba #0" = -1
+	"Bahir #0" = 1
+	"Muslihiddin #1" = 18
+	"Tanaz #0" = -1
+	"Muhammad #0" = 1
+	"Mansur #0" = 1
+	"Musa #0" = 1
+	"Mubarak #0" = 1
+	"Sholah #0" = -1
+	"Jibril #1" = 18
+	"Adila #0" = -1
+	"Shujah #0" = 1
+	"Jaisimha #1" = 0
+	"Bahubal #1" = 0
+	"Subahu #1" = 0
+	"Rajh #1" = 0
+	"Gaj #1" = 0
+	"Salivahan #1" = 0
+	"Baland #1" = 0
+	"Bhati #1" = 0
+	"Mangal-Rao #1" = 0
+	"Majam-Rao #1" = 0
+	"Kehar #1" = 0
+	"Vakpati #4" = 0
+	"Sultanpala #2" = 0
+	"Mahendra #1" = 0
+	"Abdul #3" = 0
+	"Aram #1" = 0
+	"Husam #2" = 0
+	"Sami #2" = 0
+	"Samir #1" = 0
+	"Sulayman #1" = 0
+	"Mahmud #1" = 0
+	"Talib #1" = 0
+	"Ubayd #1" = 0
+	"Abu-Bakr #1" = 0
+	"Azam #1" = 0
+	"Udaysangh #1" = 0
+	"Mirza #1" = 0
+	"Abdullah #0" = 0
+	"Abdurrashid #0" = 0
+	"Abdurrahman #0" = 0
+	"Alauddin #0" = 0
+	"Ali Sher #0" = 0
+	"Amar #0" = 0
+	"Arnel #0" = 0
+	"Asamuddin #0" = 0
+	"Aziz #0" = 0
+	"Banhbina #0" = 0
+	"Bhungar #0" = 0
+	"Bhungar Rao #0" = 0
+	"Chanesar #0" = 0
+	"Doda #0" = 0
+	"Dadu Phattu #0" = 0
+	"Dalu Rai #0" = 0
+	"Deva Rai #0" = 0
+	"Fateh Khan #0" = 0
+	"Feruzuddin #0" = 0
+	"Genhra #0" = 0
+	"Hafif #0" = 0
+	"Hamir #0" = 0
+	"Ismail #0" = 0
+	"Junah #0" = 0
+	"Kahah #0" = 0
+	"Karan #0" = 0
+	"Khafif #0" = 0
+	"Khaira #0" = 0
+	"Khinrah #0" = 0
+	"Muhammed-Tur #0" = 0
+	"Munzir #0" = 0
+	"Nangar #0" = 0
+	"Nizamuddin #0" = 0
+	"Pahtu #0" = 0
+	"Punhun #0" = 0
+	"Raidhan #0" = 0
+	"Sabar #0" = 0
+	"Salahuddin #0" = 0
+	"Sanghar #0" = 0
+	"Sanjar #0" = 0
+	"Shahabuddin #0" = 0
+	"Sikandar #0" = 0
+	"Sumrah #0" = 0
+	"Syed #0" = 0
+	"Tai #0" = 0
+	"Tamachi #0" = 0
+	"Taghlak #0" = 0
+	"Umar #0" = 0
+	"Unar #0" = 0
+
+
+	"Zaynab #0" = -1
+}
+

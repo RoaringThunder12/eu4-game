@@ -1,0 +1,27 @@
+# Gandhara
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = panjabi
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4511
+1428.4.28 = {
+	monarch = {
+		name = "Berkiyaruk"
+		birth_date = 1422.12.28
+		dynasty = "Abbasid"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 4511
+	add_treasury = 47
+	add_prestige = 685
+}

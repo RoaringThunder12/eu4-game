@@ -1,0 +1,27 @@
+# Crimea
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khazar
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1974
+1443.10.6 = {
+	monarch = {
+		name = "Sirma"
+		birth_date = 1416.11.1
+		dynasty = "Levid"
+		female = yes
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1974
+	add_treasury = 25
+	add_prestige = 14
+}

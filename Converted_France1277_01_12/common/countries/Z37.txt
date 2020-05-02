@@ -1,0 +1,439 @@
+# Trier
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 188 188 224 }
+
+
+
+
+leader_names = {
+
+	"Hadrad" "Mélisande" "Uuid" "Gerbèrga" "Aznar" "Herlinda" "Wila" "Kristof" "Jorge" "Ancel" 
+	"Jeanne" "Elisabèta" "Swanhildis" "Clara" "Niclaes" "Sybille" "Hubert" "Hugues" "Rosa" "Antoon" 
+	"Joan" "Lutrin" "Bouchard" "Jaufret" "Ildégarde" "Petronilha" "Josselin" "Rosèla" "Aldebert" "Cathèrine" 
+	"Duran" "Arsinde" "Navar" "Elbira" "Roland" "Géraud" "Ugues" "Bonne" "Berta" "Aïna" 
+	"Mathilde" "Sebastiaen" "Eglantine" "Steven" "Rorgon" "Adeltrudis" "Rothard" "Karlotte" "Rathar" "Chiemgaud" 
+	"Welf" "Otgeri" "Gararic" "Raginari" "Monegund" "Gunthar" "Arnulf" "Radulf" "Arcambald" "Frotlina" 
+	"Ermengardis" "Hildegardis" "Hildoin" "Lanthechilde" "Ceslin" "Ermensindis" "Audovald" "Ruothilde" "Balduin" "Madelgarde" 
+	"Rainald" "Audovera" "Frolaica" "Frotlildis" "Berthefried" "Ingitrude" "Gaucelm" "Aliberta" "Marcovefa" "Martin" 
+	"Galswinth" "Rotrude" "Imma" "Erlembald" "Arnoul" "Gerperga" "Rumetruda" "Dagaric" "Magnachar" "Anstrude" 
+	"Leubast" "Sichelgaita" "Waimar" "Amalberga" "Sunilda" "Berthefled" "Esclarmonde" "Gaila" "Clotild" "Matasuntha" 
+	"Beretrude" "Risiulf" "Berin" "Raynaud" "Perctarit" "Gaatha" "Zuchilo" "Ide" "Geretrudis" "Liutbald" 
+	"Adalgis" "Tiburge" "Vacho" "Guaimar" "Ida" "Poppo" "Menia" "Desiderius" "Erchinoald" "Ansa" 
+	"Amefrith" "Liutpert" "Amalfrida" "Rodolf" "Hucpert" "Rodelinda" "Hermenfred" "Perinne" "Pierre" "Gundoald" 
+	"Giso" "Serenahilt" "Aimeric" "Halderudis" "Erelieva" "Thibault" "Theodo" "Fulcrad" "Theodicius" "Sara" 
+	"Wisigarda" "Élodie" "Echive" "Gundeperga" "Barthélémi" "Liutward" "Aripert" "Chlothsinda" "François" "Judith" 
+	"Reccared" "Gaujoin" "Ferdulf" "Rodoald" "Rictrude" "Amalasuintha" "Sarrazine" "Gemma" "Aegidius" "Bernard" 
+	"Itta" "Léonard" "Wido" "Isabelle" "Theoderich" "Raymonde" "Appa" "Aribert" "Antoine" "Vulfari" 
+	"Raoul" "Maria" "Richard" "Sigeric" "Celsovildis" "Adelgrima" "Yolande" "Guillabert" "Ermessinde" "Gotberga" 
+	"Aude" "Landina" "Nordepert" "Hodierne" "Étienne" "Jacques" "Sunno" "Ansegundis" "Childebert" "Thomas" 
+	"Autgari" "Adaluildis" "Landenulf" "Thiudigotho" "Pharamond" "Gaucher" "Austregisel" "Emma" "André" "Péronelle" 
+	"Berthildis" "Airsenda" "Mafalda" "Bertlin" "Telurg" "Isabeau" "Uuochu" "Alice" "Aléarde" "Karloman" 
+	"Drest" "Eustachie" "Mascarose" "Archambaud" "Muriel" "Burgundofara" "Adaltrude" "Guillaume" "Raymond" "Eua" 
+	"Amaury" "Gelduin" "Evrard" "Onfroy" "Addiena" "Gisela" "Enuidaig" "Tarla" "Ragenard" "Agiprand" 
+	"Adalgardis" "Balthild" "Blanche" "Agathe" "Cesaria" "Uen" "Agnès" "Constance" "Aimery" "Canuall" 
+	"Eve" "Arnifrid" "Julien" "Uusbail" "Euphrosine" "Gerberge" "Loup" "Mélusine" "Achiuir" "Antoinette" 
+	"Durilia" "Ingohildis" "Frédéric" "Robert" "Gigurum" "Odelric" "Telurgan" "Ansovald" "Adèle" "Gisèle" 
+	"Margrud" "Elisabeth" "Adelaide" "Gargamel" "Gheertrude" "Eduard" "Giseltrude" "Brunissenda" "Ioulanda" "Anne" 
+	"Willem" "Elaine" "Guigues" "Siunod" "Azelma" "Morien" "Elena" "Bohemond" "Guilheumina" "Adelinde" 
+	"Eustache" "Béatrix" "Bronuen" "Aliénor" "Alix" "Archambaut" "Sanne" "Denise" "Engelbrecht" "Godfried" 
+	"Haduwijn" "Kathrijne" "Blanca" "Machtelt" "Aleid" "Héloise" "Herbert" "Charlotte" "Ermengarde" "Alias" 
+	"Claes" "Guillaumette" "Adrien" "Valence" "Lothaire" "Alphonse" "Sophie" "Sigismond" "Frotari" "Abram" 
+	"Adelaidis" "Cawrdolli" "Arnaud" "Philippe" "Geoffroy" "Sultiern" "Custent" "Charlemagne" "Payen" "Charlemagne II" 
+	"Wolfard" "Hilligonda" "Bérengère" "Bertram" "Fredegunde" "Édouard" "Érrard" "Adalbert" "Adémar" "Alain" 
+	"Aldéric" "Amédée" "Angelbert" "Arnault" "Aubry" "Aymar" "Baudouin" "Benoît" "Bérenger" "Bertrand" 
+	"Boson" "Centule" "Charles" "Clotaire" "Ebbon" "Enguerrand" "Eudes" "Foulques" "Gaucelin" "Gauthier" 
+	"Gilbert" "Gilles" "Godefroy" "Guichard" "Guiges" "Guilhem" "Guy" "Hélie" "Hamelin" "Henri" 
+	"Hildebert" "Humbert" "Jaufré" "Jaspert" "Jean" "Jourdain" "Léon" "Louis" "Manassès" "Mathieu" 
+	"Maurice" "Nicolas" "Ogier" "Orson" "Othon" "Raimbaut" "Renaud" "Robin" "Roger" "Rorgues" 
+	"Roubaud" "Savary" "Simon" "Thiébaut" "Thierry" "Valeran" "Yves" }
+monarch_names = {
+	"Hadrad #0" = 1
+	"Mélisande #0" = -1
+	"Uuid #0" = 1
+	"Gerbèrga #1" = -22
+	"Aznar #0" = 1
+	"Herlinda #0" = -1
+	"Wila #0" = -1
+	"Kristof #0" = 1
+	"Jorge #0" = 1
+	"Ancel #0" = 1
+	"Jeanne #0" = -1
+	"Elisabèta #0" = -1
+	"Swanhildis #0" = -1
+	"Clara #0" = -1
+	"Niclaes #0" = 1
+	"Sybille #0" = -1
+	"Hubert #0" = 1
+	"Hugues #0" = 1
+	"Rosa #0" = -1
+	"Antoon #0" = 1
+	"Joan #0" = 1
+	"Lutrin #0" = 1
+	"Bouchard #0" = 1
+	"Jaufret #0" = 1
+	"Ildégarde #0" = -1
+	"Petronilha #1" = -19
+	"Josselin #0" = 1
+	"Rosèla #0" = -1
+	"Aldebert #0" = 1
+	"Cathèrine #0" = -1
+	"Duran #0" = 1
+	"Arsinde #0" = -1
+	"Navar #0" = -1
+	"Elbira #0" = -1
+	"Roland #1" = 24
+	"Géraud #0" = 1
+	"Ugues #0" = 1
+	"Bonne #0" = -1
+	"Berta #0" = -1
+	"Aïna #0" = -1
+	"Mathilde #1" = -22
+	"Sebastiaen #0" = 1
+	"Eglantine #0" = -1
+	"Steven #0" = 1
+	"Rorgon #0" = 1
+	"Adeltrudis #0" = -1
+	"Rothard #0" = 1
+	"Karlotte #0" = -1
+	"Rathar #0" = 1
+	"Chiemgaud #0" = 1
+	"Welf #0" = 1
+	"Otgeri #0" = 1
+	"Gararic #0" = 1
+	"Raginari #0" = 1
+	"Monegund #0" = -1
+	"Gunthar #0" = 1
+	"Arnulf #0" = 1
+	"Radulf #0" = 1
+	"Arcambald #0" = 1
+	"Frotlina #0" = -1
+	"Ermengardis #0" = -1
+	"Hildegardis #0" = -1
+	"Hildoin #0" = 1
+	"Lanthechilde #0" = -1
+	"Ceslin #0" = 1
+	"Ermensindis #0" = -1
+	"Audovald #0" = 1
+	"Ruothilde #0" = -1
+	"Balduin #0" = 1
+	"Madelgarde #0" = -1
+	"Rainald #0" = 1
+	"Audovera #1" = -19
+	"Frolaica #0" = -1
+	"Frotlildis #0" = -1
+	"Berthefried #0" = -1
+	"Ingitrude #0" = -1
+	"Gaucelm #0" = 1
+	"Aliberta #0" = -1
+	"Marcovefa #0" = -1
+	"Martin #0" = 1
+	"Galswinth #0" = -1
+	"Rotrude #0" = -1
+	"Imma #0" = -1
+	"Erlembald #0" = 1
+	"Arnoul #1" = 21
+	"Gerperga #0" = -1
+	"Rumetruda #0" = -1
+	"Dagaric #0" = 1
+	"Magnachar #0" = 1
+	"Anstrude #0" = -1
+	"Leubast #0" = -1
+	"Sichelgaita #0" = -1
+	"Waimar #0" = 1
+	"Amalberga #0" = -1
+	"Sunilda #0" = -1
+	"Berthefled #0" = -1
+	"Esclarmonde #0" = -1
+	"Gaila #0" = -1
+	"Clotild #0" = -1
+	"Matasuntha #0" = -1
+	"Beretrude #0" = -1
+	"Risiulf #0" = 1
+	"Berin #0" = 1
+	"Raynaud #0" = 1
+	"Perctarit #0" = 1
+	"Gaatha #0" = -1
+	"Zuchilo #0" = 1
+	"Ide #0" = -1
+	"Geretrudis #0" = -1
+	"Liutbald #0" = 1
+	"Adalgis #0" = 1
+	"Tiburge #0" = -1
+	"Vacho #0" = 1
+	"Guaimar #0" = 1
+	"Ida #0" = -1
+	"Poppo #0" = 1
+	"Menia #0" = -1
+	"Desiderius #0" = 1
+	"Erchinoald #0" = 1
+	"Ansa #0" = -1
+	"Amefrith #0" = 1
+	"Liutpert #0" = 1
+	"Amalfrida #0" = -1
+	"Rodolf #0" = 1
+	"Hucpert #0" = 1
+	"Rodelinda #0" = -1
+	"Hermenfred #0" = 1
+	"Perinne #0" = -1
+	"Pierre #0" = 1
+	"Gundoald #0" = 1
+	"Giso #0" = -1
+	"Serenahilt #0" = -1
+	"Aimeric #0" = 1
+	"Halderudis #0" = -1
+	"Erelieva #0" = -1
+	"Thibault #0" = 1
+	"Theodo #0" = 1
+	"Fulcrad #0" = 1
+	"Theodicius #0" = 1
+	"Sara #0" = -1
+	"Wisigarda #0" = -1
+	"Élodie #0" = -1
+	"Echive #0" = -1
+	"Gundeperga #0" = -1
+	"Barthélémi #0" = 1
+	"Liutward #0" = 1
+	"Aripert #0" = 1
+	"Chlothsinda #0" = -1
+	"François #0" = 1
+	"Judith #0" = -1
+	"Reccared #0" = 1
+	"Gaujoin #0" = 1
+	"Ferdulf #0" = 1
+	"Rodoald #0" = 1
+	"Rictrude #0" = -1
+	"Amalasuintha #0" = -1
+	"Sarrazine #0" = -1
+	"Gemma #0" = -1
+	"Aegidius #0" = 1
+	"Bernard #1" = 18
+	"Itta #0" = -1
+	"Léonard #0" = 1
+	"Wido #1" = 18
+	"Isabelle #0" = -1
+	"Theoderich #0" = 1
+	"Raymonde #0" = -1
+	"Appa #0" = -1
+	"Aribert #0" = 1
+	"Antoine #0" = 1
+	"Vulfari #0" = 1
+	"Raoul #0" = 1
+	"Maria #0" = -1
+	"Richard #0" = 1
+	"Sigeric #0" = 1
+	"Celsovildis #0" = -1
+	"Adelgrima #0" = -1
+	"Yolande #0" = -1
+	"Guillabert #0" = 1
+	"Ermessinde #0" = -1
+	"Gotberga #0" = -1
+	"Aude #0" = -1
+	"Landina #0" = -1
+	"Nordepert #0" = 1
+	"Hodierne #0" = -1
+	"Étienne #0" = 1
+	"Jacques #0" = 1
+	"Sunno #0" = 1
+	"Ansegundis #0" = -1
+	"Childebert #0" = 1
+	"Thomas #0" = 1
+	"Autgari #0" = 1
+	"Adaluildis #0" = -1
+	"Landenulf #0" = 1
+	"Thiudigotho #0" = -1
+	"Pharamond #0" = 1
+	"Gaucher #0" = 1
+	"Austregisel #0" = 1
+	"Emma #2" = -25
+	"André #0" = 1
+	"Péronelle #0" = -1
+	"Berthildis #0" = -1
+	"Airsenda #0" = -1
+	"Mafalda #0" = -1
+	"Bertlin #0" = 1
+	"Telurg #0" = 1
+	"Isabeau #0" = -1
+	"Uuochu #0" = 1
+	"Alice #0" = -1
+	"Aléarde #0" = -1
+	"Karloman #0" = 1
+	"Drest #0" = 1
+	"Eustachie #0" = -1
+	"Mascarose #0" = -1
+	"Archambaud #0" = 1
+	"Muriel #0" = -1
+	"Burgundofara #0" = -1
+	"Adaltrude #0" = -1
+	"Guillaume #0" = 1
+	"Raymond #0" = 1
+	"Eua #1" = -19
+	"Amaury #0" = 1
+	"Gelduin #0" = 1
+	"Evrard #0" = 1
+	"Onfroy #0" = 1
+	"Addiena #0" = -1
+	"Gisela #0" = -1
+	"Enuidaig #0" = 1
+	"Tarla #0" = 1
+	"Ragenard #0" = 1
+	"Agiprand #0" = 1
+	"Adalgardis #0" = -1
+	"Balthild #0" = -1
+	"Blanche #0" = -1
+	"Agathe #0" = -1
+	"Cesaria #1" = -19
+	"Uen #0" = -1
+	"Agnès #0" = -1
+	"Constance #0" = -1
+	"Aimery #0" = 1
+	"Canuall #1" = 18
+	"Eve #0" = -1
+	"Arnifrid #0" = 1
+	"Julien #0" = 1
+	"Uusbail #0" = -1
+	"Euphrosine #0" = -1
+	"Gerberge #0" = -1
+	"Loup #0" = 1
+	"Mélusine #0" = -1
+	"Achiuir #0" = 1
+	"Antoinette #0" = -1
+	"Durilia #0" = -1
+	"Ingohildis #0" = -1
+	"Frédéric #0" = 1
+	"Robert #0" = 1
+	"Gigurum #0" = 1
+	"Odelric #0" = 1
+	"Telurgan #0" = 1
+	"Ansovald #0" = 1
+	"Adèle #0" = -1
+	"Gisèle #0" = -1
+	"Margrud #0" = -1
+	"Elisabeth #0" = -1
+	"Adelaide #0" = -1
+	"Gargamel #0" = 1
+	"Gheertrude #0" = -1
+	"Eduard #0" = 1
+	"Giseltrude #0" = -1
+	"Brunissenda #0" = -1
+	"Ioulanda #0" = -1
+	"Anne #0" = -1
+	"Willem #0" = 1
+	"Elaine #0" = -1
+	"Guigues #0" = 1
+	"Siunod #0" = -1
+	"Azelma #0" = -1
+	"Morien #0" = -1
+	"Elena #1" = -19
+	"Bohemond #0" = 1
+	"Guilheumina #0" = -1
+	"Adelinde #0" = -1
+	"Eustache #0" = 1
+	"Béatrix #0" = -1
+	"Bronuen #0" = -1
+	"Aliénor #0" = -1
+	"Alix #0" = -1
+	"Archambaut #0" = 1
+	"Sanne #0" = -1
+	"Denise #0" = -1
+	"Engelbrecht #0" = 1
+	"Godfried #0" = 1
+	"Haduwijn #0" = -1
+	"Kathrijne #0" = -1
+	"Blanca #0" = -1
+	"Machtelt #0" = -1
+	"Aleid #0" = -1
+	"Héloise #0" = -1
+	"Herbert #0" = 1
+	"Charlotte #0" = -1
+	"Ermengarde #0" = -1
+	"Alias #0" = 1
+	"Claes #0" = 1
+	"Guillaumette #0" = -1
+	"Adrien #0" = 1
+	"Valence #0" = -1
+	"Lothaire #0" = 1
+	"Alphonse #0" = 1
+	"Sophie #0" = -1
+	"Sigismond #0" = 1
+	"Frotari #1" = 0
+	"Abram #1" = 0
+	"Adelaidis #1" = -1
+	"Cawrdolli #1" = 0
+	"Arnaud #1" = 0
+	"Philippe #1" = 0
+	"Geoffroy #1" = 0
+	"Sultiern #1" = 0
+	"Custent #1" = 0
+	"Charlemagne #1" = 0
+	"Payen #1" = 0
+	"Charlemagne II #1" = 0
+	"Wolfard #1" = 0
+	"Hilligonda #1" = -1
+	"Bérengère #2" = -1
+	"Bertram #1" = 0
+	"Fredegunde #1" = -1
+	"Édouard #0" = 0
+	"Érrard #0" = 0
+	"Adalbert #0" = 0
+	"Adémar #0" = 0
+	"Alain #0" = 0
+	"Aldéric #0" = 0
+	"Amédée #0" = 0
+	"Angelbert #0" = 0
+	"Arnault #0" = 0
+	"Aubry #0" = 0
+	"Aymar #0" = 0
+	"Baudouin #0" = 0
+	"Benoît #0" = 0
+	"Bérenger #0" = 0
+	"Bertrand #0" = 0
+	"Boson #0" = 0
+	"Centule #0" = 0
+	"Charles #0" = 0
+	"Clotaire #0" = 0
+	"Ebbon #0" = 0
+	"Enguerrand #0" = 0
+	"Eudes #0" = 0
+	"Foulques #0" = 0
+	"Gaucelin #0" = 0
+	"Gauthier #0" = 0
+	"Gilbert #0" = 0
+	"Gilles #0" = 0
+	"Godefroy #0" = 0
+	"Guichard #0" = 0
+	"Guiges #0" = 0
+	"Guilhem #0" = 0
+	"Guy #0" = 0
+	"Hélie #0" = 0
+	"Hamelin #0" = 0
+	"Henri #0" = 0
+	"Hildebert #0" = 0
+	"Humbert #0" = 0
+	"Jaufré #0" = 0
+	"Jaspert #0" = 0
+	"Jean #0" = 0
+	"Jourdain #0" = 0
+	"Léon #0" = 0
+	"Louis #0" = 0
+	"Manassès #0" = 0
+	"Mathieu #0" = 0
+	"Maurice #0" = 0
+	"Nicolas #0" = 0
+	"Ogier #0" = 0
+	"Orson #0" = 0
+	"Othon #0" = 0
+	"Raimbaut #0" = 0
+	"Renaud #0" = 0
+	"Robin #0" = 0
+	"Roger #0" = 0
+	"Rorgues #0" = 0
+	"Roubaud #0" = 0
+	"Savary #0" = 0
+	"Simon #0" = 0
+	"Thiébaut #0" = 0
+	"Thierry #0" = 0
+	"Valeran #0" = 0
+	"Yves #0" = 0
+}
+

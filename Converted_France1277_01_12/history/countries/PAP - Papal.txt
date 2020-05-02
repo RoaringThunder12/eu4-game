@@ -1,0 +1,26 @@
+# The Papacy
+government = theocracy
+add_government_reform = papacy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 118
+1434.7.18 = {
+	monarch = {
+		name = "Martinus III"
+		birth_date = 1368.10.20
+		dynasty = "Gerardos"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 118
+	add_treasury = 396
+	add_prestige = 299
+}

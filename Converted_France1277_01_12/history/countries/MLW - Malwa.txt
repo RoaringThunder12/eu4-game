@@ -1,0 +1,28 @@
+# Malwa
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2056
+1427.9.6 = {
+	monarch = {
+		name = "Vijnayavati"
+		birth_date = 1392.11.16
+		dynasty = "Pala"
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 2056
+	add_treasury = 47
+	add_prestige = 533
+}

@@ -1,0 +1,27 @@
+# Wahabid
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2224
+1418.3.28 = {
+	monarch = {
+		name = "Khalil"
+		birth_date = 1415.11.14
+		dynasty = "Wahabid"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 2224
+	add_treasury = 856
+	add_prestige = 144
+}

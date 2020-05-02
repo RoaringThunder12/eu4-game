@@ -1,0 +1,27 @@
+# Mezen
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4257
+1401.8.14 = {
+	monarch = {
+		name = "Kharuchi"
+		birth_date = 1393.9.27
+		dynasty = "Kanin"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 4257
+	add_treasury = 16
+	add_prestige = 212
+}

@@ -1,0 +1,26 @@
+# Manding
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = andalucian
+religion = kharijite
+clear_scripted_personalities = yes
+capital = 1134
+1444.1.1 = {
+	monarch = {
+		name = "Zakoi"
+		birth_date = 1399.11.3
+		dynasty = "Boryid"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 1134
+	add_treasury = 11
+	add_prestige = 82
+}

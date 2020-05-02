@@ -1,0 +1,27 @@
+# Lhasa
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 677
+1418.2.6 = {
+	monarch = {
+		name = "Lingpa II"
+		birth_date = 1396.7.17
+		dynasty = "Aydaqid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 677
+	add_treasury = 41
+	add_prestige = 250
+}

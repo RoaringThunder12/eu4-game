@@ -1,0 +1,214 @@
+# Muntenia
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 238 192 69 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Çat" "Tura" "Kuber" "Hudbad" "Uturgur" "Samur" "Zenti" "Naça" "Telerig" "Yildiz" 
+	"Taridin" "Asli" "Khatir" "Iltäbär" "Dristar" "Bihor" "Ipek" "Özgul" "Goleda" "Sarikel" 
+	"Sarkhan" "Okhsi" "Irnek" "Çeçeppi" "Kordil" "Pakhtiyar" "Peksen" "Eskhakh" "Gunduz" "Ajjar" 
+	"Uran" "Kormisosh" "Vinekh" "Pagan" "Vakrim" "Yavantey" "Batulia" "Elemag" "Dragija" "Aldimir" 
+	"Dragos" "Iani" "Mugel" "Karan" "Chinialush" "Khuterkin" "Kayghalagh" "Kundaçiq" "Magotin" "Rassate" 
+	"Dometa" "Barsbek" "Kano" "Alp" "Tuzniq" "Çorpan" "Almish" "Alzek" "Anzi" "Apskhih" 
+	"Araslan" "Asparukh" "Balamber" "Bars" "Bataul" "Batbayan" "Batoya" "Bayan" "Belkermak" "Bezmer" 
+	"Boyan" "Bulger" "Buzan" "Chepa" "Dengizikh" "Dizeng" "Drong" "Dukum" "Ellak" "Ernakh" 
+	"Gostun" "Guar" "Isbul" "Islivan" "Isperikh" "Ispor" "Kälaç" "Karaton" "Kardam" "Kharaton" 
+	"Khinialon" "Khudbard" "Kormesiy" "Kotrag" "Krovat" "Krum" "Kubrat" "Kurt" "Kutrigur" "Kuvrat" 
+	"Labertam" "Malamir" "Odolgan" "Okhsun" "Okors" "Omurtag" "Onegavon" "Organ" "Organa" "Ornag" 
+	"Oshi" "Ostro" "Paväl" "Praksa" "Rugila" "Sabin" "Sandil" "Sandilkh" "Sartäç" "Savin" 
+	"Sevar" "Shilki" "Sondoke" "Tähtaman" "Tarasiy" "Tatra" "Telec" "Tervel" "Timër" "Timëreç" 
+	"Timërpälat" "Tingiz" "Tiradin" "Tokhtaman" "Toktu" "Tsog" "Tsul" "Tuk" "Umor" "Venda" 
+	"Vetam" "Yani" "Yençepi" "Yerneslu" "Yeçtirek" "Zabergan" "Tukiy" "Aydar" "Irkhan" "Batir" }
+monarch_names = {
+	"Çat #0" = 1
+	"Tura #0" = -1
+	"Kuber #1" = 21
+	"Hudbad #0" = 1
+	"Uturgur #0" = 1
+	"Samur #0" = -1
+	"Zenti #0" = 1
+	"Naça #0" = -1
+	"Telerig #2" = 27
+	"Yildiz #0" = -1
+	"Taridin #0" = 1
+	"Asli #0" = -1
+	"Khatir #0" = 1
+	"Iltäbär #0" = 1
+	"Dristar #0" = 1
+	"Bihor #0" = 1
+	"Ipek #0" = -1
+	"Özgul #0" = -1
+	"Goleda #1" = 18
+	"Sarikel #0" = -1
+	"Sarkhan #0" = 1
+	"Okhsi #0" = 1
+	"Irnek #1" = 18
+	"Çeçeppi #0" = -1
+	"Kordil #0" = 1
+	"Pakhtiyar #0" = 1
+	"Peksen #0" = -1
+	"Eskhakh #0" = 1
+	"Gunduz #0" = -1
+	"Ajjar #1" = 0
+	"Uran #1" = 0
+	"Kormisosh #1" = 0
+	"Vinekh #1" = 0
+	"Pagan #1" = 0
+	"Vakrim #1" = 0
+	"Yavantey #1" = 0
+	"Batulia #1" = 0
+	"Elemag #1" = 0
+	"Dragija #1" = 0
+	"Aldimir #1" = 0
+	"Dragos #1" = 0
+	"Iani #1" = 0
+	"Mugel #2" = 0
+	"Karan #1" = 0
+	"Chinialush #1" = 0
+	"Khuterkin #1" = 0
+	"Kayghalagh #2" = 0
+	"Kundaçiq #1" = 0
+	"Magotin #1" = 0
+	"Rassate #1" = 0
+	"Dometa #1" = 0
+	"Barsbek #1" = 0
+	"Kano #1" = 0
+	"Alp #1" = 0
+	"Tuzniq #1" = 0
+	"Çorpan #1" = 0
+	"Almish #0" = 0
+	"Alzek #0" = 0
+	"Anzi #0" = 0
+	"Apskhih #0" = 0
+	"Araslan #0" = 0
+	"Asparukh #0" = 0
+	"Balamber #0" = 0
+	"Bars #0" = 0
+	"Bataul #0" = 0
+	"Batbayan #0" = 0
+	"Batoya #0" = 0
+	"Bayan #0" = 0
+	"Belkermak #0" = 0
+	"Bezmer #0" = 0
+	"Boyan #0" = 0
+	"Bulger #0" = 0
+	"Buzan #0" = 0
+	"Chepa #0" = 0
+	"Dengizikh #0" = 0
+	"Dizeng #0" = 0
+	"Drong #0" = 0
+	"Dukum #0" = 0
+	"Ellak #0" = 0
+	"Ernakh #0" = 0
+	"Gostun #0" = 0
+	"Guar #0" = 0
+	"Isbul #0" = 0
+	"Islivan #0" = 0
+	"Isperikh #0" = 0
+	"Ispor #0" = 0
+	"Kälaç #0" = 0
+	"Karaton #0" = 0
+	"Kardam #0" = 0
+	"Kharaton #0" = 0
+	"Khinialon #0" = 0
+	"Khudbard #0" = 0
+	"Kormesiy #0" = 0
+	"Kotrag #0" = 0
+	"Krovat #0" = 0
+	"Krum #0" = 0
+	"Kubrat #0" = 0
+	"Kurt #0" = 0
+	"Kutrigur #0" = 0
+	"Kuvrat #0" = 0
+	"Labertam #0" = 0
+	"Malamir #0" = 0
+	"Odolgan #0" = 0
+	"Okhsun #0" = 0
+	"Okors #0" = 0
+	"Omurtag #0" = 0
+	"Onegavon #0" = 0
+	"Organ #0" = 0
+	"Organa #0" = 0
+	"Ornag #0" = 0
+	"Oshi #0" = 0
+	"Ostro #0" = 0
+	"Paväl #0" = 0
+	"Praksa #0" = 0
+	"Rugila #0" = 0
+	"Sabin #0" = 0
+	"Sandil #0" = 0
+	"Sandilkh #0" = 0
+	"Sartäç #0" = 0
+	"Savin #0" = 0
+	"Sevar #0" = 0
+	"Shilki #0" = 0
+	"Sondoke #0" = 0
+	"Tähtaman #0" = 0
+	"Tarasiy #0" = 0
+	"Tatra #0" = 0
+	"Telec #0" = 0
+	"Tervel #0" = 0
+	"Timër #0" = 0
+	"Timëreç #0" = 0
+	"Timërpälat #0" = 0
+	"Tingiz #0" = 0
+	"Tiradin #0" = 0
+	"Tokhtaman #0" = 0
+	"Toktu #0" = 0
+	"Tsog #0" = 0
+	"Tsul #0" = 0
+	"Tuk #0" = 0
+	"Umor #0" = 0
+	"Venda #0" = 0
+	"Vetam #0" = 0
+	"Yani #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+	"Zabergan #0" = 0
+	"Tukiy #0" = 0
+	"Aydar #0" = 0
+	"Irkhan #0" = 0
+	"Batir #0" = 0
+}
+ship_names = {
+	Alhtpolo
+	Kiten Kraymorie
+	Lozenets
+	Promorsko
+	Rezovo
+	Sarafovo Sinemorets Sozopol
+	Varara
+}
+

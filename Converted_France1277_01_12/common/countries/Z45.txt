@@ -1,0 +1,258 @@
+# Asturias
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 233 188 91 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Notarius" "Ensaldus" "Espallo" "Aliverga" "Pantard" "Berina" "Elperico" "Cartemiro" "Fronosili" "Frumildi" 
+	"Nandaricus" "Trastivigia" "Leovaldo" "Gelvira" "Romarigus" "Gardingus" "Quidericus" "Ansetrudia" "Margilli" "Ansuario" 
+	"Neufila" "Vistravara" "Eldesindus" "Ermenisinda" "Pelaio" "Abdallah" "Jalid" "Hussamaddin" "Ambrosia" "Charlemagne" 
+	"Bérenger" "Abdul-Gafur" "Sadiq" "Ghalib" "Fadil" "Suleyman" "Fadl" "Rashid" "Raf" "Hakam" 
+	"Godoigia" "Lallina" "Adeqisio" "Adoric" "Agimadus" "Agriulfum" "Alamiro" "Algaster" "Anila" "Argiovitus" 
+	"Ariamir" "Arosinda" "Audeca" "Badamundus" "Baldemarius" "Balderedo" "Baltarius" "Baudemiro" "Becilla" "Berteiro" 
+	"Bonesindus" "Boniza" "Cagildo" "Chararici" "Commundus" "Crodemiro" "Dagaredus" "Daildus" "Damiro" "Docemiro" 
+	"Donazarius" "Donegildus" "Dulcemirus" "Eboric" "Egenio" "Eimiro" "Eirigu" "Eisindus" "Eldegotus" "Engomiro" 
+	"Ermaric" "Evosindo" "Fagildus" "Felmiro" "Fralenko" "Framuldo" "Francolino" "Fredoaldus" "Froatingus" "Fromildus" 
+	"Frumeiro" "Gaudesindo" "Gomedei" "Gomulfus" "Gresumarus" "Gudesteus" "Gumarius" "Gundivaldo" "Guntato" "Gunterotis" 
+	"Heremigar" "Hermeric" "Hespanisco" "Hildemir" "Hilderic" "Hunisco" "Huniscus" "Leodegasti" "Leoderigus" "Leodulfus" 
+	"Lodemiro" "Magitus" "Malaredus" "Malaric" "Maldras" "Marcosendus" "Massilan" "Mervigius" "Miro" "Moderido" 
+	"Nantildo" "Nitigis" "Odamiro" "Odemundus" "Odericus" "Onemiro" "Onoricus" "Osdulfus" "Osorico" "Ostromirus" 
+	"Otualdo" "Pabregildus" "Pantinus" "Pappinus" "Pederagildu" "Pennio" "Pipinus" "Provaredo" "Quedesendo" "Quedulfus" 
+	"Quidemiro" "Ragimiro" "Ragolfus" "Rakericus" "Randinus" "Randuarius" "Ranisclus" "Rechiar" "Rechila" "Refulfo" 
+	"Reirigus" "Remismund" "Remisol" "Rendericus" "Ricardo" "Richimund" "Rodomiro" "Roelindus" "Romanisco" "Sagatus" 
+	"Saxomero" "Segomirus" "Sentarius" "Sescutus" "Sisulfus" "Spanarius" "Spoderigo" "Suavarius" "Sunila" "Teobald" 
+	"Teoderedus" "Theodemar" "Todegogia" "Trasmira" "Trasoldi" "Tumtuldo" "Uittimer" "Venedario" "Veremund" "Viamundus" 
+	"Vidraldus" "Villisendo" "Vistremiro" "Zamarius" "Zendasindo" }
+monarch_names = {
+	"Notarius #0" = 1
+	"Ensaldus #0" = 1
+	"Espallo #1" = -22
+	"Aliverga #0" = -1
+	"Pantard #0" = 1
+	"Berina #0" = -1
+	"Elperico #1" = 27
+	"Cartemiro #0" = 1
+	"Fronosili #0" = -1
+	"Frumildi #0" = -1
+	"Nandaricus #0" = 1
+	"Trastivigia #0" = -1
+	"Leovaldo #0" = 1
+	"Gelvira #0" = -1
+	"Romarigus #1" = 18
+	"Gardingus #0" = 1
+	"Quidericus #0" = 1
+	"Ansetrudia #0" = -1
+	"Margilli #0" = -1
+	"Ansuario #0" = 1
+	"Neufila #0" = 1
+	"Vistravara #0" = -1
+	"Eldesindus #0" = 1
+	"Ermenisinda #1" = -1
+	"Pelaio #1" = 0
+	"Abdallah #3" = 0
+	"Jalid #2" = 0
+	"Hussamaddin #3" = 0
+	"Ambrosia #1" = -1
+	"Charlemagne #1" = 0
+	"Bérenger #1" = 0
+	"Abdul-Gafur #2" = 0
+	"Sadiq #1" = 0
+	"Ghalib #1" = 0
+	"Fadil #2" = 0
+	"Suleyman #1" = 0
+	"Fadl #1" = 0
+	"Rashid #1" = 0
+	"Raf #1" = 0
+	"Hakam #2" = 0
+	"Godoigia #1" = -1
+	"Lallina #1" = -1
+	"Adeqisio #0" = 0
+	"Adoric #0" = 0
+	"Agimadus #0" = 0
+	"Agriulfum #0" = 0
+	"Alamiro #0" = 0
+	"Algaster #0" = 0
+	"Anila #0" = 0
+	"Argiovitus #0" = 0
+	"Ariamir #0" = 0
+	"Arosinda #0" = 0
+	"Audeca #0" = 0
+	"Badamundus #0" = 0
+	"Baldemarius #0" = 0
+	"Balderedo #0" = 0
+	"Baltarius #0" = 0
+	"Baudemiro #0" = 0
+	"Becilla #0" = 0
+	"Berteiro #0" = 0
+	"Bonesindus #0" = 0
+	"Boniza #0" = 0
+	"Cagildo #0" = 0
+	"Chararici #0" = 0
+	"Commundus #0" = 0
+	"Crodemiro #0" = 0
+	"Dagaredus #0" = 0
+	"Daildus #0" = 0
+	"Damiro #0" = 0
+	"Docemiro #0" = 0
+	"Donazarius #0" = 0
+	"Donegildus #0" = 0
+	"Dulcemirus #0" = 0
+	"Eboric #0" = 0
+	"Egenio #0" = 0
+	"Eimiro #0" = 0
+	"Eirigu #0" = 0
+	"Eisindus #0" = 0
+	"Eldegotus #0" = 0
+	"Engomiro #0" = 0
+	"Ermaric #0" = 0
+	"Evosindo #0" = 0
+	"Fagildus #0" = 0
+	"Felmiro #0" = 0
+	"Fralenko #0" = 0
+	"Framuldo #0" = 0
+	"Francolino #0" = 0
+	"Fredoaldus #0" = 0
+	"Froatingus #0" = 0
+	"Fromildus #0" = 0
+	"Frumeiro #0" = 0
+	"Gaudesindo #0" = 0
+	"Gomedei #0" = 0
+	"Gomulfus #0" = 0
+	"Gresumarus #0" = 0
+	"Gudesteus #0" = 0
+	"Gumarius #0" = 0
+	"Gundivaldo #0" = 0
+	"Guntato #0" = 0
+	"Gunterotis #0" = 0
+	"Heremigar #0" = 0
+	"Hermeric #0" = 0
+	"Hespanisco #0" = 0
+	"Hildemir #0" = 0
+	"Hilderic #0" = 0
+	"Hunisco #0" = 0
+	"Huniscus #0" = 0
+	"Leodegasti #0" = 0
+	"Leoderigus #0" = 0
+	"Leodulfus #0" = 0
+	"Lodemiro #0" = 0
+	"Magitus #0" = 0
+	"Malaredus #0" = 0
+	"Malaric #0" = 0
+	"Maldras #0" = 0
+	"Marcosendus #0" = 0
+	"Massilan #0" = 0
+	"Mervigius #0" = 0
+	"Miro #0" = 0
+	"Moderido #0" = 0
+	"Nantildo #0" = 0
+	"Nitigis #0" = 0
+	"Odamiro #0" = 0
+	"Odemundus #0" = 0
+	"Odericus #0" = 0
+	"Onemiro #0" = 0
+	"Onoricus #0" = 0
+	"Osdulfus #0" = 0
+	"Osorico #0" = 0
+	"Ostromirus #0" = 0
+	"Otualdo #0" = 0
+	"Pabregildus #0" = 0
+	"Pantinus #0" = 0
+	"Pappinus #0" = 0
+	"Pederagildu #0" = 0
+	"Pennio #0" = 0
+	"Pipinus #0" = 0
+	"Provaredo #0" = 0
+	"Quedesendo #0" = 0
+	"Quedulfus #0" = 0
+	"Quidemiro #0" = 0
+	"Ragimiro #0" = 0
+	"Ragolfus #0" = 0
+	"Rakericus #0" = 0
+	"Randinus #0" = 0
+	"Randuarius #0" = 0
+	"Ranisclus #0" = 0
+	"Rechiar #0" = 0
+	"Rechila #0" = 0
+	"Refulfo #0" = 0
+	"Reirigus #0" = 0
+	"Remismund #0" = 0
+	"Remisol #0" = 0
+	"Rendericus #0" = 0
+	"Ricardo #0" = 0
+	"Richimund #0" = 0
+	"Rodomiro #0" = 0
+	"Roelindus #0" = 0
+	"Romanisco #0" = 0
+	"Sagatus #0" = 0
+	"Saxomero #0" = 0
+	"Segomirus #0" = 0
+	"Sentarius #0" = 0
+	"Sescutus #0" = 0
+	"Sisulfus #0" = 0
+	"Spanarius #0" = 0
+	"Spoderigo #0" = 0
+	"Suavarius #0" = 0
+	"Sunila #0" = 0
+	"Teobald #0" = 0
+	"Teoderedus #0" = 0
+	"Theodemar #0" = 0
+	"Todegogia #0" = 0
+	"Trasmira #0" = 0
+	"Trasoldi #0" = 0
+	"Tumtuldo #0" = 0
+	"Uittimer #0" = 0
+	"Venedario #0" = 0
+	"Veremund #0" = 0
+	"Viamundus #0" = 0
+	"Vidraldus #0" = 0
+	"Villisendo #0" = 0
+	"Vistremiro #0" = 0
+	"Zamarius #0" = 0
+	"Zendasindo #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

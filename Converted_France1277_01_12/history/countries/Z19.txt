@@ -1,0 +1,27 @@
+# Mercia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4372
+1426.12.5 = {
+	monarch = {
+		name = "Beorhtmær"
+		birth_date = 1410.6.6
+		dynasty = "af Gloucester"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 4372
+	add_treasury = 47
+	add_prestige = 233
+}
