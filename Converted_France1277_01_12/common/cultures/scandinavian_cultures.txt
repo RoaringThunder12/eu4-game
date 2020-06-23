@@ -1,6 +1,0 @@
-scandinavian = {
-	norse = {
-		primary = DAN
-		dynasty_names = { "af Munsö" "Nerking" "Gárdske" "Stafr" "Súrr" "Veðr" "Þjófi" "av Agder" "af Varde" "af Raumariki" "af Dovre" "Geta" "af Aarhus" "af Borg" "Strúgr" "av Jämtland" "Skál" "Eyjing" "af Skalholt" "Geta" "Súrr" "Trönde" "Væni" "af Gloucester" "Súrr" "af Heidmark" "Vend" "af Hordaland" "af Raumariki" "Hammer" "af Varde" "af Hordaland" "af Ikskile" "Skál" "Súrr" "Refr" "Ulvo" }
-	}
-}

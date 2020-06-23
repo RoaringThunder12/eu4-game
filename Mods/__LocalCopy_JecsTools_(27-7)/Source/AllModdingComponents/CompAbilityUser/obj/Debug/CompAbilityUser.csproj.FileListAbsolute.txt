@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModsWorkspace\JecsTools\Source\AllModdingComponents\CompAbilityUser\obj\Debug\CompAbilityUser.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModsWorkspace\JecsTools\Source\AllModdingComponents\CompAbilityUser\obj\Debug\CompAbilityUser.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModsWorkspace\JecsTools\Assemblies\AbilityUser.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModsWorkspace\JecsTools\Source\AllModdingComponents\CompAbilityUser\obj\Debug\CompAbilityUser.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModsWorkspace\JecsTools\Source\AllModdingComponents\CompAbilityUser\obj\Debug\AbilityUser.dll
