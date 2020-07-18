@@ -1,0 +1,8 @@
+owner=TTL
+controller=LOM
+add_core=SWI
+add_core=TTL
+add_core=HRE
+trade_goods = wool
+life_rating = 40
+terrain = mountain

@@ -1,0 +1,8 @@
+owner=ICM
+controller=ICM
+add_core=CHM
+add_core=ICM
+add_core=QTO
+trade_goods = iron
+life_rating = 35
+terrain = hills

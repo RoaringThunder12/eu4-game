@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=NUP
+add_core=OYO
+trade_goods = grain
+life_rating = 15
+terrain = jungle
+colonial=2

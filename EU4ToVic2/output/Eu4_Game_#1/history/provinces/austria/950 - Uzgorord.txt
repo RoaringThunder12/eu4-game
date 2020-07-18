@@ -1,0 +1,8 @@
+owner=BOH
+controller=BOH
+add_core=KIE
+add_core=UKR
+add_core=HRE
+trade_goods = coal
+life_rating = 35
+terrain = mountain

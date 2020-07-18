@@ -1,0 +1,20 @@
+owner=GOS
+controller=GOS
+add_core=GER
+add_core=GOS
+add_core=HRE
+trade_goods = iron
+life_rating = 40
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

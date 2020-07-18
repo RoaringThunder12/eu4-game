@@ -1,0 +1,15 @@
+name = "Mantuan Purge of Tuscan Heresy"
+
+1665.5.11 = {
+	add_attacker = MTA
+	add_defender = TUS
+	add_defender = REG
+	add_defender = CLI
+
+	war_goal = {
+		casus_belli = cut_down_to_size
+		actor = MTA
+		receiver = TUS
+		state_province_id = 747
+	}
+}

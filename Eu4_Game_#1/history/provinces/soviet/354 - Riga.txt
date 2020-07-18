@@ -1,0 +1,20 @@
+owner=RIG
+controller=RIG
+add_core=GER
+add_core=RIG
+trade_goods = fish
+life_rating = 35
+terrain = farmlands
+naval_base = 1
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

@@ -1,0 +1,8 @@
+owner=MNG
+controller=KHA
+add_core=CHI
+add_core=MNG
+add_core=YAN
+trade_goods = iron
+life_rating = 32
+terrain = plains

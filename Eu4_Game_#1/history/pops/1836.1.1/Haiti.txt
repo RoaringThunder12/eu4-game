@@ -1,0 +1,200 @@
+2213 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 73521
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 735
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 1471
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 239
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 74
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 309
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 5234
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1680
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 273
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 352
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 47066
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 471
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 941
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 47
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 197
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 5282
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1153
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 242
+	}
+
+}

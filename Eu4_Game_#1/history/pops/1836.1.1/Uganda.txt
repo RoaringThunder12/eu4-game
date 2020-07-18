@@ -1,0 +1,311 @@
+2019 = {
+	slaves=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 10441
+	}
+
+	soldiers=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 1044
+	}
+
+	artisans=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 9392
+	}
+
+	clergymen=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 678
+	}
+
+	bureaucrats=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 94
+	}
+
+	officers=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 1169
+	}
+
+	farmers=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 81457
+	}
+
+}
+2020 = {
+	slaves=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 12386
+	}
+
+	soldiers=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 1039
+	}
+
+	artisans=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 2188
+	}
+
+	clergymen=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 356
+	}
+
+	bureaucrats=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 49
+	}
+
+	officers=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 460
+	}
+
+	farmers=
+	{
+		culture = baganda
+		religion = shamanism
+		size= 38162
+	}
+
+}
+2021 = {
+	slaves=
+	{
+		culture = luo
+		religion = shamanism
+		size= 8816
+	}
+
+	soldiers=
+	{
+		culture = luo
+		religion = shamanism
+		size= 470
+	}
+
+	artisans=
+	{
+		culture = luo
+		religion = shamanism
+		size= 4231
+	}
+
+	clergymen=
+	{
+		culture = luo
+		religion = shamanism
+		size= 306
+	}
+
+	bureaucrats=
+	{
+		culture = luo
+		religion = shamanism
+		size= 24
+	}
+
+	officers=
+	{
+		culture = luo
+		religion = shamanism
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = luo
+		religion = shamanism
+		size= 790
+	}
+
+	farmers=
+	{
+		culture = luo
+		religion = shamanism
+		size= 32341
+	}
+
+}
+2022 = {
+	aristocrats=
+	{
+		culture = luo
+		religion = animist
+		size= 375
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = luo
+		religion = animist
+		size= 775
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = luo
+		religion = animist
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = luo
+		religion = animist
+		size= 14450
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 63075
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = luo
+		religion = animist
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 75
+	}
+
+}
+2023 = {
+	slaves=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 5763
+	}
+
+	soldiers=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 536
+	}
+
+	artisans=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 4824
+	}
+
+	clergymen=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 348
+	}
+
+	bureaucrats=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 48
+	}
+
+	officers=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 41583
+	}
+
+}

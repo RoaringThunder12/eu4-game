@@ -1,0 +1,151 @@
+1326 = {
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1950
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 4551
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 739
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 57
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 956
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 89138
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 652
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 652
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 8
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 31012
+	}
+
+}
+1327 = {
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 4252
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 4476
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 727
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 101
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 940
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 101274
+	}
+
+}

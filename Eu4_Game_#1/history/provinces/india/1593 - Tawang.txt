@@ -1,0 +1,8 @@
+owner=MYA
+controller=MYA
+add_core=ASM
+add_core=HND
+add_core=MYA
+trade_goods = cattle
+life_rating = 30
+terrain = mountain

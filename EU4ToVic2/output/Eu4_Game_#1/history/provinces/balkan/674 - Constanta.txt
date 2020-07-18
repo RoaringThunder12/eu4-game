@@ -1,0 +1,12 @@
+owner=TUR
+controller=MSY
+add_core=BUL
+trade_goods = grain
+life_rating = 35
+terrain = marsh
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

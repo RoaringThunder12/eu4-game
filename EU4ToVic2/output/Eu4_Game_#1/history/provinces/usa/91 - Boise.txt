@@ -1,0 +1,6 @@
+owner=ZNI
+controller=ZNI
+add_core=ZNI
+trade_goods = wool
+life_rating = 35
+terrain = mountain

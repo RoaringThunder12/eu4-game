@@ -1,0 +1,9 @@
+owner=JNP
+controller=JNP
+add_core=BAH
+add_core=GDW
+add_core=HND
+add_core=JNP
+trade_goods = grain
+life_rating = 32
+terrain = plains

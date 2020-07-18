@@ -1,0 +1,80 @@
+vassal=
+{
+	first="ENG"
+	second="USA"
+	start_date="1547.8.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="CRB"
+	start_date="1558.2.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="VNZ"
+	start_date="1637.3.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ARN"
+	second="LOU"
+	start_date="1655.2.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="POR"
+	second="GUA"
+	start_date="1594.9.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="LOM"
+	second="X08"
+	start_date="1659.12.7"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YEM"
+	second="MHR"
+	start_date="1661.11.23"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="DLH"
+	second="BLC"
+	start_date="1483.6.26"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="LOT"
+	second="BOS"
+	start_date="1540.9.5"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="LOT"
+	second="POM"
+	start_date="1665.11.16"
+	end_date="1936.1.1"
+}
+

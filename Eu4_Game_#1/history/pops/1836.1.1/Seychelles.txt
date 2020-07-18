@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = dhen
+		religion = sunni
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = dhen
+		religion = sunni
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = dhen
+		religion = sunni
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = dhen
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dhen
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dhen
+		religion = sunni
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = dhen
+		religion = sunni
+		size= 1227
+	}
+
+}

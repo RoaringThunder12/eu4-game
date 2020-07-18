@@ -1,0 +1,9 @@
+owner=MLY
+controller=MLY
+add_core=MAD
+add_core=MIR
+add_core=SKA
+add_core=SWA
+trade_goods = fruit
+life_rating = 35
+terrain = hills

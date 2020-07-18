@@ -1,0 +1,9 @@
+owner=HAN
+controller=HAN
+add_core=GER
+add_core=HAN
+add_core=KOL
+add_core=HRE
+trade_goods = cattle
+life_rating = 40
+terrain = plains

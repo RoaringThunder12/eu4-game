@@ -1,0 +1,14 @@
+name = "Ming war for Timurids Tribute"
+
+1663.4.15 = {
+	add_attacker = MNG
+	add_defender = TIM
+	add_defender = TTE
+
+	war_goal = {
+		casus_belli = add_to_sphere
+		actor = MNG
+		receiver = TIM
+		country = TIM
+	}
+}

@@ -1,0 +1,7 @@
+owner=ML1
+controller=ML1
+add_core=MBA
+add_core=ML1
+trade_goods = fish
+life_rating = 35
+terrain = plains

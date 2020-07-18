@@ -1,0 +1,7 @@
+owner=TIM
+controller=MNG
+add_core=AFG
+add_core=TIM
+trade_goods = grain
+life_rating = 35
+terrain = mountain

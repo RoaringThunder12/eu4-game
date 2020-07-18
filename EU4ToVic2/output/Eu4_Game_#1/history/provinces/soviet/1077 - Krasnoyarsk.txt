@@ -1,0 +1,8 @@
+owner=SHY
+controller=RUS
+add_core=CHG
+add_core=OIR
+add_core=TKS
+trade_goods = timber
+life_rating = 35
+terrain = forest

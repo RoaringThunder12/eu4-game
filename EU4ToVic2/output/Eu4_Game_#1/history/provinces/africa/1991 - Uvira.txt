@@ -1,0 +1,7 @@
+owner=KRW
+controller=KRW
+add_core=KRW
+add_core=RWA
+trade_goods = fruit
+life_rating = 15
+terrain = jungle

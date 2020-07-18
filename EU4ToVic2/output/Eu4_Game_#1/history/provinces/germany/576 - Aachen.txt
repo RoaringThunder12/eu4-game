@@ -1,0 +1,10 @@
+owner=LOT
+controller=LOT
+add_core=AAC
+add_core=BEG
+add_core=GER
+add_core=NET
+add_core=HRE
+trade_goods = coal
+life_rating = 40
+terrain = farmlands

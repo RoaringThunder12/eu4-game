@@ -1,0 +1,7 @@
+owner=MLB
+controller=AVA
+add_core=HND
+add_core=MLB
+trade_goods = tropical_wood
+life_rating = 35
+terrain = jungle

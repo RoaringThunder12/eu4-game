@@ -1,0 +1,17 @@
+name = "Yemeni Conquest of Al'Arid"
+
+1665.3.9 = {
+	add_attacker = YEM
+	add_attacker = MHR
+	add_attacker = OMA
+	add_attacker = EGY
+	add_defender = MSY
+	add_defender = QAR
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = YEM
+		receiver = MSY
+		state_province_id = 1157
+	}
+}

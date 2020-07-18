@@ -1,0 +1,137 @@
+2125 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size= 1100
+	}
+
+	bureaucrats=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 22375
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size= 250
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = thai
+		religion = sunni
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = sunni
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = thai
+		religion = sunni
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = sunni
+		size= 159
+	}
+
+}

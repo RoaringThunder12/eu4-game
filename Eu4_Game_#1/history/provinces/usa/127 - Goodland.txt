@@ -1,0 +1,6 @@
+owner=MSC
+controller=CYN
+add_core=MSC
+trade_goods = fruit
+life_rating = 35
+terrain = steppe

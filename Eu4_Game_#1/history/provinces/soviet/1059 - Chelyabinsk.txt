@@ -1,0 +1,7 @@
+owner=SHY
+controller=RUS
+add_core=SHY
+add_core=SIB
+trade_goods = iron
+life_rating = 35
+terrain = forest

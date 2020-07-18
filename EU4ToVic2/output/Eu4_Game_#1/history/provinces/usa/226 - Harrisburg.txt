@@ -1,0 +1,6 @@
+owner=SHX
+controller=USA
+add_core=MIK
+trade_goods = tobacco
+life_rating = 35
+terrain = farmlands

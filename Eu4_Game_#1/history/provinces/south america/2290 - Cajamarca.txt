@@ -1,0 +1,7 @@
+owner=ICM
+controller=ICM
+add_core=ICM
+add_core=QTO
+trade_goods = wool
+life_rating = 30
+terrain = mountain

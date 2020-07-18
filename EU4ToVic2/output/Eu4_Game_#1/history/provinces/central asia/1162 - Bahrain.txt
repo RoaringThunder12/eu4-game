@@ -1,0 +1,9 @@
+owner=TUR
+controller=TUR
+add_core=ALH
+add_core=ARA
+add_core=MSY
+trade_goods = grain
+life_rating = 35
+terrain = plains
+colonial=2

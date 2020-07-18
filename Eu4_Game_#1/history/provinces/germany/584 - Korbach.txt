@@ -1,0 +1,10 @@
+owner=HAN
+controller=HAN
+add_core=GER
+add_core=HAN
+add_core=HES
+add_core=MAI
+add_core=HRE
+trade_goods = timber
+life_rating = 40
+terrain = plains

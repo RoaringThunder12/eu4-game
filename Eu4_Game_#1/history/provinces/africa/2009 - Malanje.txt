@@ -1,0 +1,8 @@
+owner=KSJ
+controller=KSJ
+add_core=KON
+add_core=KSJ
+add_core=NDO
+trade_goods = fruit
+life_rating = 15
+terrain = plains

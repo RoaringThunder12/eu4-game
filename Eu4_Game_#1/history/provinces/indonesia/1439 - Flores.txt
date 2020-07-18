@@ -1,0 +1,5 @@
+owner=MLY
+controller=MLY
+trade_goods = timber
+life_rating = 30
+terrain = plains

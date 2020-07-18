@@ -1,0 +1,1151 @@
+1619 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 10446
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 2089
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 8357
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1358
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 397
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 167
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1755
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 184348
+	}
+
+}
+1620 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 10132
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1925
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 7699
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1252
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 288
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 154
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1617
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 169426
+	}
+
+}
+1621 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 5253
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 788
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 3152
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 512
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 118
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 662
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 68249
+	}
+
+}
+1622 = {
+	slaves=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 9825
+	}
+
+	soldiers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 884
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 3537
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 575
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 133
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 743
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 72658
+	}
+
+}
+1623 = {
+	slaves=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 4953
+	}
+
+	soldiers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 643
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 2576
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 418
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 97
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 541
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 55114
+	}
+
+}
+1624 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 23882
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 3523
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 14090
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 2290
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 669
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 282
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 3452
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 304073
+	}
+
+}
+1625 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 5090
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 712
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 2850
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 463
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 107
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 599
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 61361
+	}
+
+}
+1626 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 5090
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 662
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 2646
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 430
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 99
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 556
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 56638
+	}
+
+}
+1627 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 5090
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 867
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 3465
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 563
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 130
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 728
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 75726
+	}
+
+}
+1628 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 11941
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1672
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 6687
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1087
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 318
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1638
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 143698
+	}
+
+}
+1629 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 10506
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 999
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 3997
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 649
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 150
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 839
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 82695
+	}
+
+}
+1630 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 5045
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 656
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 2623
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 426
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 98
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 551
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 56128
+	}
+
+}
+1631 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 4986
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 698
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 2792
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 454
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 105
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 586
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 60129
+	}
+
+}
+1632 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 10818
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 2000
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 8001
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1300
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 380
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 160
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1680
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 175678
+	}
+
+}
+1633 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 5409
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1137
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 4548
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 739
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 216
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 955
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 100597
+	}
+
+}
+1634 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 11719
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1875
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 7500
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1219
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 356
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1838
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 162849
+	}
+
+}
+1635 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 11014
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1772
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 7094
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1152
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 337
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1490
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 154328
+	}
+
+}
+1636 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 10607
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1486
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 5940
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 965
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 283
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 2494
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 126600
+	}
+
+}
+1637 = {
+	slaves=
+	{
+		culture = korean
+		religion = mahayana
+		size= 5132
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 770
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = mahayana
+		size= 1539
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = mahayana
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 58
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = mahayana
+		size= 323
+	}
+
+	farmers=
+	{
+		culture = korean
+		religion = mahayana
+		size= 68870
+	}
+
+	slaves=
+	{
+		culture = korean
+		religion = shinto
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = korean
+		religion = shinto
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = korean
+		religion = shinto
+		size= 1553
+	}
+
+	clergymen=
+	{
+		culture = korean
+		religion = shinto
+		size= 252
+	}
+
+	bureaucrats=
+	{
+		culture = korean
+		religion = shinto
+		size= 58
+	}
+
+	officers=
+	{
+		culture = korean
+		religion = shinto
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = korean
+		religion = shinto
+		size= 326
+	}
+
+}

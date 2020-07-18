@@ -1,0 +1,6 @@
+owner=HDA
+controller=HDA
+add_core=HDA
+trade_goods = timber
+life_rating = 35
+terrain = forest

@@ -1,0 +1,6 @@
+owner=LIT
+controller=LIT
+trade_goods = coal
+life_rating = 35
+terrain = plains
+colonial=2

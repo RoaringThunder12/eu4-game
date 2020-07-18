@@ -1,0 +1,9 @@
+owner=MSY
+controller=TUR
+add_core=ALH
+add_core=ARA
+add_core=MSY
+add_core=NEJ
+trade_goods = grain
+life_rating = 35
+terrain = desert

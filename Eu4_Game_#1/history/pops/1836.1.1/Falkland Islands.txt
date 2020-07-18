@@ -1,0 +1,46 @@
+2131 = {
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 66
+	}
+
+}
+2133 = {
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 13
+	}
+
+}

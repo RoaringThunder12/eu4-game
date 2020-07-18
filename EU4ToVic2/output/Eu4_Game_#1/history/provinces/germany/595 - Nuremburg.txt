@@ -1,0 +1,11 @@
+owner=ALS
+controller=ALS
+add_core=ALS
+add_core=ANS
+add_core=BYT
+add_core=GER
+add_core=ROT
+add_core=HRE
+trade_goods = grain
+life_rating = 40
+terrain = plains

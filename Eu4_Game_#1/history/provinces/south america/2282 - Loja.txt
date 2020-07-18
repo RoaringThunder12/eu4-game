@@ -1,0 +1,8 @@
+owner=QTO
+controller=QTO
+add_core=CHM
+add_core=ICM
+add_core=QTO
+trade_goods = cattle
+life_rating = 30
+terrain = mountain

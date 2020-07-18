@@ -1,0 +1,17 @@
+name = "Oldenburgian Conquest of Ostfriesland"
+
+1666.8.4 = {
+	add_attacker = OLD
+	add_attacker = ULM
+	add_defender = EFR
+	add_defender = HOL
+	add_defender = KLE
+	add_defender = KNZ
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = OLD
+		receiver = EFR
+		state_province_id = 543
+	}
+}

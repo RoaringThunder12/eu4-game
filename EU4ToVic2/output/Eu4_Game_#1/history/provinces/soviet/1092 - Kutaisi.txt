@@ -1,0 +1,8 @@
+owner=QAR
+controller=TUR
+add_core=GEO
+add_core=IME
+add_core=QAR
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

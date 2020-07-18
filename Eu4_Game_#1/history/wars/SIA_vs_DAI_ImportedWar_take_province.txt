@@ -1,0 +1,14 @@
+name = "Ayutthayan Conquest of Dong Kinh"
+
+1665.7.6 = {
+	add_attacker = SIA
+	add_attacker = MLY
+	add_defender = DAI
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = SIA
+		receiver = DAI
+		state_province_id = 1369
+	}
+}

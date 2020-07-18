@@ -1,0 +1,7 @@
+owner=MCA
+controller=MCA
+add_core=ARW
+add_core=CAB
+trade_goods = timber
+life_rating = 25
+terrain = jungle

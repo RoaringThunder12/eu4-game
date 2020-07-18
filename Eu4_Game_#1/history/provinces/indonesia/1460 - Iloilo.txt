@@ -1,0 +1,9 @@
+owner=MLY
+controller=MLY
+add_core=CEB
+add_core=MDS
+add_core=PHI
+add_core=TDO
+trade_goods = fish
+life_rating = 30
+terrain = plains

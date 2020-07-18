@@ -1,0 +1,10 @@
+owner=TUN
+controller=TUN
+add_core=ITA
+add_core=NAP
+add_core=PRO
+add_core=SCY
+add_core=SIC
+trade_goods = sulphur
+life_rating = 35
+terrain = plains

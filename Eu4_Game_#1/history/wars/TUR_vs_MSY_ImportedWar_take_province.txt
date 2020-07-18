@@ -1,0 +1,14 @@
+name = "Ottoman Conquest of Basrah"
+
+1664.9.8 = {
+	add_attacker = TUR
+	add_defender = MSY
+	add_defender = QAR
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = TUR
+		receiver = MSY
+		state_province_id = 932
+	}
+}

@@ -1,0 +1,7 @@
+owner=KZN
+controller=KZN
+add_core=CRI
+add_core=KZN
+trade_goods = coal
+life_rating = 35
+terrain = farmlands

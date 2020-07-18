@@ -1,0 +1,189 @@
+#Sphere of Influence
+
+ABE = {
+	value = 188
+	influence_value = 34
+	level = 4
+}
+APA = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 20
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+CAD = {
+	value = 0
+	level = 2
+}
+CHN = {
+	value = 0
+	level = 2
+}
+CNK = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 0
+	level = 2
+}
+CRK = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = -46
+	level = 2
+}
+GAM = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HST = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 150
+	influence_value = 25
+	level = 3
+}
+KER = {
+	value = 0
+	level = 2
+}
+KIO = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = -2
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MHC = {
+	value = 0
+	level = 2
+}
+MMI = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+OTT = {
+	value = 0
+	level = 2
+}
+PAW = {
+	value = 0
+	level = 2
+}
+PEQ = {
+	value = -82
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POW = {
+	value = 194
+	influence_value = 36
+	level = 4
+}
+PRO = {
+	value = -1
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SHS = {
+	value = 0
+	level = 2
+}
+SHX = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = -48
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 0
+	level = 2
+}
+YAQ = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZNI = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Lapahnihe Horikan"
+	date="1659.7.2"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Uncas Wyeck"
+	date="1665.11.4"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies

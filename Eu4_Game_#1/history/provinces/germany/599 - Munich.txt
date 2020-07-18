@@ -1,0 +1,20 @@
+owner=UBV
+controller=SLZ
+add_core=GER
+add_core=UBV
+add_core=HRE
+trade_goods = coal
+life_rating = 40
+terrain = hills
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

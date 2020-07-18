@@ -1,0 +1,6 @@
+owner=MLY
+controller=MLY
+add_core=TTE
+trade_goods = fish
+life_rating = 30
+terrain = plains

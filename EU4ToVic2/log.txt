@@ -1,0 +1,234 @@
+2020-07-18 06:46:52     [INFO] Converter version 1.0O "Oyo" - compatible with 1.30 and previous
+2020-07-18 06:46:52     [INFO] Built on Sat Jul 11 09:07:08 2020
+2020-07-18 06:46:52 [PROGRESS] 0 %
+2020-07-18 06:46:52     [INFO] Reading configuration file
+2020-07-18 06:46:52     [INFO] 	EU4 install path is C:\Program Files (x86)\Steam\steamapps\common\Europa Universalis IV
+2020-07-18 06:46:52     [INFO] 	Victoria 2 documents directory is C:\Users\ethen\OneDrive\Documents\Paradox Interactive\Victoria II
+2020-07-18 06:46:52     [INFO] 	Victoria 2 install path is C:\Program Files (x86)\Steam\steamapps\common\Victoria 2
+2020-07-18 06:46:52     [INFO] Max Literacy: 1
+2020-07-18 06:46:52     [INFO] Absorb Colonies: 1
+2020-07-18 06:46:52     [INFO] Liberty Treshold: 1
+2020-07-18 06:46:52     [INFO] Pop Shaping: 2
+2020-07-18 06:46:52     [INFO] Pop Shaping Factor: 100
+2020-07-18 06:46:52     [INFO] Core Handling: 1
+2020-07-18 06:46:52     [INFO] Eurocentrism: 1
+2020-07-18 06:46:52     [INFO] Africa Reset: 2
+2020-07-18 06:46:52     [INFO] Randomise RGOs: no
+2020-07-18 06:46:52     [INFO] Convert All: no
+2020-07-18 06:46:52     [INFO] Output Name: Eu4 Game #1
+2020-07-18 06:46:52     [INFO] Using output name Eu4_Game_#1
+2020-07-18 06:46:52 [PROGRESS] 3 %
+2020-07-18 06:46:52 [PROGRESS] 4 %
+2020-07-18 06:46:52     [INFO] Parsing idea effects
+2020-07-18 06:46:52     [INFO] Parsing technology groups.
+2020-07-18 06:46:52 [PROGRESS] 5 %
+2020-07-18 06:46:52     [INFO] Parsing EU4 religions
+2020-07-18 06:46:52     [INFO] *** Hello EU4, loading World. ***
+2020-07-18 06:46:52     [INFO] Parsing starting supergroups.
+2020-07-18 06:46:53 [PROGRESS] 6 %
+2020-07-18 06:46:53     [INFO] -> Verifying EU4 save.
+2020-07-18 06:46:53 [PROGRESS] 7 %
+2020-07-18 06:46:53     [INFO] -> Importing EU4 save.
+2020-07-18 06:46:54 [PROGRESS] 8 %
+2020-07-18 06:46:54 [PROGRESS] 9 %
+2020-07-18 06:46:54     [INFO] Savegave version: 1.30.3.0
+2020-07-18 06:46:54     [INFO] -> Loading Map Area Data
+2020-07-18 06:46:54     [INFO] XX Promptly Ignoring Map Area Data.
+2020-07-18 06:46:54     [INFO] -> Loading Provinces
+2020-07-18 06:46:58     [INFO] -> Loading Countries
+2020-07-18 06:46:58     [INFO] Parsing Cultures and Culture Groups
+2020-07-18 06:47:05     [INFO] -> Loading Diplomacy
+2020-07-18 06:47:05     [INFO] -> Loaded 368 agreements
+2020-07-18 06:47:05 [PROGRESS] 15 %
+2020-07-18 06:47:05     [INFO] Parsing unit strengths from EU4 installation.
+2020-07-18 06:47:05 [PROGRESS] 16 %
+2020-07-18 06:47:05     [INFO] *** Building world ***
+2020-07-18 06:47:05     [INFO] -> Loading Empires
+2020-07-18 06:47:05 [PROGRESS] 17 %
+2020-07-18 06:47:05     [INFO] -> Setting Province Weight
+2020-07-18 06:47:05 [PROGRESS] 18 %
+2020-07-18 06:47:05     [INFO] -> Processing Province Info
+2020-07-18 06:47:05 [PROGRESS] 19 %
+2020-07-18 06:47:05     [INFO] -> Determining Province Weights
+2020-07-18 06:47:05 [PROGRESS] 20 %
+2020-07-18 06:47:05     [INFO] -> Loading Regions
+2020-07-18 06:47:06 [PROGRESS] 21 %
+2020-07-18 06:47:06     [INFO] -> Determining Demographics
+2020-07-18 06:47:06 [PROGRESS] 22 %
+2020-07-18 06:47:06     [INFO] -> Eliminating Minorities
+2020-07-18 06:47:06 [PROGRESS] 23 %
+2020-07-18 06:47:06     [INFO] -> Cataloguing Native Fauna
+2020-07-18 06:47:06 [PROGRESS] 24 %
+2020-07-18 06:47:06     [INFO] -> Clasifying Invasive Fauna
+2020-07-18 06:47:06 [PROGRESS] 25 %
+2020-07-18 06:47:06     [INFO] -> Reading Countries
+2020-07-18 06:47:06 [PROGRESS] 26 %
+2020-07-18 06:47:06     [INFO] -> Setting Localizations
+2020-07-18 06:47:14 [PROGRESS] 27 %
+2020-07-18 06:47:14     [INFO] -> Resolving Regiments
+2020-07-18 06:47:14 [PROGRESS] 28 %
+2020-07-18 06:47:14     [INFO] -> Merging Nations
+2020-07-18 06:47:14     [INFO] -> Uniting Japan
+2020-07-18 06:47:14 [PROGRESS] 29 %
+2020-07-18 06:47:14     [INFO] -> Calculating Industry
+2020-07-18 06:47:14 [PROGRESS] 30 %
+2020-07-18 06:47:14     [INFO] -> Viva la revolution!
+2020-07-18 06:47:14     [INFO]  vvv ... revolution failed. :/
+2020-07-18 06:47:14 [PROGRESS] 31 %
+2020-07-18 06:47:14     [INFO] -> Doing Accounting and dishes
+2020-07-18 06:47:14 [PROGRESS] 32 %
+2020-07-18 06:47:14     [INFO] -> Dropping Empty Nations
+2020-07-18 06:47:14     [INFO] *** Good-bye EU4, you served us well. ***
+2020-07-18 06:47:14 [PROGRESS] 40 %
+2020-07-18 06:47:14     [INFO] Parsing EU4 colonial regions
+2020-07-18 06:47:14     [INFO] Parsing province mappings
+2020-07-18 06:47:15     [INFO] 	-> Using version 1.30.0.0 mappings
+2020-07-18 06:47:15     [INFO] Finding Continents
+2020-07-18 06:47:15     [INFO] Getting CK2 titles
+2020-07-18 06:47:15     [INFO] Parsing country mappings
+2020-07-18 06:47:15     [INFO] 	Reading country mapping rules
+2020-07-18 06:47:15     [INFO] 	Cataloguing available flags
+2020-07-18 06:47:15     [INFO] Importing province adjacencies.
+2020-07-18 06:47:15     [INFO] Loading climates.
+2020-07-18 06:47:15     [INFO] Loading Terrain Data.
+2020-07-18 06:47:15     [INFO] Parsing governments mappings.
+2020-07-18 06:47:15     [INFO] Parsing party detail blobs.
+2020-07-18 06:47:15     [INFO] Parsing regiment costs
+2020-07-18 06:47:15     [INFO] Parsing religion mappings.
+2020-07-18 06:47:15     [INFO] Parsing state region structure.
+2020-07-18 06:47:15     [INFO] Parsing starting factories.
+2020-07-18 06:47:15     [INFO] Parsing V2 Factory Techs
+2020-07-18 06:47:15     [INFO] Parsing V2 Factory Inventions
+2020-07-18 06:47:15     [INFO] Determining factory allocation rules.
+2020-07-18 06:47:15     [INFO] Loading leader traits.
+2020-07-18 06:47:15     [INFO] Finding coastal provinces.
+2020-07-18 06:47:15     [INFO] Parsing black and white ports.
+2020-07-18 06:47:15     [INFO] Parsing War Goals.
+2020-07-18 06:47:15     [INFO] Parsing starting techs.
+2020-07-18 06:47:15     [INFO] Parsing Starting Inventions
+2020-07-18 06:47:15     [INFO] Parsing Region Localizations.
+2020-07-18 06:47:16     [INFO] Loaded: 91597 94670 92840 91863
+2020-07-18 06:47:16     [INFO] Parsing african resettable regions.
+2020-07-18 06:47:16     [INFO] Parsing Agreement Types.
+2020-07-18 06:47:16 [PROGRESS] 45 %
+2020-07-18 06:47:16     [INFO] Parsing cultural union mappings.
+2020-07-18 06:47:16     [INFO] Parsing nationalities mappings.
+2020-07-18 06:47:16     [INFO] *** Hello Vicky 2, creating world. ***
+2020-07-18 06:47:17     [INFO] -> Importing Provinces
+2020-07-18 06:47:17 [PROGRESS] 46 %
+2020-07-18 06:47:17     [INFO] -> Importing Vanilla Pops
+2020-07-18 06:47:17     [INFO] Parsing minority pops mappings
+2020-07-18 06:47:18 [PROGRESS] 47 %
+2020-07-18 06:47:18     [INFO] -> Importing Potential Countries
+2020-07-18 06:47:18 [PROGRESS] 48 %
+2020-07-18 06:47:18     [INFO] -> Loading Country Mapping Rules
+2020-07-18 06:47:18     [INFO] Creating country mappings
+2020-07-18 06:47:18 [PROGRESS] 49 %
+2020-07-18 06:47:18     [INFO] -> Loading Culture Mapping Rules
+2020-07-18 06:47:18     [INFO] Parsing culture mappings.
+2020-07-18 06:47:18     [INFO] Parsing slave culture mappings.
+2020-07-18 06:47:18     [INFO] Parsing V2 Cultures and Culture Groups
+2020-07-18 06:47:18     [INFO] -> Checking all Land Provinces Mapped (and may kraken take the rest)
+2020-07-18 06:47:18     [INFO] -> Checking all Cultures Mapped
+2020-07-18 06:47:18     [INFO] -> Checking all Religions Mapped
+2020-07-18 06:47:18 [PROGRESS] 50 %
+2020-07-18 06:47:18     [INFO] -> Pouring From Hollow Into Empty
+2020-07-18 06:47:18 [PROGRESS] 51 %
+2020-07-18 06:47:18     [INFO] -> Converting Countries
+2020-07-18 06:47:19     [INFO] -> Converting National Values
+2020-07-18 06:47:19     [INFO] -> Converting Prestige
+2020-07-18 06:47:19     [INFO] -> Setting prestige
+2020-07-18 06:47:19     [INFO] -> Adding Potential Countries
+2020-07-18 06:47:19 [PROGRESS] 52 %
+2020-07-18 06:47:19     [INFO] -> Converting Provinces
+2020-07-18 06:47:20  [WARNING] No mappings found for V2 province 2525 (Marcus)
+2020-07-18 06:47:20 [PROGRESS] 53 %
+2020-07-18 06:47:20     [INFO] -> Cataloguing Invasive Fauna
+2020-07-18 06:47:20     [INFO] 	Located 1 new species.
+2020-07-18 06:47:20 [PROGRESS] 54 %
+2020-07-18 06:47:20     [INFO] -> Converting Diplomacy
+2020-07-18 06:47:20     [INFO]  - ENG is not absorbing USA (5 vs 50 liberty desire)
+2020-07-18 06:47:20     [INFO]  - ENG is not absorbing CRB (5 vs 50 liberty desire)
+2020-07-18 06:47:20     [INFO]  - ENG is not absorbing VNZ (5 vs 50 liberty desire)
+2020-07-18 06:47:20     [INFO]  - ARN is not absorbing LOU (5 vs 50 liberty desire)
+2020-07-18 06:47:20     [INFO]  - POR is not absorbing GUA (5 vs 50 liberty desire)
+2020-07-18 06:47:20 [PROGRESS] 55 %
+2020-07-18 06:47:20     [INFO] -> Setting Up Colonies
+2020-07-18 06:47:20 [PROGRESS] 56 %
+2020-07-18 06:47:20     [INFO] -> Setting Up States
+2020-07-18 06:47:20 [PROGRESS] 57 %
+2020-07-18 06:47:20     [INFO] -> Generating Unciv Reforms
+2020-07-18 06:47:20 [PROGRESS] 58 %
+2020-07-18 06:47:20     [INFO] -> Converting Technology Levels
+2020-07-18 06:47:20 [PROGRESS] 59 %
+2020-07-18 06:47:20     [INFO] -> Distributing Factories
+2020-07-18 06:47:20 [PROGRESS] 60 %
+2020-07-18 06:47:20     [INFO] -> Distributing Pops
+2020-07-18 06:47:21     [INFO] Vanilla world population: 255201034
+2020-07-18 06:47:21     [INFO] New total world population: 266244864
+2020-07-18 06:47:21 [PROGRESS] 61 %
+2020-07-18 06:47:21     [INFO] -> Releasing Invasive Fauna Into Colonies
+2020-07-18 06:47:21 [PROGRESS] 62 %
+2020-07-18 06:47:21     [INFO] -> Monitoring Native Fauna Reaction
+2020-07-18 06:47:21 [PROGRESS] 63 %
+2020-07-18 06:47:21     [INFO] -> Dropping Infected AI Cores
+2020-07-18 06:47:21 [PROGRESS] 64 %
+2020-07-18 06:47:21     [INFO] -> Dropping Poorly-Shaped States
+2020-07-18 06:47:21 [PROGRESS] 65 %
+2020-07-18 06:47:21     [INFO] -> Merging Nations
+2020-07-18 06:47:21     [INFO] Distributing national and cultural union cores.
+2020-07-18 06:47:21 [PROGRESS] 66 %
+2020-07-18 06:47:21     [INFO] -> Converting Armies and Navies
+2020-07-18 06:47:21 [PROGRESS] 67 %
+2020-07-18 06:47:21     [INFO] -> Converting Ongoing Conflicts
+2020-07-18 06:47:21 [PROGRESS] 68 %
+2020-07-18 06:47:21     [INFO] -> Describing Religion
+2020-07-18 06:47:21 [PROGRESS] 69 %
+2020-07-18 06:47:21     [INFO] -> Converting Botanical Definitions
+2020-07-18 06:47:21 [PROGRESS] 70 %
+2020-07-18 06:47:21     [INFO] ---> Le Dump <---
+2020-07-18 06:47:21 [PROGRESS] 80 %
+2020-07-18 06:47:21     [INFO] <- Copying Mod Template
+2020-07-18 06:47:25 [PROGRESS] 81 %
+2020-07-18 06:47:25     [INFO] <- Moving Mod Template >> Eu4_Game_#1
+2020-07-18 06:47:25 [PROGRESS] 82 %
+2020-07-18 06:47:25     [INFO] <- Crafting .mod File
+2020-07-18 06:47:25     [INFO] 	-> Writing to: output/Eu4_Game_#1.mod
+2020-07-18 06:47:25 [PROGRESS] 83 %
+2020-07-18 06:47:25     [INFO] <- Writing version
+2020-07-18 06:47:25 [PROGRESS] 84 %
+2020-07-18 06:47:25     [INFO] <- Updating bookmarks
+2020-07-18 06:47:25 [PROGRESS] 85 %
+2020-07-18 06:47:25 [PROGRESS] 86 %
+2020-07-18 06:47:25     [INFO] <- Creating countries.txt
+2020-07-18 06:47:25 [PROGRESS] 87 %
+2020-07-18 06:47:25     [INFO] -> Creating Flags
+2020-07-18 06:47:25     [INFO] Parsing EU4 custom flag colours.
+2020-07-18 06:47:25 [PROGRESS] 88 %
+2020-07-18 06:47:25     [INFO] -> Setting Flags
+2020-07-18 06:47:25 [PROGRESS] 89 %
+2020-07-18 06:47:25     [INFO] <- Writing Flags
+2020-07-18 06:47:44 [PROGRESS] 90 %
+2020-07-18 06:47:44     [INFO] <- Writing Localisation Text
+2020-07-18 06:47:44     [INFO] <- Writing Localization Names
+2020-07-18 06:47:44 [PROGRESS] 91 %
+2020-07-18 06:47:44     [INFO] <- Writing Provinces
+2020-07-18 06:47:46 [PROGRESS] 92 %
+2020-07-18 06:47:46     [INFO] <- Writing Countries
+2020-07-18 06:47:52 [PROGRESS] 93 %
+2020-07-18 06:47:52     [INFO] <- Writing Diplomacy
+2020-07-18 06:47:52 [PROGRESS] 94 %
+2020-07-18 06:47:52     [INFO] <- Writing Armed and Unarmed Conflicts
+2020-07-18 06:47:52 [PROGRESS] 95 %
+2020-07-18 06:47:52     [INFO] <- Writing Culture Definitions
+2020-07-18 06:47:52 [PROGRESS] 96 %
+2020-07-18 06:47:52     [INFO] <- Writing Pops
+2020-07-18 06:47:53 [PROGRESS] 97 %
+2020-07-18 06:47:53     [INFO] <- Sending Botanical Expedition
+2020-07-18 06:47:53 [PROGRESS] 98 %
+2020-07-18 06:47:53     [INFO] <- Writing Treatise on the Origins of Invasive Fauna
+2020-07-18 06:47:53 [PROGRESS] 99 %
+2020-07-18 06:47:53     [INFO] -> Verifying All Countries Written
+2020-07-18 06:47:53     [INFO] *** Goodbye, Vicky 2, and godspeed. ***
+2020-07-18 06:47:53     [INFO] * Conversion complete *
+2020-07-18 06:47:53 [PROGRESS] 100 %

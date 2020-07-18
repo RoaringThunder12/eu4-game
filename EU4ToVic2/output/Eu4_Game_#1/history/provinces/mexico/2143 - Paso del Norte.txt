@@ -1,0 +1,6 @@
+owner=CNK
+controller=CNK
+add_core=CNK
+trade_goods = grain
+life_rating = 35
+terrain = woods

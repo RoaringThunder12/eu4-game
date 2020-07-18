@@ -1,0 +1,63 @@
+#Sphere of Influence
+
+BRZ = {
+	value = 0
+	level = 2
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CRA = {
+	value = 4
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+GUA = {
+	value = 0
+	level = 2
+}
+ICM = {
+	value = -90
+	level = 2
+}
+LOT = {
+	value = -2
+	level = 2
+}
+MCA = {
+	value = 206
+	influence_value = 39
+	level = 4
+}
+PRO = {
+	value = -1
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+XIU = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Quispe Titu Parinango"
+	date="1651.4.7"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+
+#Armies

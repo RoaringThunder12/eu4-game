@@ -1,0 +1,106 @@
+#Sphere of Influence
+
+AND = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DWT = {
+	value = 0
+	level = 2
+}
+EFR = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+KAC = {
+	value = 0
+	level = 2
+}
+KNZ = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MYA = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+OLD = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OTT = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+SRM = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

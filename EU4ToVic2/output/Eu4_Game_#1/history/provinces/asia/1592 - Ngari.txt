@@ -1,0 +1,8 @@
+owner=MNG
+controller=MNG
+add_core=GUG
+add_core=TIB
+add_core=UTS
+trade_goods = cattle
+life_rating = 30
+terrain = mountain

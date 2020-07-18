@@ -1,0 +1,8 @@
+owner=QAR
+controller=TUR
+add_core=ARL
+add_core=AZB
+add_core=QAR
+trade_goods = cattle
+life_rating = 35
+terrain = hills

@@ -1,0 +1,9 @@
+owner=KIK
+controller=KIK
+add_core=KIK
+add_core=KLD
+add_core=KZB
+add_core=LBX
+trade_goods = tropical_wood
+life_rating = 15
+terrain = jungle

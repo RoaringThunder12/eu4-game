@@ -1,0 +1,109 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1136
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 117
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1571
+	}
+
+}
+1973 = {
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 332
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 1327
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 93
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 371
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 30802
+	}
+
+}

@@ -1,0 +1,1674 @@
+2468 = {
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4150
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 9710
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1125
+	}
+
+}
+2469 = {
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3555
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 65
+	}
+
+}
+2470 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2650
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+}
+2471 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2472 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 40
+	}
+
+}
+2473 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2650
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+}
+2474 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2475 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2476 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2477 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2478 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2479 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2480 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2481 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2482 = {
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2000
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6800
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+}
+2483 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2650
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+}
+2484 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2485 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2486 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2487 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2488 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2275
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2489 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2490 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2491 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2492 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2493 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2494 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2495 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2496 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2497 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 290
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5185
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 60
+	}
+
+}
+2498 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2499 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2500 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2501 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2502 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+}
+2503 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 630
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+}
+2504 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2505 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4500
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+}
+2506 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+}
+2507 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 630
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+}
+2508 = {
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 235
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+}
+2601 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+}
+2602 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+}
+2603 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 275
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+}
+2604 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1370
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+}
+2605 = {
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 725
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=KRW
+controller=KRW
+add_core=KRW
+add_core=UBH
+trade_goods = tobacco
+life_rating = 15
+terrain = jungle

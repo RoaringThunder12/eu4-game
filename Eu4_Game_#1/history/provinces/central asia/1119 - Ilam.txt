@@ -1,0 +1,6 @@
+owner=QAR
+controller=TUR
+add_core=KDS
+trade_goods = cotton
+life_rating = 35
+terrain = plains

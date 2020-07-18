@@ -1,0 +1,9 @@
+owner=KZN
+controller=KZN
+add_core=AKH
+add_core=CRI
+add_core=GRH
+add_core=KZN
+trade_goods = coal
+life_rating = 35
+terrain = woods

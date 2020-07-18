@@ -1,0 +1,493 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 20
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAH = {
+	value = 0
+	level = 2
+}
+BGA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CLI = {
+	value = 0
+	level = 2
+}
+CMA = {
+	value = 0
+	level = 2
+}
+CNK = {
+	value = 0
+	level = 2
+}
+CRA = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+GAM = {
+	value = 0
+	level = 2
+}
+GRJ = {
+	value = 0
+	level = 2
+}
+GUA = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+GWA = {
+	value = 0
+	level = 2
+}
+HST = {
+	value = -21
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICM = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JML = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+KAC = {
+	value = 0
+	level = 2
+}
+KER = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = -2
+	level = 2
+}
+LUA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MCA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLB = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLY = {
+	value = 0
+	level = 2
+}
+MMA = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPC = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+MSY = {
+	value = 0
+	level = 2
+}
+MTL = {
+	value = -5
+	level = 2
+}
+MYA = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NGP = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 5
+	level = 2
+}
+OAX = {
+	value = -50
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PGS = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = -1
+	level = 2
+}
+QAR = {
+	value = 0
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIE = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = 5
+	level = 2
+}
+TON = {
+	value = -22
+	level = 2
+}
+TOT = {
+	value = -111
+	level = 2
+}
+TRS = {
+	value = 138
+	influence_value = 22
+	level = 3
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+XAL = {
+	value = 141
+	influence_value = 22
+	level = 3
+}
+XIU = {
+	value = 172
+	influence_value = 30
+	level = 3
+}
+YAQ = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Itzquautzin Moctezuma"
+	date="1651.10.11"
+	type=land
+	personality="active_p"
+	background="engineer"
+}
+
+
+#Armies

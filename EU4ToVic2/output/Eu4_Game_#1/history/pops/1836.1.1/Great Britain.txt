@@ -1,0 +1,4315 @@
+266 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1978
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 246
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 41085
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 2469
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 178
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 49
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 307
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 2376
+	}
+
+}
+267 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 469
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 2113
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 525
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 43632
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 184
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 3766
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 272
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 75
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 938
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 13108
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 811
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 16744
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 1205
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 2710
+	}
+
+}
+268 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 678
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3053
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 380
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 63426
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 5527
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 399
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 111
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 688
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 20436
+	}
+
+}
+269 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1761
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 4172
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 83
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 519
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 85811
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 767
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 7807
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 564
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 156
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 104
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 972
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 30021
+	}
+
+}
+270 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 913
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 4109
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 297
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 82
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 511
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 85362
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 5188
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 375
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 104
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 646
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 5513
+	}
+
+}
+271 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3072
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 7277
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 526
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 146
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 906
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 149682
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 299
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 8692
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 628
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 174
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1082
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 4738
+	}
+
+}
+272 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 374
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1685
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 35049
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 87
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 2460
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 50
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 5599
+	}
+
+}
+273 = {
+	soldiers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 879
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = catholic
+		size= 3954
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = catholic
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 79
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 492
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 82139
+	}
+
+	soldiers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 217
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = protestant
+		size= 5904
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = protestant
+		size= 426
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = protestant
+		size= 118
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = protestant
+		size= 735
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 14218
+	}
+
+}
+274 = {
+	soldiers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 362
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = catholic
+		size= 1627
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = catholic
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 405
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 33617
+	}
+
+	soldiers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = protestant
+		size= 2664
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = protestant
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = protestant
+		size= 30
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = protestant
+		size= 663
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 7829
+	}
+
+}
+275 = {
+	soldiers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = catholic
+		size= 740
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = catholic
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 34904
+	}
+
+	soldiers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = protestant
+		size= 1186
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = protestant
+		size= 193
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = protestant
+		size= 53
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = protestant
+		size= 249
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 9334
+	}
+
+}
+276 = {
+	soldiers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 535
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = catholic
+		size= 2407
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = catholic
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 50089
+	}
+
+	soldiers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 140
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = protestant
+		size= 3664
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = protestant
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = protestant
+		size= 73
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = protestant
+		size= 342
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 9441
+	}
+
+}
+277 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 2187
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 4374
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 711
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 197
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 1225
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 209918
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 358
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 5806
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 944
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 261
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1626
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 26700
+	}
+
+}
+278 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1737
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 3474
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 565
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 156
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 973
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 166734
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 284
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 4612
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 749
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 208
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1291
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 21208
+	}
+
+}
+279 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 2431
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 49
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 227
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 50090
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 3413
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 68
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 319
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 6724
+	}
+
+}
+280 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1277
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 5745
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 415
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 64
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 715
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 119407
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 7324
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 529
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 81
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 911
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 8460
+	}
+
+}
+281 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1059
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 3433
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 248
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 69
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 427
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 100670
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 287
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 8679
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 627
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 173
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1079
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 17721
+	}
+
+}
+282 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1093
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 4917
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 355
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 98
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 612
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 102158
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 179
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 6532
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 472
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 131
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 813
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 9756
+	}
+
+}
+283 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1566
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 7046
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 509
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 141
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 877
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 146371
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 435
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 10962
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 792
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 219
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1364
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 29640
+	}
+
+}
+284 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1555
+	}
+
+	craftsmen=
+	{
+		culture = english
+		religion = catholic
+		size= 6532
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 3499
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 253
+	}
+
+	clerks=
+	{
+		culture = english
+		religion = catholic
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 70
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 31
+	}
+
+	capitalists=
+	{
+		culture = english
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 435
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 143012
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 390
+	}
+
+	craftsmen=
+	{
+		culture = english
+		religion = protestant
+		size= 1638
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 14008
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 1011
+	}
+
+	clerks=
+	{
+		culture = english
+		religion = protestant
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 280
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 124
+	}
+
+	capitalists=
+	{
+		culture = english
+		religion = protestant
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1743
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 19308
+	}
+
+}
+285 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 867
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 3901
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 282
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 78
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 485
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 81041
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 159
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 5336
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 385
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 107
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 664
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 9241
+	}
+
+}
+286 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 730
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 1460
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 237
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 66
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 409
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 70091
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 1922
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 312
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 86
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 538
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 8525
+	}
+
+}
+287 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1000
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 2000
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 325
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 90
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 560
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 95963
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 158
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 2631
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 428
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 118
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 737
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 11670
+	}
+
+}
+288 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 2156
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 5106
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 369
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 102
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 635
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 105040
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 459
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 7282
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 526
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 146
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 906
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 14755
+	}
+
+}
+289 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 3519
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 254
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 70
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 438
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 72866
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 313
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 6333
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 457
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 127
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 788
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 23187
+	}
+
+}
+290 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1376
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 1630
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 69045
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 423
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 6892
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 498
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 138
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 858
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 13362
+	}
+
+}
+291 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 620
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 1394
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 174
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 59638
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 273
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 6645
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 480
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 133
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 827
+	}
+
+}
+292 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1453
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 3270
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 236
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 65
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 407
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 139861
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 393
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 13345
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 964
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 267
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1661
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 22529
+	}
+
+}
+293 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 1409
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 59863
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 163
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 5694
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 411
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 114
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 708
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 9157
+	}
+
+}
+294 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1165
+	}
+
+	craftsmen=
+	{
+		culture = english
+		religion = catholic
+		size= 6064
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 2759
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 199
+	}
+
+	clerks=
+	{
+		culture = english
+		religion = catholic
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 37
+	}
+
+	capitalists=
+	{
+		culture = english
+		religion = catholic
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 687
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 50110
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 405
+	}
+
+	craftsmen=
+	{
+		culture = english
+		religion = protestant
+		size= 2106
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 4676
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 338
+	}
+
+	clerks=
+	{
+		culture = english
+		religion = protestant
+		size= 310
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 94
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 62
+	}
+
+	capitalists=
+	{
+		culture = english
+		religion = protestant
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1164
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 12057
+	}
+
+}
+295 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1197
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 2835
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 205
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 57
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 706
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 57966
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 416
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 4805
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 347
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 96
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1196
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 14964
+	}
+
+}
+296 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 851
+	}
+
+	craftsmen=
+	{
+		culture = english
+		religion = catholic
+		size= 6383
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 851
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 138
+	}
+
+	clerks=
+	{
+		culture = english
+		religion = catholic
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 17
+	}
+
+	capitalists=
+	{
+		culture = english
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 238
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 76476
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 239
+	}
+
+	craftsmen=
+	{
+		culture = english
+		religion = protestant
+		size= 1787
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 3507
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 570
+	}
+
+	clerks=
+	{
+		culture = english
+		religion = protestant
+		size= 397
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 158
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 70
+	}
+
+	capitalists=
+	{
+		culture = english
+		religion = protestant
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 982
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 16005
+	}
+
+}
+297 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 828
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 1864
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 232
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 79719
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 245
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 7796
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 563
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 156
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 970
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 14698
+	}
+
+}
+298 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 869
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 1954
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 39
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 243
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 83600
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 7890
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 570
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 158
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 981
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 12622
+	}
+
+}
+299 = {
+	soldiers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 1026
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = catholic
+		size= 4617
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = catholic
+		size= 667
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 92
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 431
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 95724
+	}
+
+	soldiers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = protestant
+		size= 8573
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = protestant
+		size= 1238
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = protestant
+		size= 171
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = protestant
+		size= 800
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = protestant
+		size= 32659
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 697
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 3137
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 453
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 63
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 293
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 65048
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 164
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 4616
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 667
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 92
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 431
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 10422
+	}
+
+}
+300 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 9440
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 21175
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 1615
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 547
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 298
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 2782
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 459822
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 4113
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 39627
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 3022
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1023
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 558
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 5207
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 160717
+	}
+
+}
+301 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1630
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 1930
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 39
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 81786
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 442
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 7883
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 570
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 157
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 981
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 13113
+	}
+
+}
+302 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1716
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 2032
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 147
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 506
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 85844
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 474
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 8339
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 603
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 167
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 2076
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 13155
+	}
+
+}
+303 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 1262
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 70323
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 210
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 7193
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 1039
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 143
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 896
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 11405
+	}
+
+}
+304 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 184
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 8857
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 296
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 2332
+	}
+
+}
+419 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 159
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 550
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 14990
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size= 1180
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size= 1794
+	}
+
+}

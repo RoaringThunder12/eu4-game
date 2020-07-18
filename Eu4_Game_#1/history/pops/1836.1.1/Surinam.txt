@@ -1,0 +1,137 @@
+2240 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5284
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 414
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 5635
+	}
+
+}
+2245 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 25
+	}
+
+}

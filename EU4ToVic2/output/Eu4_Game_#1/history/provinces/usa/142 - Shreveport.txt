@@ -1,0 +1,5 @@
+owner=SHS
+controller=SHS
+trade_goods = sulphur
+life_rating = 35
+terrain = plains

@@ -1,0 +1,8 @@
+owner=LOT
+controller=LOT
+add_core=FRA
+add_core=LOT
+add_core=OCC
+trade_goods = coal
+life_rating = 30
+terrain = mountain

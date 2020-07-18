@@ -1,0 +1,9 @@
+owner=LOT
+controller=LOT
+add_core=FRA
+add_core=LOT
+add_core=NRM
+add_core=HRE
+trade_goods = fish
+life_rating = 35
+terrain = plains

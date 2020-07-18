@@ -1,0 +1,5 @@
+owner=MLY
+controller=MLY
+trade_goods = sulphur
+life_rating = 30
+terrain = plains

@@ -1,0 +1,6 @@
+owner=SHX
+controller=SHX
+add_core=FOX
+trade_goods = grain
+life_rating = 35
+terrain = plains

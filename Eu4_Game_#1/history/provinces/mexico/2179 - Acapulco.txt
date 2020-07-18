@@ -1,0 +1,7 @@
+owner=OAX
+controller=OAX
+add_core=OAX
+add_core=TLA
+trade_goods = grain
+life_rating = 35
+terrain = plains

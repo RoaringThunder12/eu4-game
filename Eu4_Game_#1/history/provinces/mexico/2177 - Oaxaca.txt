@@ -1,0 +1,7 @@
+owner=GUA
+controller=GUA
+add_core=MIX
+add_core=YOK
+trade_goods = grain
+life_rating = 35
+terrain = mountain

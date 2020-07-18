@@ -1,0 +1,600 @@
+1356 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 1677
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 2985
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 30
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 278
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 54651
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = sunni
+		size= 155
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = sunni
+		size= 2901
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = sunni
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 29
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = sunni
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 271
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = sunni
+		size= 1900
+	}
+
+}
+1357 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 214
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 962
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 10
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 20015
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = sunni
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = sunni
+		size= 1223
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = sunni
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = sunni
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = sunni
+		size= 1423
+	}
+
+}
+1360 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 449
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 801
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 9
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 14673
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = sunni
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = sunni
+		size= 779
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = sunni
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = sunni
+		size= 511
+	}
+
+}
+1361 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 204
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 920
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 9
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 19150
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = sunni
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = sunni
+		size= 1075
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = sunni
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 11
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = sunni
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = sunni
+		size= 434
+	}
+
+}
+1362 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 376
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 753
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 9
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 36205
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = sunni
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = sunni
+		size= 943
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = sunni
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = sunni
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 198
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = sunni
+		size= 3375
+	}
+
+}
+1363 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 268
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 3
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 12901
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = sunni
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = sunni
+		size= 336
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = sunni
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = sunni
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = sunni
+		size= 1202
+	}
+
+}

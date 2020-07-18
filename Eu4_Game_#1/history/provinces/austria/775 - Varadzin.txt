@@ -1,0 +1,10 @@
+owner=BOS
+controller=BOS
+add_core=BOS
+add_core=CLI
+add_core=CRO
+add_core=YUG
+add_core=HRE
+trade_goods = wool
+life_rating = 35
+terrain = hills

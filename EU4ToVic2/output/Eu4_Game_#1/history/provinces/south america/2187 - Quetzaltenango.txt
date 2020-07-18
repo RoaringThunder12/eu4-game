@@ -1,0 +1,8 @@
+owner=XIU
+controller=GUA
+add_core=ITZ
+add_core=KIC
+add_core=XIU
+trade_goods = iron
+life_rating = 30
+terrain = jungle

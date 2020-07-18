@@ -1,0 +1,9 @@
+owner=JML
+controller=JML
+add_core=GHR
+add_core=HND
+add_core=JML
+add_core=SRM
+trade_goods = tea
+life_rating = 32
+terrain = mountain

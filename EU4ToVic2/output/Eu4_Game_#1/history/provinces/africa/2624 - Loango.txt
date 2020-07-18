@@ -1,0 +1,8 @@
+owner=LOT
+controller=LOT
+add_core=KON
+add_core=LOA
+trade_goods = timber
+life_rating = 15
+terrain = jungle
+colonial=2

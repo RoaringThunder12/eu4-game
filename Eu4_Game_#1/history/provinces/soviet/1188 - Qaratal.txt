@@ -1,0 +1,9 @@
+owner=SHY
+controller=SHY
+add_core=CHG
+add_core=KHA
+add_core=MGL
+add_core=ZUN
+trade_goods = fish
+life_rating = 25
+terrain = steppe

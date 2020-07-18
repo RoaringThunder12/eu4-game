@@ -1,0 +1,7 @@
+owner=KTS
+controller=AYR
+add_core=JNN
+add_core=KTS
+trade_goods = grain
+life_rating = 15
+terrain = plains

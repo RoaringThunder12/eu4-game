@@ -1,0 +1,15 @@
+name = "Vijaynagari Conquest of Raipur"
+
+1666.2.13 = {
+	add_attacker = VIJ
+	add_attacker = AND
+	add_defender = BAH
+	add_defender = SRI
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = VIJ
+		receiver = BAH
+		state_province_id = 1280
+	}
+}

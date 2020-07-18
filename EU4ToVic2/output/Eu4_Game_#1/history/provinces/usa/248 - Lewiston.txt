@@ -1,0 +1,6 @@
+owner=POW
+controller=POW
+add_core=POW
+trade_goods = timber
+life_rating = 35
+terrain = forest

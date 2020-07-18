@@ -1,0 +1,14 @@
+owner=LOT
+controller=LOT
+add_core=FRA
+add_core=LOT
+add_core=PRO
+trade_goods = iron
+life_rating = 30
+terrain = plains
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

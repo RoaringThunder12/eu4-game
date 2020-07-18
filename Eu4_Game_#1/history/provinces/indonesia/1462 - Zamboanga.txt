@@ -1,0 +1,8 @@
+owner=MLY
+controller=MLY
+add_core=BTU
+add_core=MGD
+add_core=MNA
+trade_goods = iron
+life_rating = 30
+terrain = hills

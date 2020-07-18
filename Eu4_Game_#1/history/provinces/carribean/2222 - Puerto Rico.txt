@@ -1,0 +1,5 @@
+owner=CRB
+controller=CRB
+trade_goods = cotton
+life_rating = 35
+terrain = hills

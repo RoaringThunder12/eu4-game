@@ -1,0 +1,6 @@
+owner=CHN
+controller=CHN
+add_core=ARP
+trade_goods = coal
+life_rating = 35
+terrain = plains

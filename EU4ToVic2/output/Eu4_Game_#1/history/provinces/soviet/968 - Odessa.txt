@@ -1,0 +1,6 @@
+owner=LIT
+controller=LIT
+trade_goods = fish
+life_rating = 35
+terrain = farmlands
+colonial=2

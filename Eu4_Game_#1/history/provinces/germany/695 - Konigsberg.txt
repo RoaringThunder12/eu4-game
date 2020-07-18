@@ -1,0 +1,7 @@
+owner=POM
+controller=POM
+add_core=GER
+add_core=PRU
+trade_goods = cattle
+life_rating = 40
+terrain = farmlands

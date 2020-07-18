@@ -1,0 +1,69 @@
+#Sphere of Influence
+
+BRZ = {
+	value = 70
+	influence_value = 5
+	level = 3
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CRA = {
+	value = 197
+	influence_value = 36
+	level = 4
+}
+CUA = {
+	value = -33
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+GUA = {
+	value = 0
+	level = 2
+}
+ICM = {
+	value = 138
+	influence_value = 22
+	level = 3
+}
+LOT = {
+	value = -2
+	level = 2
+}
+MCA = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = -1
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+XIU = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Huanchicay Aconquijas"
+	date="1652.8.31"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies

@@ -1,0 +1,385 @@
+1191 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 4203
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1996
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2101
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 341
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 99
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 441
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 43293
+	}
+
+}
+1192 = {
+	slaves=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 3046
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 445
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1781
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 334
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 67
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 374
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 38449
+	}
+
+}
+1196 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 557
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 2227
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 418
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 84
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 468
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 51876
+	}
+
+}
+1198 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2343
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 7423
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1708
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 445
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 187
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1968
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 218261
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1950
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 50
+	}
+
+}
+1199 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1569
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 14124
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1177
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 298
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1318
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 138323
+	}
+
+}
+1200 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 706
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2828
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 530
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 106
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 594
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 65873
+	}
+
+}
+1202 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 800
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 3200
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 600
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 120
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 672
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 74536
+	}
+
+}

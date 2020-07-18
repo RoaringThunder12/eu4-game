@@ -1,0 +1,9 @@
+owner=LBV
+controller=LBV
+add_core=GER
+add_core=LBV
+add_core=SLZ
+add_core=HRE
+trade_goods = grain
+life_rating = 35
+terrain = mountain

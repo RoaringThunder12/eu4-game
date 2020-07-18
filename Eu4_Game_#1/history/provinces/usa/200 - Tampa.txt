@@ -1,0 +1,7 @@
+owner=FLR
+controller=REB
+trade_goods = fruit
+life_rating = 25
+terrain = marsh
+colonial=2
+is_slave = yes

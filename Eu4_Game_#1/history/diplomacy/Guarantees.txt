@@ -1,0 +1,56 @@
+guarantee=
+{
+	first="BRZ"
+	second="CCQ"
+	start_date="1623.8.10"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="BRZ"
+	second="CUA"
+	start_date="1623.8.28"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="HAN"
+	second="X04"
+	start_date="1657.12.6"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="SAX"
+	second="PAL"
+	start_date="1663.6.25"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="SAX"
+	second="BEG"
+	start_date="1663.8.19"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="RUS"
+	second="RIG"
+	start_date="1593.3.28"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="MOR"
+	second="JNN"
+	start_date="1637.11.16"
+	end_date="1936.1.1"
+}
+

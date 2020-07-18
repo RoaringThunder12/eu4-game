@@ -1,0 +1,10 @@
+owner=YEM
+controller=YEM
+add_core=ENA
+add_core=KAF
+add_core=WLY
+add_core=X01
+add_core=YEM
+trade_goods = grain
+life_rating = 30
+terrain = mountain

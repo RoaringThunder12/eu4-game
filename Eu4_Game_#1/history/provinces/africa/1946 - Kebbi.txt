@@ -1,0 +1,7 @@
+owner=ZZZ
+controller=ZZZ
+add_core=HAU
+add_core=ZZZ
+trade_goods = cattle
+life_rating = 35
+terrain = plains

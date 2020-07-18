@@ -1,0 +1,8 @@
+owner=GUA
+controller=GUA
+add_core=GUA
+add_core=ITZ
+add_core=XIU
+trade_goods = timber
+life_rating = 30
+terrain = plains

@@ -1,0 +1,477 @@
+2224 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2564
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 133
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 3668
+	}
+
+	soldiers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 527
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 11
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 50
+	}
+
+}
+2225 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 670
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 1284
+	}
+
+	soldiers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+}
+2226 = {
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1040
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 10
+	}
+
+}
+2227 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2863
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 71
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 142
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 5493
+	}
+
+	soldiers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 605
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 66
+	}
+
+}

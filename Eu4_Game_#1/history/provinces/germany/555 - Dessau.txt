@@ -1,0 +1,10 @@
+owner=SAX
+controller=SAX
+add_core=ANH
+add_core=BRN
+add_core=GER
+add_core=SAX
+add_core=HRE
+trade_goods = fruit
+life_rating = 40
+terrain = plains

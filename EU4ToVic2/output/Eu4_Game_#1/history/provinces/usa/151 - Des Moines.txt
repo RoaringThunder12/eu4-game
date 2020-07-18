@@ -1,0 +1,6 @@
+owner=WIC
+controller=WIC
+add_core=WIC
+trade_goods = grain
+life_rating = 35
+terrain = woods

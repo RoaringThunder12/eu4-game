@@ -1,0 +1,8 @@
+owner=QAR
+controller=YEM
+add_core=PER
+add_core=QAR
+add_core=X05
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

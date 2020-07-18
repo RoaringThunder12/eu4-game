@@ -1,0 +1,72 @@
+#Sphere of Influence
+
+BRZ = {
+	value = 0
+	level = 2
+}
+CCQ = {
+	value = 240
+	influence_value = 47
+	level = 4
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CRA = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = -79
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = -63
+	level = 2
+}
+GUA = {
+	value = 0
+	level = 2
+}
+ICM = {
+	value = 147
+	influence_value = 24
+	level = 3
+}
+LOT = {
+	value = -2
+	level = 2
+}
+MCA = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = -1
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+XIU = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Colla Capac Apaza"
+	date="1647.12.1"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+
+#Armies

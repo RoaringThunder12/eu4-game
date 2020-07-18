@@ -1,0 +1,175 @@
+#Sphere of Influence
+
+ABE = {
+	value = 0
+	level = 2
+}
+APA = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 49
+	level = 2
+}
+BLA = {
+	value = 49
+	level = 2
+}
+CAD = {
+	value = 0
+	level = 2
+}
+CHN = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+CNK = {
+	value = 0
+	level = 2
+}
+COM = {
+	value = 26
+	level = 2
+}
+CRK = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GAM = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HST = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+KER = {
+	value = 0
+	level = 2
+}
+KIO = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+LOT = {
+	value = -2
+	level = 2
+}
+LOU = {
+	value = -9
+	level = 2
+}
+MHC = {
+	value = 0
+	level = 2
+}
+MMI = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 49
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+OTT = {
+	value = 56
+	influence_value = 1
+	level = 2
+}
+PAW = {
+	value = 0
+	level = 2
+}
+PEQ = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+POW = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = -1
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SHS = {
+	value = 0
+	level = 2
+}
+SHX = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WIC = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+YAQ = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZNI = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

@@ -1,0 +1,6 @@
+owner=MLY
+controller=MLY
+add_core=MLY
+trade_goods = tobacco
+life_rating = 30
+terrain = mountain

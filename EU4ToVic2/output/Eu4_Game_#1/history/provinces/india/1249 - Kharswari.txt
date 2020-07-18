@@ -1,0 +1,9 @@
+owner=JNP
+controller=JNP
+add_core=BAH
+add_core=HND
+add_core=JNP
+add_core=NGP
+trade_goods = coal
+life_rating = 28
+terrain = plains

@@ -1,0 +1,7 @@
+owner=QAR
+controller=TUR
+add_core=AZB
+add_core=QAR
+trade_goods = timber
+life_rating = 35
+terrain = hills

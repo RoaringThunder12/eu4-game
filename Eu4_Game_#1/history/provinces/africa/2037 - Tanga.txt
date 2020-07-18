@@ -1,0 +1,9 @@
+owner=AJU
+controller=AJU
+add_core=AJU
+add_core=MBA
+add_core=ML1
+add_core=SWA
+trade_goods = grain
+life_rating = 35
+terrain = plains

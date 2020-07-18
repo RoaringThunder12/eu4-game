@@ -1,0 +1,9 @@
+owner=LOT
+controller=LOT
+add_core=FRA
+add_core=GYN
+add_core=LOT
+add_core=OCC
+trade_goods = grain
+life_rating = 31
+terrain = plains

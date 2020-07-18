@@ -1,0 +1,8 @@
+owner=QAR
+controller=YEM
+add_core=PER
+add_core=QAR
+add_core=TAB
+trade_goods = cotton
+life_rating = 35
+terrain = hills

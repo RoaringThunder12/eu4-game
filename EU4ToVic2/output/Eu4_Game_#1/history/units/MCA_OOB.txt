@@ -1,0 +1,60 @@
+#Sphere of Influence
+
+BRZ = {
+	value = 0
+	level = 2
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CRA = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 69
+	influence_value = 4
+	level = 2
+}
+GUA = {
+	value = 0
+	level = 2
+}
+ICM = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = -2
+	level = 2
+}
+MCA = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = -1
+	level = 2
+}
+QTO = {
+	value = 202
+	influence_value = 38
+	level = 4
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+XIU = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

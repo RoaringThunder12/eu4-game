@@ -1,0 +1,10 @@
+owner=HOL
+controller=HOL
+add_core=DTT
+add_core=GER
+add_core=HOL
+add_core=HRE
+trade_goods = fish
+life_rating = 35
+terrain = plains
+naval_base = 1

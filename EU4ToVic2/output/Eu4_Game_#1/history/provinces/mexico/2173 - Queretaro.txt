@@ -1,0 +1,8 @@
+owner=TOT
+controller=HST
+add_core=AZT
+add_core=TLX
+add_core=TOT
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

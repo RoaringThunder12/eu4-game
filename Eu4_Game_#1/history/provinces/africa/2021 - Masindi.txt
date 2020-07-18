@@ -1,0 +1,6 @@
+owner=BSG
+controller=REB
+add_core=BSG
+trade_goods = coffee
+life_rating = 15
+terrain = plains

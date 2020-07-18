@@ -1,0 +1,6 @@
+owner=KIO
+controller=KIO
+add_core=KIO
+trade_goods = coal
+life_rating = 35
+terrain = steppe

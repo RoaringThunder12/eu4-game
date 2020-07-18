@@ -1,0 +1,6 @@
+owner=CHN
+controller=CHN
+add_core=LPN
+trade_goods = grain
+life_rating = 35
+terrain = woods

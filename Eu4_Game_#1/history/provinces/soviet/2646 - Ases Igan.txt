@@ -1,0 +1,6 @@
+owner=SHY
+controller=SHY
+add_core=UGR
+trade_goods = coal
+life_rating = 15
+terrain = arctic

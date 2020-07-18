@@ -1,0 +1,7 @@
+owner=MCA
+controller=MCA
+add_core=MCA
+add_core=TRO
+trade_goods = coal
+life_rating = 30
+terrain = mountain

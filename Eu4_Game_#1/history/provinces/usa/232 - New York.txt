@@ -1,0 +1,13 @@
+owner=USA
+controller=USA
+add_core=SUS
+add_core=USA
+trade_goods = grain
+life_rating = 50
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

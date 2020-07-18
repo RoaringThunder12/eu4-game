@@ -1,0 +1,46 @@
+2244 = {
+	farmers=
+	{
+		culture = malay
+		religion = sunni
+		size= 15
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = thai
+		religion = sunni
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = sunni
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = thai
+		religion = sunni
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = sunni
+		size= 106
+	}
+
+}

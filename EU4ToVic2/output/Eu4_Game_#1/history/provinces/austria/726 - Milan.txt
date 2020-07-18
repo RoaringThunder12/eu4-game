@@ -1,0 +1,13 @@
+owner=LOM
+controller=LOM
+add_core=ITA
+add_core=LOM
+trade_goods = iron
+life_rating = 35
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

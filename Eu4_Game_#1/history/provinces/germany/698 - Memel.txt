@@ -1,0 +1,21 @@
+owner=TEU
+controller=TEU
+add_core=LIT
+add_core=PLC
+add_core=TEU
+add_core=HRE
+trade_goods = fish
+life_rating = 40
+terrain = plains
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

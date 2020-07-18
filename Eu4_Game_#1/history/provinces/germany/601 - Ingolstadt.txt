@@ -1,0 +1,8 @@
+owner=LBV
+controller=DWT
+add_core=GER
+add_core=LBV
+add_core=HRE
+trade_goods = grain
+life_rating = 40
+terrain = farmlands

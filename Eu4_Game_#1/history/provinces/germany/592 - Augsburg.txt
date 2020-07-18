@@ -1,0 +1,9 @@
+owner=ULM
+controller=MEM
+add_core=AUG
+add_core=GER
+add_core=ULM
+add_core=HRE
+trade_goods = cattle
+life_rating = 40
+terrain = hills

@@ -1,0 +1,7 @@
+owner=KZN
+controller=KZN
+add_core=DKU
+add_core=GRH
+trade_goods = silk
+life_rating = 35
+terrain = steppe

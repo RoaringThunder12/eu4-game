@@ -1,0 +1,10 @@
+owner=JML
+controller=JML
+add_core=GRK
+add_core=HND
+add_core=JML
+add_core=MKP
+add_core=TRT
+trade_goods = opium
+life_rating = 32
+terrain = plains

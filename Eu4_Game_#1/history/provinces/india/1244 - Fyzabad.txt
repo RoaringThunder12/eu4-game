@@ -1,0 +1,9 @@
+owner=DLH
+controller=DLH
+add_core=AWA
+add_core=DLH
+add_core=HND
+add_core=JNP
+trade_goods = timber
+life_rating = 32
+terrain = plains

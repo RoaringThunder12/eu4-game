@@ -1,0 +1,9 @@
+owner=POR
+controller=POR
+add_core=CST
+add_core=POR
+add_core=SPA
+add_core=X03
+trade_goods = coal
+life_rating = 35
+terrain = woods
