@@ -1,6 +1,0 @@
-F:\SteamLibrary\steamapps\common\RimWorld\Mods\Yayo Combat\lt_source\obj\Debug\yayoCombat.csprojAssemblyReference.cache
-F:\SteamLibrary\steamapps\common\RimWorld\Mods\Yayo Combat\lt_source\obj\Debug\yayoCombat.csproj.CoreCompileInputs.cache
-F:\SteamLibrary\steamapps\common\RimWorld\Mods\Yayo Combat\Assemblies\yayoCombat.dll
-F:\SteamLibrary\steamapps\common\RimWorld\Mods\Yayo Combat\Assemblies\yayoCombat.pdb
-F:\SteamLibrary\steamapps\common\RimWorld\Mods\Yayo Combat\lt_source\obj\Debug\yayoCombat.dll
-F:\SteamLibrary\steamapps\common\RimWorld\Mods\Yayo Combat\lt_source\obj\Debug\yayoCombat.pdb
